@@ -1,0 +1,45 @@
+name: Sync public catalog
+
+on:
+  schedule:
+    - cron: '15 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: public-catalog-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch and validate catalog; rebuild index
+        run: python3 scripts/build_index.py
+
+      - name: Commit catalog changes
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add -- data/catalog.json docs/CATALOG.md
+          if git diff --cached --quiet; then
+            echo 'Catalog is unchanged.'
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' \
+              -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+              commit -m 'Sync public FinSkillHub catalog'
+          git push origin HEAD:main

@@ -2,6 +2,8 @@
 
 Issues and pull requests are welcome for corrections to skill descriptions, provenance, installation notes, or license references.
 
+The catalog and generated index are synced daily from `https://finskillhub.com/data/catalog.json`. The sync checks the catalog structure and requires skill and repository links to use public `https://github.com/` URLs before replacing the files. Please correct catalog metadata at its source; do not hand-edit `data/catalog.json` or `docs/CATALOG.md` here.
+
 For a new catalog entry, include:
 
 - The upstream repository, immutable commit, and exact skill-file path.
