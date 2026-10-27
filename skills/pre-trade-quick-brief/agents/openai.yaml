@@ -1,0 +1,7 @@
+interface:
+  display_name: "新股票快速初步研究"
+  short_description: "快速看清新股票叙事变化、业绩天花板、前瞻估值与下一步验证"
+  default_prompt: "Use $pre-trade-quick-brief 为这只尚未研究的股票做快速初筛，说明当前叙事、业绩天花板、前瞻估值及下一验证。"
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,44 @@
+name: Tool or data partnership request
+description: Suggest a finance or research tool for independent review.
+title: "Partnership review: "
+body:
+  - type: markdown
+    attributes:
+      value: >
+        Submissions are suggestions, not endorsements. We will review public information and disclose any paid sponsorship. Editorial decisions remain independent.
+  - type: input
+    id: tool
+    attributes:
+      label: Tool or service name
+      description: Do not include credentials or private access links.
+      placeholder: Public product name
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Public website
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: textarea
+    id: research_use
+    attributes:
+      label: Finance research use case
+      description: What task does it support, and what evidence can we review?
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Public contact or organization
+      description: Optional. Do not post sensitive personal information.
+    validations:
+      required: false
+  - type: checkboxes
+    id: disclosure
+    attributes:
+      label: Disclosure
+      options:
+        - label: I understand that a submission does not imply a partnership, listing, or endorsement.
+          required: true

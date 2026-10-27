@@ -1,0 +1,4 @@
+interface:
+  display_name: "增量业务收入与利润测算"
+  short_description: "从容量、用户或交易行为推导增量收入、利润与EPS并校验假设口径"
+  default_prompt: "使用 $incremental-business-sizing 将这项新业务机会拆成可复算的收入、利润和 EPS 情景。"

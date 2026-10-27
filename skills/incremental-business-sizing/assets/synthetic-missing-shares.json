@@ -1,0 +1,190 @@
+{
+  "schema_version": "incremental-sizing-spec/v1",
+  "title": "股数缺失的合成演示",
+  "period": "FY2030E",
+  "currency": "USD",
+  "scenarios": [
+    {
+      "id": "bear",
+      "label": "谨慎"
+    },
+    {
+      "id": "base",
+      "label": "基准"
+    },
+    {
+      "id": "bull",
+      "label": "乐观"
+    }
+  ],
+  "rows": [
+    {
+      "id": "capacity",
+      "label": "可售数量",
+      "unit": "units",
+      "format": "integer",
+      "role": "input",
+      "key": false,
+      "evidence": "Original synthetic example",
+      "comment": "合成演示假设或公式",
+      "values": {
+        "bear": 80,
+        "base": 100,
+        "bull": 120
+      }
+    },
+    {
+      "id": "price",
+      "label": "单位价格",
+      "unit": "USD/unit",
+      "format": "money:1",
+      "role": "input",
+      "key": false,
+      "evidence": "Original synthetic example",
+      "comment": "合成演示假设或公式",
+      "values": {
+        "bear": 15,
+        "base": 20,
+        "bull": 25
+      }
+    },
+    {
+      "id": "revenue",
+      "label": "收入",
+      "unit": "USD",
+      "format": "money:1",
+      "role": "calculation",
+      "key": true,
+      "evidence": "Original synthetic example",
+      "comment": "合成演示假设或公式",
+      "expression": "capacity * price"
+    },
+    {
+      "id": "margin",
+      "label": "经营利润率",
+      "unit": "ratio",
+      "format": "percent:1",
+      "role": "input",
+      "key": false,
+      "evidence": "Original synthetic example",
+      "comment": "合成演示假设或公式",
+      "values": {
+        "bear": 0.2,
+        "base": 0.25,
+        "bull": 0.3
+      }
+    },
+    {
+      "id": "operating_income",
+      "label": "经营利润",
+      "unit": "USD",
+      "format": "money:1",
+      "role": "calculation",
+      "key": true,
+      "evidence": "Original synthetic example",
+      "comment": "合成演示假设或公式",
+      "expression": "revenue * margin"
+    },
+    {
+      "id": "tax",
+      "label": "税率",
+      "unit": "ratio",
+      "format": "percent:1",
+      "role": "input",
+      "key": false,
+      "evidence": "Original synthetic example",
+      "comment": "合成演示假设或公式",
+      "values": {
+        "bear": 0.2,
+        "base": 0.2,
+        "bull": 0.2
+      }
+    },
+    {
+      "id": "net_income",
+      "label": "净利润",
+      "unit": "USD",
+      "format": "money:1",
+      "role": "calculation",
+      "key": true,
+      "evidence": "Original synthetic example",
+      "comment": "合成演示假设或公式",
+      "expression": "operating_income * (1 - tax)"
+    },
+    {
+      "id": "shares",
+      "label": "摊薄股数",
+      "unit": "shares",
+      "format": "integer",
+      "role": "input",
+      "key": false,
+      "evidence": "Original synthetic example",
+      "comment": "合成演示假设或公式",
+      "values": {
+        "bear": 100,
+        "base": null,
+        "bull": 100
+      }
+    },
+    {
+      "id": "eps",
+      "label": "每股收益",
+      "unit": "USD/share",
+      "format": "eps:2",
+      "role": "calculation",
+      "key": true,
+      "evidence": "Original synthetic example",
+      "comment": "合成演示假设或公式",
+      "expression": "net_income / shares"
+    }
+  ],
+  "required_results": [
+    "revenue",
+    "operating_income",
+    "net_income",
+    "eps"
+  ],
+  "sensitivities": [
+    {
+      "id": "revenue",
+      "title": "数量与价格对收入的影响",
+      "scenario_id": "base",
+      "output_id": "revenue",
+      "format": "money:1",
+      "output_unit": "USD",
+      "row_axis": {
+        "row_id": "capacity",
+        "label": "可售数量",
+        "unit": "units",
+        "values": [
+          80,
+          100,
+          120
+        ]
+      },
+      "column_axis": {
+        "row_id": "price",
+        "label": "单位价格",
+        "unit": "USD/unit",
+        "values": [
+          15,
+          20,
+          25
+        ]
+      },
+      "fixed_assumptions": [
+        "每个情景的其他输入固定"
+      ],
+      "footnote": "原创合成数据，仅演示敏感性计算。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "synthetic",
+      "citation": "Original synthetic example for AlphaKit; no external company or report data"
+    }
+  ],
+  "footnotes": [
+    "所有输入都是原创合成数据，仅演示计算接口。"
+  ]
+}

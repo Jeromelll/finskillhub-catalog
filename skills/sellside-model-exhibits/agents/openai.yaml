@@ -1,0 +1,4 @@
+interface:
+  display_name: "卖方测算表与敏感性矩阵"
+  short_description: "将同一份计算结果制作成清楚的计算桥、三情景表和双变量敏感性表"
+  default_prompt: "使用 $sellside-model-exhibits 将这份测算结果制作成可复核的卖方风格表格。"

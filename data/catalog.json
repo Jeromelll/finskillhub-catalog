@@ -1,0 +1,64 @@
+{
+  "name": "FinSkillHub Public Catalog",
+  "license": "MIT",
+  "repository": "https://github.com/Jeromelll/finskillhub-catalog",
+  "skills": [
+    {
+      "id": "incremental-business-sizing",
+      "name": "Incremental business revenue and profit sizing",
+      "nameZh": "增量业务收入与利润测算",
+      "author": "Jeromelll",
+      "license": "MIT",
+      "summary": "Builds a reproducible revenue, profit, and EPS driver chain from capacity, user activity, subscriptions, or transaction volume while preserving missing inputs.",
+      "inputs": ["Subject, currency, forecast period, and scenarios", "JSON assumptions with units, sources, bounds, and formulas", "Sensitivity axes and fixed assumptions"],
+      "outputs": ["Scenario revenue, profit, and EPS where supported", "Two-input sensitivity matrix", "Diagnostics for missing inputs and reconciliation differences"],
+      "dependencies": ["Python standard library"],
+      "executionVerified": false,
+      "path": "skills/incremental-business-sizing",
+      "upstream": {
+        "repository": "https://github.com/Jeromelll/FinSkillHub",
+        "commit": "2f669885632141f367de7bb5e4d0b951f72cfe2d",
+        "sourcePath": "skills/incremental-business-sizing/SKILL.md",
+        "licensePath": "skills/incremental-business-sizing/LICENSE"
+      }
+    },
+    {
+      "id": "sellside-model-exhibits",
+      "name": "Financial model exhibits and sensitivity tables",
+      "nameZh": "测算表与敏感性矩阵",
+      "author": "Jeromelll",
+      "license": "MIT",
+      "summary": "Presents completed calculations as bridges, scenario tables, and two-variable sensitivities with units, periods, sources, and assumptions visible.",
+      "inputs": ["A completed results JSON with calculation outputs and metadata"],
+      "outputs": ["HTML, PNG, Excel, audit XML, and document-ready table fragments"],
+      "dependencies": ["Python", "Pillow", "openpyxl", "A suitable system font"],
+      "executionVerified": false,
+      "path": "skills/sellside-model-exhibits",
+      "upstream": {
+        "repository": "https://github.com/Jeromelll/FinSkillHub",
+        "commit": "2f669885632141f367de7bb5e4d0b951f72cfe2d",
+        "sourcePath": "skills/sellside-model-exhibits/SKILL.md",
+        "licensePath": "skills/sellside-model-exhibits/LICENSE"
+      }
+    },
+    {
+      "id": "pre-trade-quick-brief",
+      "name": "Quick initial research for a new stock",
+      "nameZh": "新股票快速初步研究",
+      "author": "Jeromelll",
+      "license": "MIT",
+      "summary": "Structures an initial stock review around the current narrative, changed operating variables, constrained earnings capacity, forward valuation, and disconfirming evidence.",
+      "inputs": ["Company, ticker, share class, or theme", "Dated narrative, events, and market context", "Prior forecasts, disclosures, and sourced assumptions"],
+      "outputs": ["Concise initial view and narrative-change table", "Near-term and future earnings windows", "Valuation evidence, sensitivities, and disconfirming evidence"],
+      "dependencies": ["A host that supports custom SKILL.md packages", "User-authorized evidence sources"],
+      "executionVerified": false,
+      "path": "skills/pre-trade-quick-brief",
+      "upstream": {
+        "repository": "https://github.com/Jeromelll/FinSkillHub",
+        "commit": "2f669885632141f367de7bb5e4d0b951f72cfe2d",
+        "sourcePath": "skills/pre-trade-quick-brief/SKILL.md",
+        "licensePath": "skills/pre-trade-quick-brief/LICENSE"
+      }
+    }
+  ]
+}

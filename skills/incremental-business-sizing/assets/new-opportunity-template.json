@@ -1,0 +1,144 @@
+{
+  "schema_version": "incremental-sizing-spec/v1",
+  "title": "新业务增量测算（填写对象）",
+  "period": "填写预测年度与收入确认期间",
+  "currency": "填写币种",
+  "scenarios": [
+    {
+      "id": "base",
+      "label": "基准情景"
+    }
+  ],
+  "rows": [
+    {
+      "id": "revenue_section",
+      "label": "业务量价与商业化",
+      "unit": "",
+      "format": "decimal:1",
+      "role": "section",
+      "key": false,
+      "indent": 0,
+      "comment": "",
+      "evidence": ""
+    },
+    {
+      "id": "units",
+      "label": "可计费业务量",
+      "unit": "填写业务量单位",
+      "format": "integer",
+      "role": "input",
+      "key": false,
+      "indent": 0,
+      "comment": "填写对象、期间、去重规则和来源",
+      "evidence": "",
+      "value": null
+    },
+    {
+      "id": "unit_price",
+      "label": "同期单位收入",
+      "unit": "填写币种/量/期间",
+      "format": "money:2",
+      "role": "input",
+      "key": false,
+      "indent": 0,
+      "comment": "填写毛额/净额、价格与抽佣口径",
+      "evidence": "",
+      "value": null
+    },
+    {
+      "id": "revenue",
+      "label": "＝ 增量收入",
+      "unit": "填写币种单位",
+      "format": "money:1",
+      "role": "calculation",
+      "key": true,
+      "indent": 0,
+      "comment": "",
+      "evidence": "",
+      "expression": "units*unit_price"
+    },
+    {
+      "id": "profit_section",
+      "label": "盈利桥",
+      "unit": "",
+      "format": "decimal:1",
+      "role": "section",
+      "key": false,
+      "indent": 0,
+      "comment": "",
+      "evidence": ""
+    },
+    {
+      "id": "oi_margin",
+      "label": "× 增量经营利润率",
+      "unit": "ratio",
+      "format": "percent:1",
+      "role": "input",
+      "key": false,
+      "indent": 0,
+      "comment": "明确推理、人工、折旧、研发、分成等成本边界",
+      "evidence": "",
+      "value": null
+    },
+    {
+      "id": "incremental_oi",
+      "label": "＝ 增量经营利润",
+      "unit": "填写币种单位",
+      "format": "money:1",
+      "role": "calculation",
+      "key": true,
+      "indent": 0,
+      "comment": "",
+      "evidence": "",
+      "expression": "revenue*oi_margin"
+    },
+    {
+      "id": "tax_rate",
+      "label": "× 有效税率",
+      "unit": "ratio",
+      "format": "percent:1",
+      "role": "input",
+      "key": false,
+      "indent": 0,
+      "comment": "",
+      "evidence": "",
+      "value": null,
+      "min": 0,
+      "max": 1
+    },
+    {
+      "id": "shares",
+      "label": "÷ 同期摊薄股数",
+      "unit": "与币种金额匹配的股数单位",
+      "format": "integer",
+      "role": "input",
+      "key": false,
+      "indent": 0,
+      "comment": "",
+      "evidence": "",
+      "value": null
+    },
+    {
+      "id": "incremental_eps",
+      "label": "＝ 增量 EPS",
+      "unit": "填写币种/股",
+      "format": "eps:2",
+      "role": "calculation",
+      "key": true,
+      "indent": 0,
+      "comment": "",
+      "evidence": "",
+      "expression": "incremental_oi*(1-tax_rate)/shares"
+    }
+  ],
+  "required_results": [
+    "revenue",
+    "incremental_oi",
+    "incremental_eps"
+  ],
+  "footnotes": [
+    "空参数是待研究缺口，不是零；先确定收费对象、期间、单位和成本边界，再输入。"
+  ],
+  "sources": [],
+  "sensitivities": []
+}
