@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26",
+  "updatedAt": "2026-10-28",
   "skills": [
     {
       "id": "equity-earnings-update",
@@ -5635,9 +5635,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "c92aefd47d9826e15bbe379bb704e406b7785c16",
+      "commit": "7401daf2c88aa253828a16d222beed44d1d36047",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/c92aefd47d9826e15bbe379bb704e406b7785c16/skills/incremental-business-sizing/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/7401daf2c88aa253828a16d222beed44d1d36047/skills/incremental-business-sizing/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "incremental-business-sizing",
@@ -5646,7 +5646,7 @@
       "nameEn": "Incremental business revenue and profit sizing",
       "category": "research",
       "sourcePath": "skills/incremental-business-sizing/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/c92aefd47d9826e15bbe379bb704e406b7785c16/skills/incremental-business-sizing/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/7401daf2c88aa253828a16d222beed44d1d36047/skills/incremental-business-sizing/SKILL.md",
       "summary": "把产能、用户行为、订阅或交易额拆成可复算的收入、利润与 EPS 驱动链，保留缺失参数并用同一模型制作情景和敏感性分析。",
       "summaryEn": "Builds reproducible revenue, profit and EPS drivers from capacity, user activity, subscriptions or transaction volume. Preserves missing inputs and uses one model for scenarios and sensitivities.",
       "method": "先界定收费对象、资源和时间约束，为参数标明单位、期间及来源，再按依赖图计算各情景；两个敏感性轴替换同一模型中的指定输入。",
@@ -5705,9 +5705,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "c92aefd47d9826e15bbe379bb704e406b7785c16",
+      "commit": "7401daf2c88aa253828a16d222beed44d1d36047",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/c92aefd47d9826e15bbe379bb704e406b7785c16/skills/sellside-model-exhibits/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/7401daf2c88aa253828a16d222beed44d1d36047/skills/sellside-model-exhibits/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "sellside-model-exhibits",
@@ -5716,7 +5716,7 @@
       "nameEn": "Financial model exhibits and sensitivity tables",
       "category": "operations",
       "sourcePath": "skills/sellside-model-exhibits/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/c92aefd47d9826e15bbe379bb704e406b7785c16/skills/sellside-model-exhibits/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/7401daf2c88aa253828a16d222beed44d1d36047/skills/sellside-model-exhibits/SKILL.md",
       "summary": "把同一份已完成测算制作成计算桥、情景表和敏感性矩阵，保留单位、年份、来源和未知值，输出文档、图片与公式工作簿。",
       "summaryEn": "Turns one completed model result into a calculation bridge, scenario table and sensitivity matrices. Retains units, periods, sources and unknown values, and exports documents, images and formula workbooks.",
       "method": "读取版本化计算结果，根据角色、表达式和状态排版；各格式共享同一数值来源，公式仅绑定到同一情景中的有效输入。",
@@ -5777,9 +5777,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "c92aefd47d9826e15bbe379bb704e406b7785c16",
+      "commit": "7401daf2c88aa253828a16d222beed44d1d36047",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/c92aefd47d9826e15bbe379bb704e406b7785c16/skills/pre-trade-quick-brief/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/7401daf2c88aa253828a16d222beed44d1d36047/skills/pre-trade-quick-brief/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "pre-trade-quick-brief",
@@ -5788,7 +5788,7 @@
       "nameEn": "Quick initial research for a new stock",
       "category": "research",
       "sourcePath": "skills/pre-trade-quick-brief/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/c92aefd47d9826e15bbe379bb704e406b7785c16/skills/pre-trade-quick-brief/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/7401daf2c88aa253828a16d222beed44d1d36047/skills/pre-trade-quick-brief/SKILL.md",
       "summary": "先解释市场叙事与新增经营变量，再拆出受约束的业绩上限、三个盈利时间窗、前瞻估值和下一验证点，保留资料缺口。",
       "summaryEn": "Explains the market narrative and new operating variables, then develops a constrained earnings ceiling, three earnings windows, forward valuation conditions and the next verification point while preserving evidence gaps.",
       "method": "冻结信息时点，建立旧预期到新参数的证据链，核对需求、供给、期间、成本及融资稀释，并把当前价值和远期条件终值分开。",
@@ -8551,11 +8551,247 @@
       "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
       "sourceVerified": true,
       "executionVerified": false
+    },
+    {
+      "methodEn": "Four-step process: (1) map dollar liquidity and policy backdrop; (2) check crypto leverage/funding and risk appetite; (3) decide risk-on, neutral, or risk-off posture; (4) express via BTC/ETH/beta with explicit invalidation. Output includes verdict, thesis, evidence, risks, action plan, invalidation, and missing data.",
+      "environment": "Questflow 风格的 agent 工作流中作为加密判断模块使用；需要用户提供的资产背景、价格/链上/流动性数据、时间期限与风险约束。",
+      "outputsEn": [
+        "Risk appetite verdict (Risk-On/Neutral/Risk-Off)",
+        "Thesis and evidence",
+        "Risks and invalidation conditions",
+        "Action plan and missing data list"
+      ],
+      "tags": [
+        "加密宏观",
+        "美元流动性",
+        "资金费率",
+        "风险偏好",
+        "周期分析"
+      ],
+      "inputs": [
+        "资产、代币、协议或市场背景",
+        "价格、链上、流动性或研究数据",
+        "时间期限与风险约束",
+        "若涉及仓位则需组合背景"
+      ],
+      "nameEn": "Arthur Hayes-Style Liquidity Analysis",
+      "evidenceQuotes": [
+        "1. Map dollar liquidity and policy backdrop.\n2. Check crypto leverage/funding and risk appetite.\n3. Decide risk-on, neutral, or risk-off posture.",
+        "Use when evaluating crypto markets through an Arthur Hayes-style liquidity lens: dollar liquidity, funding, risk appetite"
+      ],
+      "category": "macro",
+      "tagsEn": [
+        "crypto macro",
+        "dollar liquidity",
+        "funding rates",
+        "risk appetite",
+        "cycle analysis"
+      ],
+      "exampleEn": "A user asks about BTC macro regime: analyze current dollar liquidity and funding rates, judge neutral-to-risk-off, recommend reducing beta exposure, and set invalidation if funding turns positive alongside expanding liquidity.",
+      "outputs": [
+        "风险偏好结论（Risk-On/Neutral/Risk-Off）",
+        "论点与证据",
+        "风险与失效条件",
+        "行动计划与缺失数据清单"
+      ],
+      "notesEn": "This is a repository-author Hayes-style framework, not an official investor-endorsed skill. Source-checked but execution-unverified; not financial advice and no return guarantees. The skill explicitly declines use when critical data is missing, and missing data must be reported as an explicit data gap.",
+      "notes": "这是仓库作者构建的海耶斯风格框架，并非投资者本人认可的官方技能。已做来源核查但未执行验证；非投资建议，不承诺收益。该技能明确要求在关键数据缺失时停止使用，缺失数据须作为数据缺口显式报告。",
+      "summaryEn": "A macro-cycle crypto framework centered on dollar liquidity, leverage/funding conditions, and risk appetite, outputting a risk posture with invalidation-based positioning.",
+      "example": "用户询问 BTC 宏观状态：分析当前美元流动性与资金费率，判定为中性偏 risk-off，建议降低贝塔敞口，设定若资金费率转正且流动性扩张则重新评估的失效条件。",
+      "inputsEn": [
+        "Asset, token, protocol, sector, or market context",
+        "Relevant price, on-chain, liquidity, research, or adoption data",
+        "Time horizon and risk constraints",
+        "Portfolio context if sizing is requested"
+      ],
+      "name": "亚瑟·海耶斯式流动性分析",
+      "dependenciesEn": [
+        "User-supplied liquidity and funding data",
+        "Questflow-style agent workflow (optional)"
+      ],
+      "summary": "以美元流动性、加密杠杆/资金费率与风险偏好为核心的宏观周期判断框架，输出风险偏好姿态与带失效条件的仓位方案。",
+      "dependencies": [
+        "用户提供的流动性与资金数据",
+        "Questflow 风格 agent 工作流（可选）"
+      ],
+      "method": "按四步流程执行：(1) 梳理美元流动性与政策背景；(2) 检查加密杠杆/资金费率与风险偏好；(3) 判定 risk-on、中性或 risk-off 姿态；(4) 通过 BTC/ETH/贝塔表达观点并明确失效条件。输出含结论、论点、证据、风险、行动计划、失效条件与缺失数据清单。",
+      "environmentEn": "Used as a crypto judgment module inside Questflow-style agent workflows; requires user-supplied asset context, price/on-chain/liquidity data, time horizon, and risk constraints.",
+      "id": "skill-ded39058aa043103",
+      "author": "questflowai",
+      "originalName": "arthur-hayes-liquidity",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/arthur-hayes-liquidity/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/arthur-hayes-liquidity/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "methodEn": "A six-step process: judge whether the business is understandable; assess moat durability and reinvestment runway; review management integrity and capital allocation; estimate a conservative intrinsic value range; require a margin of safety before any buy verdict; define thesis invalidation triggers and monitoring metrics. Explicitly forbids equating cheap multiples with value and requires a Too Hard label when the business cannot be understood.",
+      "environment": "使用大语言模型分析会话即可；无需特殊软件，但需使用者提供财报数据与市场数据。",
+      "outputsEn": [
+        "Verdict (Buy / Watchlist / Pass / Too Hard)",
+        "One-line thesis",
+        "Business quality and management assessment",
+        "Intrinsic value range and margin of safety",
+        "Main risks, invalidation triggers, and missing-data list"
+      ],
+      "tags": [
+        "价值投资",
+        "护城河",
+        "内在价值",
+        "安全边际",
+        "股票承审"
+      ],
+      "inputs": [
+        "公司名称、代码与业务描述",
+        "10-K/10-Q数据、所有者盈余或自由现金流、ROIC、利润率、负债",
+        "管理层与资本配置历史",
+        "当前股价、股本、净现金/净负债",
+        "保守估值假设"
+      ],
+      "nameEn": "Buffett-Style Durable Compounder Underwriting",
+      "evidenceQuotes": [
+        "buy understandable, durable businesses with strong economics and honest managers at prices below conservative intrinsic value",
+        "Do not confuse cheap multiples with value."
+      ],
+      "category": "valuation",
+      "tagsEn": [
+        "value investing",
+        "moat",
+        "intrinsic value",
+        "margin of safety",
+        "equity underwriting"
+      ],
+      "exampleEn": "Given a consumer brand's five years of 10-K data: sustained ROIC above 15%, positive net cash, and a sound buyback record, the process yields an intrinsic value range, margin-of-safety percentage at the current price, key risks, invalidation triggers, and a Watchlist verdict because price sits above the range's lower bound.",
+      "outputs": [
+        "判定结论（买/观望/放弃/太难）",
+        "一句话论点",
+        "业务质量与管理层评估",
+        "内在价值区间与安全边际",
+        "主要风险、论点失效触发条件与缺失数据清单"
+      ],
+      "notesEn": "Source-checked but execution-unverified. This is a repository-author framework in a Buffett style, not an official skill endorsed by Warren Buffett; verdicts are research references, not investment advice. Missing filings must be treated as an explicit data gap per the skill's own rules, not as analyzable material.",
+      "notes": "来源已核对，未执行验证。这是仓库作者的巴菲特风格分析框架，非沃伦·巴菲特本人认可的官方技能；判定为研究参考，不构成投资建议。缺少数年报数据时按技能规则应视为数据缺口而非可分析对象。",
+      "summaryEn": "Applies a Buffett-style ownership analysis covering understandability, moat, owner earnings, management capital allocation, conservative intrinsic value range, and margin of safety, producing Buy/Watchlist/Pass/Too Hard verdicts.",
+      "example": "输入某消费品牌公司及其近五年10-K数据：ROIC持续高于15%，净现金为正，管理层回购记录良好。流程给出内在价值区间、当前价格的安全边际百分比、主要风险与论点失效触发条件，判定为 Watchlist（价格高于区间下沿）。",
+      "inputsEn": [
+        "Company, ticker, and business description",
+        "10-K/10-Q data, owner earnings or free cash flow, ROIC, margins, debt",
+        "Management and capital allocation history",
+        "Current price, shares outstanding, net cash/debt",
+        "Conservative valuation assumptions"
+      ],
+      "name": "巴菲特式长期复利股承审",
+      "dependenciesEn": [
+        "Company annual/quarterly filing data",
+        "Market price and share count data",
+        "Large language model analysis session"
+      ],
+      "summary": "以巴菲特风格的所有者视角分析企业：可理解性、护城河、所有者盈余、管理层资本配置、保守内在价值区间与安全边际，输出买/观望/放弃/太难四类判定。",
+      "dependencies": [
+        "公司年报/季报数据",
+        "市场价格与股本数据",
+        "大语言模型分析会话"
+      ],
+      "method": "六步流程：判断业务可理解性；评估护城河与再投资跑道；审查管理层诚信与资本配置；以区间估计保守内在价值；要求安全边际后才给买入判定；定义论点失效条件与监控指标。明确禁止将便宜估值倍数等同于价值，业务不可理解时须标注 Too Hard。",
+      "environmentEn": "Works within a large language model analysis session; no special software required, but the user must supply filings and market data.",
+      "id": "skill-5798c3f799d7b0ae",
+      "author": "questflowai",
+      "originalName": "buffett",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/buffett/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/buffett/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "methodEn": "Six steps: define the consensus and why it may be wrong; verify with primary documents, not summaries; identify the exact mispricing mechanism; define catalyst, time horizon, carry cost, and path risk; size small enough to survive being early; exit only when facts invalidate the mechanism, not because the trade is unpopular.",
+      "environment": "文本/分析型技能，适用于任何具备文件阅读与研究能力的环境；无需执行代码。",
+      "outputsEn": [
+        "Verdict (Asymmetric Long / Asymmetric Short / Watch / Too Early / Pass)",
+        "Variant perception versus consensus analysis",
+        "Primary evidence list",
+        "Trade structure (sizing, catalyst and timing, carry/path risk, invalidation criteria)"
+      ],
+      "tags": [
+        "逆向投资",
+        "做空论点",
+        "非对称回报",
+        "深度价值",
+        "信贷分析"
+      ],
+      "inputs": [
+        "市场共识描述",
+        "一手文件（财报、招股书、法律文件）",
+        "做空成本与借用数据",
+        "催化因素与时间线信息"
+      ],
+      "nameEn": "Burry-Style Asymmetric Contrarian Research",
+      "evidenceQuotes": [
+        "Verify with primary documents, not summaries.",
+        "Size small enough to survive being early."
+      ],
+      "category": "research",
+      "tagsEn": [
+        "contrarian",
+        "short thesis",
+        "asymmetric payoff",
+        "deep value",
+        "credit analysis"
+      ],
+      "exampleEn": "For an unloved bond or deeply depressed stock: write out the current consensus, check it against filings and prospectuses, identify a mechanism such as capital-structure mispricing, define refinancing or default catalysts, estimate borrow cost and holding-period risk, then present a small position structure with factual invalidation criteria.",
+      "outputs": [
+        "判定结论（非对称做多/做空/观望/太早/放弃）",
+        "变体认知与共识差异分析",
+        "一手证据清单",
+        "交易结构（仓位、催与时机、持有成本/路径风险、失效条件）"
+      ],
+      "notesEn": "This skill is a repository-author framework in a named-investor style, not an investor-endorsed official skill. Findings are source-checked but execution-unverified; not investment advice and no guaranteed profit. Missing primary documents must be flagged as an explicit data gap, not treated as absence of risk.",
+      "notes": "此技能为仓库作者整理的风格化研究框架，非Michael Burry本人背书的官方技能。所有结论均为来源核对、未经执行验证；本内容不构成投资建议，不保证盈利。缺少一手文件时应作为数据缺口明确标注，而非视同无风险。",
+      "summaryEn": "A contrarian research workflow that verifies consensus errors against primary documents, pinpoints the exact mispricing mechanism, and structures asymmetric long/short theses with explicit catalysts, carry, and path risk.",
+      "example": "对一只被市场冷落的债券或深跌股票：写出当前共识，用招股书、财报等一手文件核对，识别如资本结构误定价的具体机制，定义再融资或违约催化，估算做空借用成本与持有期风险，给出小仓位结构与事实性失效条件。",
+      "inputsEn": [
+        "Description of market consensus",
+        "Primary documents (filings, prospectuses, legal documents)",
+        "Short borrow and cost data",
+        "Catalyst and timeline information"
+      ],
+      "name": "Burry式非对称逆向投资研究",
+      "dependenciesEn": [
+        "Document reading and research capability",
+        "Primary financial and legal document sources",
+        "Short/financing market data where available"
+      ],
+      "summary": "一套以一手文件验证市场共识错误、识别具体定价机制偏差、并结构化带有催化和持有成本风险的非对称多空交易论点的逆向研究流程。",
+      "dependencies": [
+        "文件阅读与研究能力",
+        "一手财务与法律文件来源",
+        "做空/融资市场数据（如可用）"
+      ],
+      "method": "六步流程：定义共识及其可能的错误；用一手文件而非二手摘要验证；识别具体定价机制错误；定义催化因素、时间窗口、持有成本与路径风险；仓位小到足以承受提前入场；仅当机制被事实否定时退出，而非因交易不受欢迎而退出。",
+      "environmentEn": "Text/analysis skill usable in any environment with document reading and research capability; no code execution required.",
+      "id": "skill-b8fafed400de0f6a",
+      "author": "questflowai",
+      "originalName": "burry-asymmetric-contrarian",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/burry-asymmetric-contrarian/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/burry-asymmetric-contrarian/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
     }
   ],
   "evidence": {
     "checks": {
-      "skills": 122,
+      "skills": 125,
       "repositories": 7,
       "executionTestsRun": 0
     },
@@ -8782,7 +9018,7 @@
     },
     {
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "c92aefd47d9826e15bbe379bb704e406b7785c16",
+      "commit": "7401daf2c88aa253828a16d222beed44d1d36047",
       "license": "MIT",
       "licensePath": "LICENSE",
       "licenseFile": "/licenses/alphakit-LICENSE.txt",
@@ -8804,12 +9040,10 @@
           "file": "/licenses/alphakit-sellside-model-exhibits-LICENSE.txt"
         }
       ],
-      "archive": "Jeromelll--finskillhub-catalog--c92aefd47d9826e15bbe379bb704e406b7785c16.zip",
-      "archiveSha256": "910acc69c196311e2e180ca252585be59fb9e1d298dd24c3fffb97bec9955475",
+      "archive": "Jeromelll--finskillhub-catalog--7401daf2c88aa253828a16d222beed44d1d36047.zip",
+      "archiveSha256": "a1ccfc64b9ef4637b2cc7f37fd3947bd577719d1a2ac01db4cd97acc78a04ff0",
       "description": "FinSkillHub 的三项原创金融研究技能，涵盖增量测算、模型展示表和股票初步研究；案例使用原创合成数据。",
-      "descriptionEn": "FinSkillHub original finance research skills for incremental sizing, model exhibits and initial stock research, with original synthetic examples.",
-      "originalRepository": "https://github.com/Jeromelll/FinSkillHub",
-      "originalCommit": "2f669885632141f367de7bb5e4d0b951f72cfe2d"
+      "descriptionEn": "FinSkillHub original finance research skills for incremental sizing, model exhibits and initial stock research, with original synthetic examples."
     }
   ]
 }
