@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29",
+  "updatedAt": "2026-10-30",
   "skills": [
     {
       "id": "equity-earnings-update",
@@ -5635,9 +5635,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "6f09b2b610fe88b396598391479ecb73545a5c37",
+      "commit": "5b32cecd9834e578f8690540d7dab0980fb62a53",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/6f09b2b610fe88b396598391479ecb73545a5c37/skills/incremental-business-sizing/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/5b32cecd9834e578f8690540d7dab0980fb62a53/skills/incremental-business-sizing/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "incremental-business-sizing",
@@ -5646,7 +5646,7 @@
       "nameEn": "Incremental business revenue and profit sizing",
       "category": "research",
       "sourcePath": "skills/incremental-business-sizing/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/6f09b2b610fe88b396598391479ecb73545a5c37/skills/incremental-business-sizing/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/5b32cecd9834e578f8690540d7dab0980fb62a53/skills/incremental-business-sizing/SKILL.md",
       "summary": "把产能、用户行为、订阅或交易额拆成可复算的收入、利润与 EPS 驱动链，保留缺失参数并用同一模型制作情景和敏感性分析。",
       "summaryEn": "Builds reproducible revenue, profit and EPS drivers from capacity, user activity, subscriptions or transaction volume. Preserves missing inputs and uses one model for scenarios and sensitivities.",
       "method": "先界定收费对象、资源和时间约束，为参数标明单位、期间及来源，再按依赖图计算各情景；两个敏感性轴替换同一模型中的指定输入。",
@@ -5705,9 +5705,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "6f09b2b610fe88b396598391479ecb73545a5c37",
+      "commit": "5b32cecd9834e578f8690540d7dab0980fb62a53",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/6f09b2b610fe88b396598391479ecb73545a5c37/skills/sellside-model-exhibits/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/5b32cecd9834e578f8690540d7dab0980fb62a53/skills/sellside-model-exhibits/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "sellside-model-exhibits",
@@ -5716,7 +5716,7 @@
       "nameEn": "Financial model exhibits and sensitivity tables",
       "category": "operations",
       "sourcePath": "skills/sellside-model-exhibits/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/6f09b2b610fe88b396598391479ecb73545a5c37/skills/sellside-model-exhibits/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/5b32cecd9834e578f8690540d7dab0980fb62a53/skills/sellside-model-exhibits/SKILL.md",
       "summary": "把同一份已完成测算制作成计算桥、情景表和敏感性矩阵，保留单位、年份、来源和未知值，输出文档、图片与公式工作簿。",
       "summaryEn": "Turns one completed model result into a calculation bridge, scenario table and sensitivity matrices. Retains units, periods, sources and unknown values, and exports documents, images and formula workbooks.",
       "method": "读取版本化计算结果，根据角色、表达式和状态排版；各格式共享同一数值来源，公式仅绑定到同一情景中的有效输入。",
@@ -5777,9 +5777,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "6f09b2b610fe88b396598391479ecb73545a5c37",
+      "commit": "5b32cecd9834e578f8690540d7dab0980fb62a53",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/6f09b2b610fe88b396598391479ecb73545a5c37/skills/pre-trade-quick-brief/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/5b32cecd9834e578f8690540d7dab0980fb62a53/skills/pre-trade-quick-brief/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "pre-trade-quick-brief",
@@ -5788,7 +5788,7 @@
       "nameEn": "Quick initial research for a new stock",
       "category": "research",
       "sourcePath": "skills/pre-trade-quick-brief/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/6f09b2b610fe88b396598391479ecb73545a5c37/skills/pre-trade-quick-brief/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/5b32cecd9834e578f8690540d7dab0980fb62a53/skills/pre-trade-quick-brief/SKILL.md",
       "summary": "先解释市场叙事与新增经营变量，再拆出受约束的业绩上限、三个盈利时间窗、前瞻估值和下一验证点，保留资料缺口。",
       "summaryEn": "Explains the market narrative and new operating variables, then develops a constrained earnings ceiling, three earnings windows, forward valuation conditions and the next verification point while preserving evidence gaps.",
       "method": "冻结信息时点，建立旧预期到新参数的证据链，核对需求、供给、期间、成本及融资稀释，并把当前价值和远期条件终值分开。",
@@ -9015,11 +9015,241 @@
       "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
       "sourceVerified": true,
       "executionVerified": false
+    },
+    {
+      "method": "四步流程：(1) 定义产品、客户与增长引擎；(2) 核算单位经济性与用户留存；(3) 估计增长持续期与竞争护城河；(4) 将估值与多年复利路径比较，最终给出集中成长多头/观望/过贵/增长破坏/放弃等判定，并强制列出风险、失效条件与缺失数据。",
+      "outputs": [
+        "结构化研判备忘录：判定结论、论点、证据、风险、行动方案、失效条件、缺失数据"
+      ],
+      "methodEn": "Four-step process: (1) define product, customer, and growth engine; (2) underwrite unit economics and retention; (3) estimate growth duration and competitive moat; (4) compare valuation to the multi-year compounding path, concluding with a verdict (Concentrated Growth Long / Watch / Too Expensive / Growth Broken / Pass) plus mandatory risks, invalidation triggers, and missing-data disclosure.",
+      "category": "research",
+      "environmentEn": "Runs as an LLM judgment module within research or investment workflows; no specific runtime dependencies, though financial and market data must be supplied by the user or integrated separately.",
+      "environment": "作为 LLM 判断模块运行于研究/投资工作流中，无特定运行时依赖；分析所需的财务与市场数据须由用户提供或另行接入。",
+      "tagsEn": [
+        "growth investing",
+        "unit economics",
+        "network effects",
+        "SaaS",
+        "concentrated positions",
+        "valuation judgment"
+      ],
+      "nameEn": "Coleman Tiger Growth Framework",
+      "summaryEn": "A Tiger Cub / Chase Coleman-style growth equity judgment framework for evaluating scalable tech platforms, network effects, unit economics, and growth duration, producing a risk-aware concentrated growth long decision memo.",
+      "outputsEn": [
+        "Structured memo: verdict, setup/thesis, evidence, risks, action plan, invalidation triggers, missing data"
+      ],
+      "dependencies": [
+        "LLM 推理环境",
+        "用户提供或外部接入的财务与市场数据"
+      ],
+      "name": "Coleman Tiger 成长投资框架",
+      "tags": [
+        "成长投资",
+        "单位经济学",
+        "网络效应",
+        "SaaS",
+        "集中持仓",
+        "估值研判"
+      ],
+      "inputsEn": [
+        "Asset, portfolio, theme, or market context",
+        "Financial, market, regime, or structural data",
+        "Time horizon and risk constraints",
+        "Current price/valuation or portfolio weights if sizing is requested"
+      ],
+      "evidenceQuotes": [
+        "Underwrite unit economics and retention.",
+        "Do not force a trade when filters fail."
+      ],
+      "summary": "基于 Tiger Cub / Chase Coleman 风格的成长股研判框架，用于评估可扩展科技平台、网络效应、单位经济性与增长持续期，输出风险可控的集中成长多头决策支持文档。",
+      "inputs": [
+        "标的资产/组合/主题及市场背景",
+        "财务、市场、宏观或结构性数据",
+        "时间期限与风险约束",
+        "当前价格/估值或组合权重（如需仓位建议）"
+      ],
+      "notesEn": "This is a repository-author stylized judgment framework, not an official skill or endorsement by Chase Coleman or Tiger Global. Outputs are source-checked research judgments; execution is unverified and no returns are guaranteed. Missing critical data must be flagged explicitly, never treated as an all-clear signal.",
+      "notes": "该技能为仓库作者整理的风格化研判框架，并非 Chase Coleman 或 Tiger Global 官方技能或背书。产出为源文件校验的研究判断，执行结果未经实盘验证；不承诺任何收益。当关键数据缺失时框架要求显式标记，而不是将其当作无风险信号。",
+      "example": "输入：某上市 SaaS 公司代码、最近四个季度的 ARR 增长、净收入留存率、客户获取成本回收期、当前 EV/收入倍数、三年持有期与组合集中度上限。输出：一份含判定结论、论点、证据、风险、行动方案、失效条件与缺失数据清单的备忘录。",
+      "dependenciesEn": [
+        "LLM reasoning environment",
+        "Financial and market data supplied by the user or external feeds"
+      ],
+      "exampleEn": "Input: a listed SaaS ticker, trailing four quarters of ARR growth, net revenue retention, CAC payback period, current EV/Revenue multiple, a three-year horizon, and portfolio concentration limits. Output: a memo with verdict, thesis, evidence, risks, action plan, invalidation triggers, and a missing-data list.",
+      "id": "skill-3d625f94c89f0153",
+      "author": "questflowai",
+      "originalName": "coleman-tiger-growth",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/coleman-tiger-growth/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/coleman-tiger-growth/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "method": "四步流程：1) 映射关键水平位；2) 解读市场结构；3) 要求多信号汇合；4) 在确定仓位前先写明入场/止损/失效条件。输出包含裁决（有效/需汇合/等待/无效/放弃）、论点、证据、风险、行动计划、失效条件与缺失数据。",
+      "outputs": [
+        "结构分析裁决（有效/需汇合/等待/无效/放弃）",
+        "论点与证据",
+        "风险与行动计划",
+        "失效条件与缺失数据清单"
+      ],
+      "methodEn": "A four-step process: (1) map key levels, (2) read market structure, (3) require confluence, (4) write entry/stop/invalidation before sizing. Output includes a verdict (Setup Valid / Needs Confluence / Wait / Invalid / Pass), thesis, evidence, risks, action plan, invalidation, and missing data sections.",
+      "category": "research",
+      "environmentEn": "A crypto judgment module inside Questflow-style agent workflows; reference readings/podcasts/videos after loading the skill.",
+      "environment": "Questflow 式智能体工作流中的加密判断模块；加载技能后引用阅读/播客/视频资料。",
+      "tagsEn": [
+        "crypto",
+        "technical analysis",
+        "market structure",
+        "trading plan",
+        "risk management",
+        "educational"
+      ],
+      "nameEn": "CryptoCred-Style Crypto Structure Analysis",
+      "summaryEn": "Evaluates crypto charts through a CryptoCred-style lens: level mapping, market structure, confluence verification, and risk definition, producing a structured chart plan with invalidation before sizing.",
+      "outputsEn": [
+        "Structure verdict (Setup Valid / Needs Confluence / Wait / Invalid / Pass)",
+        "Thesis and evidence",
+        "Risks and action plan",
+        "Invalidation and missing-data list"
+      ],
+      "dependencies": [
+        "Questflow 风格智能体工作流",
+        "相关加密市场数据（价格/链上/流动性）"
+      ],
+      "name": "CryptoCred 风格加密货币结构分析",
+      "tags": [
+        "加密货币",
+        "技术分析",
+        "市场结构",
+        "交易计划",
+        "风险管理",
+        "教育用途"
+      ],
+      "inputsEn": [
+        "Asset, token, protocol, sector, or market context",
+        "Relevant price, on-chain, liquidity, research, or adoption data",
+        "Time horizon and risk constraints",
+        "Portfolio context if sizing is requested"
+      ],
+      "evidenceQuotes": [
+        "crypto level mapping\n- structure and confluence review\n- educational TA process",
+        "1. Map key levels.\n2. Read structure.\n3. Require confluence.\n4. Write entry/stop/invalidation before sizing."
+      ],
+      "summary": "以 CryptoCred 式判断框架评估加密货币图表：关键位映射、市场结构、汇合验证与风险定义，输出结构化的交易计划与失效条件。",
+      "inputs": [
+        "资产/代币/协议/板块或市场背景",
+        "价格、链上、流动性、研究或采用数据",
+        "时间范围与风险约束",
+        "请求仓位管理时的投资组合背景"
+      ],
+      "notesEn": "This is a repository-author framework in a named-investor style, not an investor-endorsed official skill. Source-checked but execution-unverified. Missing critical data is flagged explicitly as Missing Data rather than treated as no risk. Not financial advice; requests for guaranteed returns or unbounded leverage are refused.",
+      "notes": "该技能为仓库作者整理的框架，非投资者本人背书的官方技能。源文件已核查，但未执行验证；缺失关键数据时技能会显式标记 Missing Data，而非默认无风险。明确声明非投资建议，拒绝保证收益或无限杠杆请求。",
+      "example": "用户提供 BTC 价格数据、时间范围与风险约束后，技能映射关键支撑/阻力位，评估趋势结构，要求汇合确认，再输出含入场、止损与失效条件的图表计划。",
+      "dependenciesEn": [
+        "Questflow-style agent workflow",
+        "Relevant crypto market data (price/on-chain/liquidity)"
+      ],
+      "exampleEn": "Given BTC price data, a time horizon, and risk constraints, the skill maps key support/resistance levels, assesses trend structure, requires confluence confirmation, and outputs a chart plan with entry, stop, and invalidation levels.",
+      "id": "skill-90ad85a507178c6f",
+      "author": "questflowai",
+      "originalName": "cryptocred-structure",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/cryptocred-structure/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/cryptocred-structure/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "method": "先映射增长与通胀状态，再判断债务周期阶段与政策约束，随后按风险贡献跨资产配置，并在状态或风险贡献漂移时触发再平衡；区分事实、假设与判断。",
+      "outputs": [
+        "超配/低配/对冲/中性/再平衡结论",
+        "论据与证据",
+        "风险清单",
+        "行动方案",
+        "失效条件",
+        "缺失数据清单"
+      ],
+      "methodEn": "Map the growth and inflation regime first, identify the debt-cycle stage and policy constraints, then allocate across assets by risk contribution, triggering rebalancing when the regime or risk contributions drift; facts, assumptions, and judgment are kept separate.",
+      "category": "portfolio",
+      "environmentEn": "Used as a judgment module within research workflows, fund monitoring, and risk-aware decision support; does not execute trades.",
+      "environment": "作为判断模块用于研究工作流、基金监控与风险决策支持；不执行交易。",
+      "tagsEn": [
+        "asset allocation",
+        "risk parity",
+        "debt cycle",
+        "macro",
+        "portfolio review"
+      ],
+      "nameEn": "Dalio Principles All-Weather Portfolio Analysis",
+      "summaryEn": "Evaluates portfolios through a Dalio-style economic machine and debt-cycle framework, allocating by risk contribution across equities, bonds, commodities, gold, and cash, with rebalancing and invalidation conditions.",
+      "outputsEn": [
+        "Overweight/underweight/hedge/neutral/rebalance verdict",
+        "Thesis and evidence",
+        "Risk list",
+        "Action plan",
+        "Invalidation conditions",
+        "Missing-data list"
+      ],
+      "dependencies": [
+        "用户提供的市场与组合数据",
+        "大语言模型推理环境"
+      ],
+      "name": "达利奥原则全天候组合分析",
+      "tags": [
+        "资产配置",
+        "风险平价",
+        "债务周期",
+        "宏观",
+        "组合审查"
+      ],
+      "inputsEn": [
+        "Asset, portfolio, theme, or market context",
+        "Relevant financial, market, regime, or structural data",
+        "Time horizon and risk constraints",
+        "Current price/valuation or portfolio weights if sizing is requested"
+      ],
+      "evidenceQuotes": [
+        "Map growth and inflation regime.",
+        "Allocate by risk contribution across equities, bonds, commodities, gold, cash."
+      ],
+      "summary": "以达利奥式经济机器与债务周期框架评估组合，按风险贡献在股票、债券、商品、黄金、现金之间配置，并给出再平衡与失效条件。",
+      "inputs": [
+        "资产、组合、主题或市场背景",
+        "相关财务、市场、宏观状态或结构性数据",
+        "时间期限与风险约束",
+        "当前价格/估值或组合权重（如需规模建议）"
+      ],
+      "notesEn": "This skill reflects a repository-author framework in the Ray Dalio style, not an officially investor-endorsed skill. It forces no trade when key data is missing or filters fail. Analysis is source-checked; execution is unverified.",
+      "notes": "该技能以Ray Dalio风格为仓库作者的框架，并非投资者本人官方认可。当关键数据缺失或过滤器不通过时不强行给出交易建议。结果为来源核查后的分析，执行结果未经验证。",
+      "example": "用户提供当前组合权重与宏观假设，要求做风险平价审查：输出超配/低配/对冲结论、论据、风险、行动方案与缺失数据清单。",
+      "dependenciesEn": [
+        "User-supplied market and portfolio data",
+        "LLM reasoning environment"
+      ],
+      "exampleEn": "A user supplies current portfolio weights and macro assumptions for a risk parity review: the output gives an overweight/underweight/hedge verdict, thesis, risks, action plan, and a missing-data list.",
+      "id": "skill-b9870809666c3206",
+      "author": "questflowai",
+      "originalName": "dalio-principles-allweather",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/dalio-principles-allweather/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/dalio-principles-allweather/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
     }
   ],
   "evidence": {
     "checks": {
-      "skills": 128,
+      "skills": 131,
       "repositories": 7,
       "executionTestsRun": 0
     },
@@ -9246,7 +9476,7 @@
     },
     {
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "6f09b2b610fe88b396598391479ecb73545a5c37",
+      "commit": "5b32cecd9834e578f8690540d7dab0980fb62a53",
       "license": "MIT",
       "licensePath": "LICENSE",
       "licenseFile": "/licenses/alphakit-LICENSE.txt",
@@ -9268,8 +9498,8 @@
           "file": "/licenses/alphakit-sellside-model-exhibits-LICENSE.txt"
         }
       ],
-      "archive": "Jeromelll--finskillhub-catalog--6f09b2b610fe88b396598391479ecb73545a5c37.zip",
-      "archiveSha256": "bda19c161679e8024b0cdf2102451fcfef44cd21665b4b081f06b32a2942b8a8",
+      "archive": "Jeromelll--finskillhub-catalog--5b32cecd9834e578f8690540d7dab0980fb62a53.zip",
+      "archiveSha256": "643e08636e4c04536136a170e1b5ca1be46a0dcac505007172f83fa58325d97b",
       "description": "FinSkillHub 的三项原创金融研究技能，涵盖增量测算、模型展示表和股票初步研究；案例使用原创合成数据。",
       "descriptionEn": "FinSkillHub original finance research skills for incremental sizing, model exhibits and initial stock research, with original synthetic examples."
     }
