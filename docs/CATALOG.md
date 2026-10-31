@@ -2,7 +2,7 @@
 
 Generated from the public website catalog at `https://finskillhub.com/data/catalog.json`.
 
-131 skills · 7 source repositories · 2026-10-30
+134 skills · 7 source repositories · 2026-10-31
 
 Catalog inclusion records source and license review. Execution in a host environment is not implied.
 
@@ -24,8 +24,8 @@ Catalog inclusion records source and license review. Execution in a host environ
 | [论点跟踪器](<https://github.com/anthropics/financial-services/blob/60565064557ca77b12f62aa7877f365d111c129d/plugins/vertical-plugins/equity-research/skills/thesis-tracker/SKILL.md>)<br>Thesis Tracker | [anthropics](<https://github.com/anthropics/financial-services>) | Apache-2.0 |
 | [竞争格局分析框架](<https://github.com/anthropics/financial-services/blob/60565064557ca77b12f62aa7877f365d111c129d/plugins/vertical-plugins/financial-analysis/skills/competitive-analysis/SKILL.md>)<br>Competitive Landscape Analysis Framework | [anthropics](<https://github.com/anthropics/financial-services>) | Apache-2.0 |
 | [IB 演示文稿质检](<https://github.com/anthropics/financial-services/blob/60565064557ca77b12f62aa7877f365d111c129d/plugins/vertical-plugins/financial-analysis/skills/ib-check-deck/SKILL.md>)<br>IB Deck Checker | [anthropics](<https://github.com/anthropics/financial-services>) | Apache-2.0 |
-| [增量业务收入与利润测算](<https://github.com/Jeromelll/finskillhub-catalog/blob/5b32cecd9834e578f8690540d7dab0980fb62a53/skills/incremental-business-sizing/SKILL.md>)<br>Incremental business revenue and profit sizing | [Jeromelll](<https://github.com/Jeromelll/finskillhub-catalog>) | MIT |
-| [新股票快速初步研究](<https://github.com/Jeromelll/finskillhub-catalog/blob/5b32cecd9834e578f8690540d7dab0980fb62a53/skills/pre-trade-quick-brief/SKILL.md>)<br>Quick initial research for a new stock | [Jeromelll](<https://github.com/Jeromelll/finskillhub-catalog>) | MIT |
+| [增量业务收入与利润测算](<https://github.com/Jeromelll/finskillhub-catalog/blob/924769bd5b0cabb7200385cee0d5f5dd9cad18c2/skills/incremental-business-sizing/SKILL.md>)<br>Incremental business revenue and profit sizing | [Jeromelll](<https://github.com/Jeromelll/finskillhub-catalog>) | MIT |
+| [新股票快速初步研究](<https://github.com/Jeromelll/finskillhub-catalog/blob/924769bd5b0cabb7200385cee0d5f5dd9cad18c2/skills/pre-trade-quick-brief/SKILL.md>)<br>Quick initial research for a new stock | [Jeromelll](<https://github.com/Jeromelll/finskillhub-catalog>) | MIT |
 | [Discord 只读金融社群研读](<https://github.com/himself65/finance-skills/blob/a0850786e72aa23b92862f9f1635b0de506fe206/plugins/social-readers/skills/discord-reader/SKILL.md>)<br>Discord Read-Only Financial Community Reader | [himself65](<https://github.com/himself65/finance-skills>) | MIT |
 | [LinkedIn只读金融研究阅读](<https://github.com/himself65/finance-skills/blob/a0850786e72aa23b92862f9f1635b0de506fe206/plugins/social-readers/skills/linkedin-reader/SKILL.md>)<br>LinkedIn Read-Only Financial Research | [himself65](<https://github.com/himself65/finance-skills>) | MIT |
 | [ESG与负责任投资筛选器](<https://github.com/Geeksfino/finskills/blob/8722415a68db3250516a8c6f9632da29c1554bf1/China-market/esg-screener/SKILL.md>)<br>ESG & Responsible Investment Screener | [Geeksfino](<https://github.com/Geeksfino/finskills>) | Apache-2.0 |
@@ -42,6 +42,8 @@ Catalog inclusion records source and license review. Execution in a host environ
 | [Cobie风格周期过滤器](<https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/cobie-cycle-filter/SKILL.md>)<br>Cobie-Style Cycle Filter | [questflowai](<https://github.com/questflowai/investorskills>) | MIT |
 | [Coleman Tiger 成长投资框架](<https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/coleman-tiger-growth/SKILL.md>)<br>Coleman Tiger Growth Framework | [questflowai](<https://github.com/questflowai/investorskills>) | MIT |
 | [CryptoCred 风格加密货币结构分析](<https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/cryptocred-structure/SKILL.md>)<br>CryptoCred-Style Crypto Structure Analysis | [questflowai](<https://github.com/questflowai/investorskills>) | MIT |
+| [但斌式长期复利股票分析](<https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/danbin-longterm-compounder/SKILL.md>)<br>Dan Bin-Style Long-Term Compounder Analysis | [questflowai](<https://github.com/questflowai/investorskills>) | MIT |
+| [Delphi风格加密主题研究](<https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/delphi-thematic-crypto/SKILL.md>)<br>Delphi-Style Thematic Crypto Research | [questflowai](<https://github.com/questflowai/investorskills>) | MIT |
 
 ## Earnings / 财报分析
 
@@ -128,7 +130,7 @@ Catalog inclusion records source and license review. Execution in a host environ
 | [基金账户余额期间滚动](<https://github.com/anthropics/financial-services/blob/60565064557ca77b12f62aa7877f365d111c129d/plugins/vertical-plugins/fund-admin/skills/roll-forward/SKILL.md>)<br>Balance-Sheet Account Roll-Forward | [Anthropic](<https://github.com/anthropics/financial-services>) | Apache-2.0 |
 | [预算与实际差异说明](<https://github.com/anthropics/financial-services/blob/60565064557ca77b12f62aa7877f365d111c129d/plugins/vertical-plugins/fund-admin/skills/variance-commentary/SKILL.md>)<br>Financial-Statement Flux Commentary | [Anthropic](<https://github.com/anthropics/financial-services>) | Apache-2.0 |
 | [电子表格与财务模型审计](<https://github.com/anthropics/financial-services/blob/60565064557ca77b12f62aa7877f365d111c129d/plugins/vertical-plugins/financial-analysis/skills/audit-xls/SKILL.md>)<br>Spreadsheet & Financial Model Audit | [anthropics](<https://github.com/anthropics/financial-services>) | Apache-2.0 |
-| [测算表与敏感性矩阵](<https://github.com/Jeromelll/finskillhub-catalog/blob/5b32cecd9834e578f8690540d7dab0980fb62a53/skills/sellside-model-exhibits/SKILL.md>)<br>Financial model exhibits and sensitivity tables | [Jeromelll](<https://github.com/Jeromelll/finskillhub-catalog>) | MIT |
+| [测算表与敏感性矩阵](<https://github.com/Jeromelll/finskillhub-catalog/blob/924769bd5b0cabb7200385cee0d5f5dd9cad18c2/skills/sellside-model-exhibits/SKILL.md>)<br>Financial model exhibits and sensitivity tables | [Jeromelll](<https://github.com/Jeromelll/finskillhub-catalog>) | MIT |
 | [KYC 开户文件结构化解析](<https://github.com/anthropics/financial-services/blob/60565064557ca77b12f62aa7877f365d111c129d/plugins/vertical-plugins/operations/skills/kyc-doc-parse/SKILL.md>)<br>KYC Onboarding Document Parsing | [anthropics](<https://github.com/anthropics/financial-services>) | Apache-2.0 |
 | [KYC规则网格评分与处置路由](<https://github.com/anthropics/financial-services/blob/60565064557ca77b12f62aa7877f365d111c129d/plugins/vertical-plugins/operations/skills/kyc-rules/SKILL.md>)<br>KYC Rules Grid Scoring & Disposition Routing | [anthropics](<https://github.com/anthropics/financial-services>) | Apache-2.0 |
 | [并购后价值创造计划](<https://github.com/anthropics/financial-services/blob/60565064557ca77b12f62aa7877f365d111c129d/plugins/vertical-plugins/private-equity/skills/value-creation-plan/SKILL.md>)<br>Post-Acquisition Value Creation Plan | [anthropics](<https://github.com/anthropics/financial-services>) | Apache-2.0 |
@@ -180,6 +182,7 @@ Catalog inclusion records source and license review. Execution in a host environ
 | [量化多因子股票筛选](<https://github.com/Geeksfino/finskills/blob/8722415a68db3250516a8c6f9632da29c1554bf1/US-market/quant-factor-screener/SKILL.md>)<br>Quantitative Multi-Factor Stock Screener | [Geeksfino](<https://github.com/Geeksfino/finskills>) | Apache-2.0 |
 | [小盘成长股识别器](<https://github.com/Geeksfino/finskills/blob/8722415a68db3250516a8c6f9632da29c1554bf1/US-market/small-cap-growth-identifier/SKILL.md>)<br>Small Cap Growth Identifier | [Geeksfino](<https://github.com/Geeksfino/finskills>) | Apache-2.0 |
 | [陈浩涨停板情绪分析](<https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/chenhao-limit-up/SKILL.md>)<br>Chen Hao Limit-Up Sentiment Analysis | [questflowai](<https://github.com/questflowai/investorskills>) | MIT |
+| [达瓦斯箱体突破分析](<https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/darvas-box/SKILL.md>)<br>Darvas Box Breakout Analysis | [questflowai](<https://github.com/questflowai/investorskills>) | MIT |
 
 ## Fixed income / 固收与信用
 

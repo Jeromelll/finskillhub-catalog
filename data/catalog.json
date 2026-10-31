@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30",
+  "updatedAt": "2026-10-31",
   "skills": [
     {
       "id": "equity-earnings-update",
@@ -5635,9 +5635,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "5b32cecd9834e578f8690540d7dab0980fb62a53",
+      "commit": "924769bd5b0cabb7200385cee0d5f5dd9cad18c2",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/5b32cecd9834e578f8690540d7dab0980fb62a53/skills/incremental-business-sizing/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/924769bd5b0cabb7200385cee0d5f5dd9cad18c2/skills/incremental-business-sizing/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "incremental-business-sizing",
@@ -5646,7 +5646,7 @@
       "nameEn": "Incremental business revenue and profit sizing",
       "category": "research",
       "sourcePath": "skills/incremental-business-sizing/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/5b32cecd9834e578f8690540d7dab0980fb62a53/skills/incremental-business-sizing/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/924769bd5b0cabb7200385cee0d5f5dd9cad18c2/skills/incremental-business-sizing/SKILL.md",
       "summary": "把产能、用户行为、订阅或交易额拆成可复算的收入、利润与 EPS 驱动链，保留缺失参数并用同一模型制作情景和敏感性分析。",
       "summaryEn": "Builds reproducible revenue, profit and EPS drivers from capacity, user activity, subscriptions or transaction volume. Preserves missing inputs and uses one model for scenarios and sensitivities.",
       "method": "先界定收费对象、资源和时间约束，为参数标明单位、期间及来源，再按依赖图计算各情景；两个敏感性轴替换同一模型中的指定输入。",
@@ -5705,9 +5705,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "5b32cecd9834e578f8690540d7dab0980fb62a53",
+      "commit": "924769bd5b0cabb7200385cee0d5f5dd9cad18c2",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/5b32cecd9834e578f8690540d7dab0980fb62a53/skills/sellside-model-exhibits/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/924769bd5b0cabb7200385cee0d5f5dd9cad18c2/skills/sellside-model-exhibits/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "sellside-model-exhibits",
@@ -5716,7 +5716,7 @@
       "nameEn": "Financial model exhibits and sensitivity tables",
       "category": "operations",
       "sourcePath": "skills/sellside-model-exhibits/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/5b32cecd9834e578f8690540d7dab0980fb62a53/skills/sellside-model-exhibits/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/924769bd5b0cabb7200385cee0d5f5dd9cad18c2/skills/sellside-model-exhibits/SKILL.md",
       "summary": "把同一份已完成测算制作成计算桥、情景表和敏感性矩阵，保留单位、年份、来源和未知值，输出文档、图片与公式工作簿。",
       "summaryEn": "Turns one completed model result into a calculation bridge, scenario table and sensitivity matrices. Retains units, periods, sources and unknown values, and exports documents, images and formula workbooks.",
       "method": "读取版本化计算结果，根据角色、表达式和状态排版；各格式共享同一数值来源，公式仅绑定到同一情景中的有效输入。",
@@ -5777,9 +5777,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "5b32cecd9834e578f8690540d7dab0980fb62a53",
+      "commit": "924769bd5b0cabb7200385cee0d5f5dd9cad18c2",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/5b32cecd9834e578f8690540d7dab0980fb62a53/skills/pre-trade-quick-brief/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/924769bd5b0cabb7200385cee0d5f5dd9cad18c2/skills/pre-trade-quick-brief/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "pre-trade-quick-brief",
@@ -5788,7 +5788,7 @@
       "nameEn": "Quick initial research for a new stock",
       "category": "research",
       "sourcePath": "skills/pre-trade-quick-brief/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/5b32cecd9834e578f8690540d7dab0980fb62a53/skills/pre-trade-quick-brief/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/924769bd5b0cabb7200385cee0d5f5dd9cad18c2/skills/pre-trade-quick-brief/SKILL.md",
       "summary": "先解释市场叙事与新增经营变量，再拆出受约束的业绩上限、三个盈利时间窗、前瞻估值和下一验证点，保留资料缺口。",
       "summaryEn": "Explains the market narrative and new operating variables, then develops a constrained earnings ceiling, three earnings windows, forward valuation conditions and the next verification point while preserving evidence gaps.",
       "method": "冻结信息时点，建立旧预期到新参数的证据链，核对需求、供给、期间、成本及融资稀释，并把当前价值和远期条件终值分开。",
@@ -9245,11 +9245,246 @@
       "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
       "sourceVerified": true,
       "executionVerified": false
+    },
+    {
+      "inputs": [
+        "标的资产、行业、市场或宏观背景",
+        "相关财务、技术面、政策或情绪数据",
+        "时间期限与风险约束",
+        "若涉及仓位则需组合背景"
+      ],
+      "summary": "以'时间的玫瑰'长期复利视角评估股票：判断公司是否具备数十年复利跑道、护城河持久性与定价权，并给出持有/观望/放弃结论。",
+      "example": "输入：某A股消费龙头，近十年ROE约20%，品牌溢价明显，当前PE高于行业均值。输出：判断其具备长期复利特征但估值偏贵，给出'Watch'结论、需补充的数据清单及估值回归时的买入失效条件。",
+      "tagsEn": [
+        "long-term compounder",
+        "moat",
+        "consumer",
+        "pharma",
+        "tech",
+        "A-shares",
+        "value investing"
+      ],
+      "evidenceQuotes": [
+        "Identify whether this is a truly great company with a decades-long compounding runway.",
+        "Follow the skill process; do not free-style.",
+        "Define invalidation before sizing."
+      ],
+      "environmentEn": "A Markdown skill file loaded as a judgment module inside Questflow-style agent workflows; no special runtime or external tools required.",
+      "outputsEn": [
+        "Structured Markdown report: verdict (Own Long-Term / Watch / Not Great / Too Expensive / Pass), thesis, evidence, risks, action plan, invalidation, missing data"
+      ],
+      "exampleEn": "Input: an A-share consumer leader with ~20% ROE over the past decade, clear brand pricing power, and a PE above sector average. Output: a 'Watch' verdict noting long-term compounder traits but rich valuation, a list of missing data, and invalidation conditions tied to valuation normalization.",
+      "tags": [
+        "长期复利",
+        "护城河",
+        "消费",
+        "医药",
+        "科技",
+        "A股",
+        "价值投资"
+      ],
+      "methodEn": "A four-step judgment process: 1) identify whether the company is truly great with a decades-long compounding runway; 2) assess moat durability and pricing power; 3) check if valuation is acceptable (not necessarily cheap); 4) decide to own and hold through volatility or pass. Output covers verdict, thesis, evidence, risks, action plan, invalidation, and missing data, separating facts, assumptions, and judgment.",
+      "notes": "该技能为仓库作者整理的以但斌/东方港湾投资风格为框架的研究工具，并非但斌本人官方技能或背书。输出为研究分析而非投资建议，不承诺收益。分析结果未经实际执行验证，仅对来源文件进行了核对；关键数据缺失时须在 Missing Data 中明确标注，不得将数据缺失当作无风险。",
+      "environment": "Questflow 风格智能体工作流中作为判断模块加载的 Markdown 技能文件；无需特殊运行环境或外部工具。",
+      "outputs": [
+        "结构化 Markdown 报告：结论（长期持有/观望/非伟大公司/过贵/放弃）、论点、证据、风险、行动计划、失效条件、缺失数据"
+      ],
+      "inputsEn": [
+        "Asset, sector, market, or macro context",
+        "Relevant financial, technical, policy, or sentiment data",
+        "Time horizon and risk constraints",
+        "Portfolio context if sizing is requested"
+      ],
+      "summaryEn": "Evaluates stocks through a long-term compounder lens: whether a company has a decades-long compounding runway, durable moat, and pricing power, delivering an own/watch/pass verdict.",
+      "dependencies": [
+        "Markdown 技能文件解析",
+        "Questflow 风格智能体工作流（可选）",
+        "外部财务数据（由用户提供，非内置）"
+      ],
+      "category": "research",
+      "name": "但斌式长期复利股票分析",
+      "dependenciesEn": [
+        "Markdown skill file parsing",
+        "Questflow-style agent workflow (optional)",
+        "External financial data supplied by the user (not built in)"
+      ],
+      "method": "四步判断流程：1) 识别是否为具备数十年复利跑道的伟大公司；2) 评估护城河持久性与定价权；3) 检查估值是否可接受（不要求便宜）；4) 决定长期持有穿越波动或放弃。输出包含结论、论点、证据、风险、行动计划、失效条件与缺失数据，明确区分事实、假设与判断。",
+      "nameEn": "Dan Bin-Style Long-Term Compounder Analysis",
+      "notesEn": "This is a repository-author framework styled after Dan Bin / Orient Huiyuan, not an official or investor-endorsed skill. Output is research analysis, not financial advice, with no profit guarantees. Findings are source-checked but execution-unverified; missing critical data must be flagged explicitly in Missing Data and never treated as absence of risk.",
+      "id": "skill-193ad002987474fe",
+      "author": "questflowai",
+      "originalName": "danbin-longterm-compounder",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/danbin-longterm-compounder/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/danbin-longterm-compounder/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "inputs": [
+        "股票代码与市场",
+        "近期日线/周线OHLCV数据",
+        "箱体高点、低点、测试次数与突破量",
+        "大盘趋势与板块强度",
+        "风险预算与现有持仓（如需仓位测算）"
+      ],
+      "summary": "以尼古拉斯·达瓦斯箱体交易法为框架，对流动性良好的成长股进行新高动量识别、箱体区间界定、放量突破买点确认及机械式止损设置。",
+      "example": "输入某流动性成长股的日线OHLCV，界定箱体高/低点，统计测试次数，检验突破日成交量是否放大，输出含箱体定义、止损位、失效条件与缺失数据的结构化研判报告。",
+      "tagsEn": [
+        "momentum",
+        "box breakout",
+        "technical analysis",
+        "stop management",
+        "growth stocks"
+      ],
+      "evidenceQuotes": [
+        "find strong stocks making new highs, define the box, buy breakouts above the box, and place stops below the box",
+        "Do not move the stop lower after entry.\n- Do not average down.\n- Do not treat old highs as valid if volume and trend are weak"
+      ],
+      "environmentEn": "An environment with access to historical OHLCV market data and basic analysis capability; the directory is for research and text analysis only, no execution.",
+      "outputsEn": [
+        "Structured box verdict: Buy Breakout / Watch Box / Extended / Failed Box / Pass",
+        "Box definition and stop level",
+        "Volume and relative strength assessment",
+        "Trade plan and invalidation conditions",
+        "Missing data list"
+      ],
+      "exampleEn": "Given daily OHLCV for a liquid growth stock, define box high/low, count tests, verify breakout-day volume expansion, and output a structured verdict with box definition, stop level, invalidation conditions, and missing data.",
+      "tags": [
+        "动量交易",
+        "箱体突破",
+        "技术分析",
+        "止损管理",
+        "成长股"
+      ],
+      "methodEn": "Confirm the stock is liquid and near new highs; define the current box high and low and verify price respected the range; treat a decisive volume-backed move above the box high as the buy trigger; place the stop below the box or a defined support; move to a new box only after the stock advances and consolidates again.",
+      "notes": "本条目已做来源核对，但未经执行验证；达瓦斯风格为仓库作者的框架整理，非投资者本人官方技能。突破成功率不保证，市场环境不利或箱体不清晰时应放弃分析；数据缺口须在报告中显式标注。",
+      "environment": "具备OHLCV历史行情数据访问与基础分析能力的环境；本目录仅作研究与文本分析用途，不执行任何交易。",
+      "outputs": [
+        "结构化箱体研判报告：结论（买入突破/观察/过度延伸/箱体失败/放弃）",
+        "箱体定义与止损位",
+        "成交量与相对强度评估",
+        "交易计划与失效条件",
+        "缺失数据清单"
+      ],
+      "inputsEn": [
+        "Ticker and market",
+        "Recent daily/weekly OHLCV data",
+        "Box high, box low, number of tests, and breakout volume",
+        "Market trend and sector strength",
+        "Risk budget and current position if sizing is requested"
+      ],
+      "summaryEn": "Applies a Nicolas Darvas-style box trading framework to liquid growth stocks: identify new-high momentum, define the consolidation box, confirm volume-backed breakout buy points, and place mechanical stops below the box.",
+      "dependencies": [
+        "OHLCV历史行情数据源",
+        "成交量数据",
+        "市场/板块趋势参考数据"
+      ],
+      "category": "quant",
+      "name": "达瓦斯箱体突破分析",
+      "dependenciesEn": [
+        "Historical OHLCV data source",
+        "Volume data",
+        "Market/sector trend reference data"
+      ],
+      "method": "先确认股票流动性充足且接近新高；界定当前箱体高低点并检验价格对区间的尊重程度；以放量 decisive 突破箱体上沿作为买入触发；止损设于箱体下方或明确支撑位；股价再度推进并整固后方可上移至新箱体。",
+      "nameEn": "Darvas Box Breakout Analysis",
+      "notesEn": "Source-checked but execution-unverified; the Darvas style is a repository-author framework, not an official skill endorsed by the investor. No guaranteed breakout success; abandon when the box is unclear or market direction is hostile; missing data must be explicitly flagged.",
+      "id": "skill-b4fcc612ac7d1c45",
+      "author": "questflowai",
+      "originalName": "darvas-box",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/darvas-box/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/darvas-box/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "inputs": [
+        "资产、代币、协议、赛道或市场背景",
+        "相关价格、链上、流动性、研究或采用度数据",
+        "时间期限与风险约束",
+        "若涉及仓位规模则需组合背景"
+      ],
+      "summary": "以德尔菲式主题研究框架评估加密行业赛道：绘制赛道图谱、审查代币经济与价值捕获、判断叙事阶段，并给出配置建议与失效条件。",
+      "example": "输入：某L2赛道及两个龙头代币、市值与锁仓量数据、12个月期限与中等风险约束。流程：绘制L2赛道图谱，比较两代币的费用分成与排放曲线，判断叙事处于早/中/晚期，输出'Overweight Theme'结论、风险与失效条件（如采用度指标连续下滑）。",
+      "tagsEn": [
+        "crypto",
+        "thematic research",
+        "tokenomics",
+        "narrative analysis",
+        "allocation"
+      ],
+      "evidenceQuotes": [
+        "evaluating crypto sectors through a Delphi-style thematic research lens: sector maps, tokenomics, narrative timing, and research-driven crypto allocation",
+        "1. Map the sector and key projects.\n2. Review token incentives and value capture.\n3. Judge narrative stage."
+      ],
+      "environmentEn": "Used as a crypto judgment module inside Questflow-style agent workflows; reference readings/podcasts/videos after loading the skill; requires price, on-chain, liquidity, research, or adoption data.",
+      "outputsEn": [
+        "Structured thematic view: verdict (Overweight Theme / Single-Name Research / Watch / Narrative Late / Pass)",
+        "Thesis, evidence, and risk list",
+        "Action plan and invalidation criteria",
+        "Missing-data list"
+      ],
+      "exampleEn": "Input: an L2 sector, two leading tokens, market cap and TVL data, a 12-month horizon, and moderate risk constraints. Process: map the L2 landscape, compare fee-sharing and emission schedules, judge narrative stage, and output an 'Overweight Theme' verdict with risks and invalidation triggers (e.g., sustained adoption decline).",
+      "tags": [
+        "加密货币",
+        "主题研究",
+        "代币经济",
+        "叙事分析",
+        "资产配置"
+      ],
+      "methodEn": "Map the sector and key projects; review token incentives and value capture; judge the narrative stage; then allocate to theme leaders, conduct single-name research, watch, or pass. Output includes verdict, thesis, evidence, risks, action plan, invalidation, and missing-data list.",
+      "notes": "该技能为仓库作者整理的研究框架，以Delphi Digital风格命名，并非该机构官方技能或背书。此条目为源文件核查结果，未经验证执行。技能自身声明'非投资建议'，不承诺保证收益；关键数据缺失时应明确列为缺失数据而非视为无风险。",
+      "environment": "作为Questflow式智能体工作流中的加密判断模块使用；加载技能后引用相关阅读/播客/视频资料；需要价格、链上、流动性、研究或采用度等数据。",
+      "outputs": [
+        "结构化主题研究观点：结论（超配主题/单一代币研究/观望/叙事后期/放弃）",
+        "论点、证据与风险清单",
+        "行动计划与失效条件",
+        "缺失数据清单"
+      ],
+      "inputsEn": [
+        "Asset, token, protocol, sector, or market context",
+        "Relevant price, on-chain, liquidity, research, or adoption data",
+        "Time horizon and risk constraints",
+        "Portfolio context if sizing is requested"
+      ],
+      "summaryEn": "A Delphi-style thematic research framework for crypto sectors: sector mapping, tokenomics and value-capture review, narrative-stage judgment, and allocation verdicts with explicit invalidation criteria.",
+      "dependencies": [
+        "Questflow式智能体工作流环境",
+        "价格、链上、流动性、研究或采用度数据源"
+      ],
+      "category": "research",
+      "name": "Delphi风格加密主题研究",
+      "dependenciesEn": [
+        "Questflow-style agent workflow environment",
+        "Price, on-chain, liquidity, research, or adoption data sources"
+      ],
+      "method": "先映射赛道与关键项目，再审查代币激励与价值捕获机制，随后判断叙事所处阶段，最后决定配置赛道龙头、单一代币研究、观望或放弃；输出含结论、论点、证据、风险、行动计划、失效条件与缺失数据清单。",
+      "nameEn": "Delphi-Style Thematic Crypto Research",
+      "notesEn": "This skill is a repository-author research framework styled after Delphi Digital, not an official skill or endorsement by that firm. Entry is source-checked and execution-unverified. The skill itself states it is not financial advice and promises no guaranteed returns; missing critical data must be listed explicitly as missing data, not treated as no risk.",
+      "id": "skill-5d74cc6e5e5441b9",
+      "author": "questflowai",
+      "originalName": "delphi-thematic-crypto",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/delphi-thematic-crypto/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/delphi-thematic-crypto/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
     }
   ],
   "evidence": {
     "checks": {
-      "skills": 131,
+      "skills": 134,
       "repositories": 7,
       "executionTestsRun": 0
     },
@@ -9476,7 +9711,7 @@
     },
     {
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "5b32cecd9834e578f8690540d7dab0980fb62a53",
+      "commit": "924769bd5b0cabb7200385cee0d5f5dd9cad18c2",
       "license": "MIT",
       "licensePath": "LICENSE",
       "licenseFile": "/licenses/alphakit-LICENSE.txt",
@@ -9498,8 +9733,8 @@
           "file": "/licenses/alphakit-sellside-model-exhibits-LICENSE.txt"
         }
       ],
-      "archive": "Jeromelll--finskillhub-catalog--5b32cecd9834e578f8690540d7dab0980fb62a53.zip",
-      "archiveSha256": "643e08636e4c04536136a170e1b5ca1be46a0dcac505007172f83fa58325d97b",
+      "archive": "Jeromelll--finskillhub-catalog--924769bd5b0cabb7200385cee0d5f5dd9cad18c2.zip",
+      "archiveSha256": "baa051e9be309bb3763a2738fc37f701f8184886dd30201e689107db61dda920",
       "description": "FinSkillHub 的三项原创金融研究技能，涵盖增量测算、模型展示表和股票初步研究；案例使用原创合成数据。",
       "descriptionEn": "FinSkillHub original finance research skills for incremental sizing, model exhibits and initial stock research, with original synthetic examples."
     }
