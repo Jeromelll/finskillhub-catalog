@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31",
+  "updatedAt": "2026-11-01",
   "skills": [
     {
       "id": "equity-earnings-update",
@@ -5635,9 +5635,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "924769bd5b0cabb7200385cee0d5f5dd9cad18c2",
+      "commit": "9df13821d0e0945ad0708cfeb8f7dbd82b9fbf83",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/924769bd5b0cabb7200385cee0d5f5dd9cad18c2/skills/incremental-business-sizing/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/9df13821d0e0945ad0708cfeb8f7dbd82b9fbf83/skills/incremental-business-sizing/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "incremental-business-sizing",
@@ -5646,7 +5646,7 @@
       "nameEn": "Incremental business revenue and profit sizing",
       "category": "research",
       "sourcePath": "skills/incremental-business-sizing/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/924769bd5b0cabb7200385cee0d5f5dd9cad18c2/skills/incremental-business-sizing/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/9df13821d0e0945ad0708cfeb8f7dbd82b9fbf83/skills/incremental-business-sizing/SKILL.md",
       "summary": "把产能、用户行为、订阅或交易额拆成可复算的收入、利润与 EPS 驱动链，保留缺失参数并用同一模型制作情景和敏感性分析。",
       "summaryEn": "Builds reproducible revenue, profit and EPS drivers from capacity, user activity, subscriptions or transaction volume. Preserves missing inputs and uses one model for scenarios and sensitivities.",
       "method": "先界定收费对象、资源和时间约束，为参数标明单位、期间及来源，再按依赖图计算各情景；两个敏感性轴替换同一模型中的指定输入。",
@@ -5705,9 +5705,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "924769bd5b0cabb7200385cee0d5f5dd9cad18c2",
+      "commit": "9df13821d0e0945ad0708cfeb8f7dbd82b9fbf83",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/924769bd5b0cabb7200385cee0d5f5dd9cad18c2/skills/sellside-model-exhibits/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/9df13821d0e0945ad0708cfeb8f7dbd82b9fbf83/skills/sellside-model-exhibits/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "sellside-model-exhibits",
@@ -5716,7 +5716,7 @@
       "nameEn": "Financial model exhibits and sensitivity tables",
       "category": "operations",
       "sourcePath": "skills/sellside-model-exhibits/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/924769bd5b0cabb7200385cee0d5f5dd9cad18c2/skills/sellside-model-exhibits/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/9df13821d0e0945ad0708cfeb8f7dbd82b9fbf83/skills/sellside-model-exhibits/SKILL.md",
       "summary": "把同一份已完成测算制作成计算桥、情景表和敏感性矩阵，保留单位、年份、来源和未知值，输出文档、图片与公式工作簿。",
       "summaryEn": "Turns one completed model result into a calculation bridge, scenario table and sensitivity matrices. Retains units, periods, sources and unknown values, and exports documents, images and formula workbooks.",
       "method": "读取版本化计算结果，根据角色、表达式和状态排版；各格式共享同一数值来源，公式仅绑定到同一情景中的有效输入。",
@@ -5777,9 +5777,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "924769bd5b0cabb7200385cee0d5f5dd9cad18c2",
+      "commit": "9df13821d0e0945ad0708cfeb8f7dbd82b9fbf83",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/924769bd5b0cabb7200385cee0d5f5dd9cad18c2/skills/pre-trade-quick-brief/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/9df13821d0e0945ad0708cfeb8f7dbd82b9fbf83/skills/pre-trade-quick-brief/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "pre-trade-quick-brief",
@@ -5788,7 +5788,7 @@
       "nameEn": "Quick initial research for a new stock",
       "category": "research",
       "sourcePath": "skills/pre-trade-quick-brief/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/924769bd5b0cabb7200385cee0d5f5dd9cad18c2/skills/pre-trade-quick-brief/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/9df13821d0e0945ad0708cfeb8f7dbd82b9fbf83/skills/pre-trade-quick-brief/SKILL.md",
       "summary": "先解释市场叙事与新增经营变量，再拆出受约束的业绩上限、三个盈利时间窗、前瞻估值和下一验证点，保留资料缺口。",
       "summaryEn": "Explains the market narrative and new operating variables, then develops a constrained earnings ceiling, three earnings windows, forward valuation conditions and the next verification point while preserving evidence gaps.",
       "method": "冻结信息时点，建立旧预期到新参数的证据链，核对需求、供给、期间、成本及融资稀释，并把当前价值和远期条件终值分开。",
@@ -9480,11 +9480,235 @@
       "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
       "sourceVerified": true,
       "executionVerified": false
+    },
+    {
+      "name": "德鲁肯米勒宏观判断框架",
+      "exampleEn": "The user provides the macro theme 'Fed pivot to easing', current rates-futures pricing, USD and equity index trends, and consensus positioning. The skill outputs a 'Probe' verdict, identifies the liquidity inflection as the dominant driver, suggests equity index futures as the expression, sets stop-loss thresholds and press conditions, and lists missing positioning data as a data gap.",
+      "evidenceQuotes": [
+        "Identify the single dominant driver.",
+        "Exit fast if the market rejects the thesis."
+      ],
+      "dependencies": [
+        "结构化文本编辑环境"
+      ],
+      "outputsEn": [
+        "Verdict (Press/Probe/Hold/Cut/Pass)",
+        "Dominant driver analysis",
+        "Liquidity and policy assessment",
+        "Trade expression and sizing/risk plan",
+        "Falsification conditions and missing-data list"
+      ],
+      "summaryEn": "A Stanley Druckenmiller-style top-down macro trade analysis skill: identify the dominant driver, confirm liquidity and price alignment, concentrate on exceptional setups, and cut losses quickly.",
+      "tagsEn": [
+        "macro trading",
+        "liquidity",
+        "risk management",
+        "concentrated positions",
+        "loss-cutting discipline"
+      ],
+      "environment": "文本分析环境，用于结构化宏观判断写作；无自动数据接入要求。",
+      "summary": "以斯坦利·德鲁肯米勒风格进行自上而下宏观交易分析：识别主导驱动因素、确认流动性与价格共振、集中押注于罕见机会并快速止损。",
+      "method": "七步流程：1) 识别唯一主导驱动因素；2) 检查流动性、政策与价格走势是否一致；3) 将论点与共识和持仓对比；4) 定义最干净的流动性表达工具；5) 以可快速止损的仓位起步；6) 仅当论点持续有效且确认改善时加码；7) 市场否决论点时迅速退出。输出含判定（Press/Probe/Hold/Cut/Pass）、主导驱动、流动性与政策、市场确认、交易表达、仓位与风险、证伪条件及缺失数据。",
+      "example": "用户提供宏观主题'美联储转向宽松周期'、当前利率期货定价、美元与股指走势及一致预期持仓。技能输出判定'Probe'，指明主导驱动为流动性拐点，建议以股指期货表达，设定止损阈值与加码条件，并列出缺失的仓位数据为数据缺口。",
+      "inputs": [
+        "宏观主题或资产",
+        "央行、流动性、利率、汇率、增长与通胀背景",
+        "价格趋势与跨资产确认",
+        "共识持仓与预期催化剂路径",
+        "当前敞口与止损限额（如需仓位建议）"
+      ],
+      "nameEn": "Druckenmiller Macro Judgment Framework",
+      "dependenciesEn": [
+        "Structured text editing environment"
+      ],
+      "inputsEn": [
+        "Macro theme or asset",
+        "Central-bank, liquidity, rates, currency, growth, and inflation context",
+        "Price trend and cross-asset confirmation",
+        "Consensus positioning and expected catalyst path",
+        "Current exposure and loss limit if sizing is requested"
+      ],
+      "methodEn": "Seven-step process: 1) identify the single dominant driver; 2) check whether liquidity, policy, and price action align; 3) compare the thesis to consensus and positioning; 4) define the cleanest liquid expression; 5) start with risk that can be cut quickly; 6) press only if the thesis is working and confirmation improves; 7) exit fast if the market rejects the thesis. Output includes a verdict (Press/Probe/Hold/Cut/Pass), dominant driver, liquidity and policy, market confirmation, trade expression, sizing and risk, falsification conditions, and missing data.",
+      "notesEn": "Source-checked but execution-unverified; a research framework, not investment advice. The Druckenmiller style is a repository-author framework, not an investor-endorsed official skill. The file explicitly excludes use when there is no clear dominant driver, no liquid expression, or for low-volatility diversified allocation; no profit is guaranteed.",
+      "notes": "此技能经来源核查但执行未经验证，为研究框架而非投资建议；采用德鲁肯米勒风格仅为仓库作者的方法框架，非投资者本人认可。文件明确限定不适用于无清晰主导驱动、无流动性表达、或追求低波动分散配置的情形；风险自负，无任何盈利保证。",
+      "environmentEn": "A text-analysis environment for structured macro-judgment writing; no automated data feeds are required.",
+      "outputs": [
+        "判定结论（Press/Probe/Hold/Cut/Pass）",
+        "主导驱动因素分析",
+        "流动性与政策评估",
+        "交易表达与仓位风险方案",
+        "证伪条件与缺失数据清单"
+      ],
+      "tags": [
+        "宏观交易",
+        "流动性",
+        "风险管理",
+        "集中仓位",
+        "止损纪律"
+      ],
+      "category": "macro",
+      "id": "skill-5b49bbc0765dd557",
+      "author": "questflowai",
+      "originalName": "druckenmiller",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/druckenmiller/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/druckenmiller/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "name": "段永平本分价值投资分析",
+      "exampleEn": "A user supplies a consumer company's financial summary, sector context, and holding horizon; the skill outputs a verdict of Own / Watch / Too Hard / Too Expensive / Pass with thesis, evidence, risks, invalidation conditions, and explicitly flagged missing data.",
+      "evidenceQuotes": [
+        "Use when evaluating stocks through Duan Yongping's benfen (本分) value investing lens: good business, right price, long hold, understand what you own",
+        "1. Ask: do I understand this business? If not, stop.\n2. Judge: is it a good business? Moat, pricing power, durable economics."
+      ],
+      "dependencies": [
+        "能够加载 Markdown 技能文件的 LLM 智能体运行环境",
+        "用户提供的标的财务与行业数据"
+      ],
+      "outputsEn": [
+        "Fixed-structure analysis report: verdict (Own / Watch / Too Hard / Too Expensive / Pass)",
+        "Thesis, evidence, risks, action plan",
+        "Invalidation conditions and missing-data list"
+      ],
+      "summaryEn": "Evaluates stocks through a Duan Yongping-style benfen value investing framework: whether the business is understandable, whether it is a good business, and whether the price is right, producing a long-term hold or pass decision structure.",
+      "tagsEn": [
+        "value investing",
+        "benfen",
+        "moat",
+        "margin of safety",
+        "long-term hold",
+        "equity research"
+      ],
+      "environment": "可在支持加载 Markdown 技能文件的 LLM 智能体工作流（如 Questflow 式代理流水线）中使用；分析本身只需文本推理，不要求特定运行时。",
+      "summary": "以段永平式“本分”价值投资框架评估个股：判断生意是否可理解、是否是好生意、价格是否合理，并给出长期持有或放弃的决策结构。",
+      "method": "五步流程：1) 判断是否理解该生意，不理解则停止；2) 评估是否为好生意（护城河、定价权、可持续经济特征）；3) 检查价格是否合理、是否有安全边际；4) 核实管理层是否诚信且利益一致；5) 全部通过则持有，任一不通过则放弃。输出采用固定报告结构（结论/论点/证据/风险/行动计划/失效条件/缺失数据），并区分事实、假设与判断。",
+      "example": "用户提供一家消费类公司的财务摘要、行业背景与持有期限，技能按流程输出“Own / Watch / Too Hard / Too Expensive / Pass”结论，列明论点、证据、风险与失效条件，并明确标注缺失的数据项。",
+      "inputs": [
+        "标的资产、行业、市场或宏观背景",
+        "相关财务、技术面、政策或情绪数据",
+        "时间期限与风险约束",
+        "若涉及仓位则需组合背景"
+      ],
+      "nameEn": "Duan Yongping Benfen Value Investing Analysis",
+      "dependenciesEn": [
+        "LLM agent runtime able to load Markdown skill files",
+        "User-supplied financial and industry data for the subject"
+      ],
+      "inputsEn": [
+        "Asset, sector, market, or macro context",
+        "Relevant financial, technical, policy, or sentiment data",
+        "Time horizon and risk constraints",
+        "Portfolio context if position sizing is requested"
+      ],
+      "methodEn": "Five-step process: 1) Ask whether the business is understood; if not, stop. 2) Judge whether it is a good business (moat, pricing power, durable economics). 3) Check whether the price is right and if there is margin of safety. 4) Verify management honesty and alignment. 5) Own and hold if all pass; pass if any fails. Output follows a fixed report structure (verdict/thesis/evidence/risks/action plan/invalidation/missing data), separating facts, assumptions, and judgment.",
+      "notesEn": "This is a repository-author framework styled on a named investor, not an official skill or endorsement by Duan Yongping. The source file was manually checked but outputs are execution-unverified and market-unvalidated; not financial advice and no returns are promised. If critical data is missing, the process must stop or record the gap under Missing Data rather than treating it as no risk.",
+      "notes": "此技能为仓库作者整理的投资者风格框架，非段永平本人官方技能或背书。来源文件已经人工核对，但分析结果未经实际执行或市场验证；不构成投资建议，不承诺任何收益。若关键数据缺失，应按技能规则停止或在“缺失数据”一节明确记录，而非视为无风险。",
+      "environmentEn": "Usable within LLM agent workflows that load Markdown skill files (e.g., Questflow-style agent pipelines); the analysis itself requires only text reasoning and no specific runtime.",
+      "outputs": [
+        "固定结构分析报告：结论（Own / Watch / Too Hard / Too Expensive / Pass）",
+        "论点、证据、风险、行动计划",
+        "失效条件与缺失数据清单"
+      ],
+      "tags": [
+        "价值投资",
+        "本分",
+        "护城河",
+        "安全边际",
+        "长期持有",
+        "股票研究"
+      ],
+      "category": "valuation",
+      "id": "skill-3f8af7ae32fd77f1",
+      "author": "questflowai",
+      "originalName": "duanyongping-benfen-value",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/duanyongping-benfen-value/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/duanyongping-benfen-value/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "name": "Einhorn法证式做空分析",
+      "exampleEn": "A user asks whether a listed company shows accounting red flags. The workflow requests financial data and time horizon, reads annual report footnotes to detect revenue recognition anomalies, and outputs a forensic verdict with evidence, risks, invalidation conditions, and explicitly listed missing data.",
+      "evidenceQuotes": [
+        "Use this skill to apply David Einhorn-style judgment.",
+        "1. Read primary filings and footnotes.\n2. Identify accounting/governance/capital-allocation mechanism.\n3. Define catalyst and short structure."
+      ],
+      "dependencies": [
+        "财务申报文件与脚注访问渠道",
+        "价格与估值数据（若需仓位设定）"
+      ],
+      "outputsEn": [
+        "Structured forensic judgment report: verdict, thesis, evidence, risks, action plan, invalidation, and missing data list"
+      ],
+      "summaryEn": "A David Einhorn-style forensic research framework for evaluating accounting red flags, governance problems, and capital allocation failures, producing evidence-based long/short verdicts. This is a repository-author framework, not an investor-endorsed official skill.",
+      "tagsEn": [
+        "forensic accounting",
+        "short research",
+        "governance risk",
+        "capital allocation",
+        "risk management"
+      ],
+      "environment": "具备财报文件访问能力的研究环境；支持文档阅读与分析工作流。",
+      "summary": "基于David Einhorn风格的法证式研究框架，评估会计红旗、治理问题与资本配置失败，形成证据驱动的多空判断。该框架为仓库作者整理的研究方法，非Einhorn本人认可的官方技能。",
+      "method": "阅读原始申报文件及脚注；识别会计、治理或资本配置问题机制；定义催化剂与做空结构；针对借券成本、逼空风险与过早入场进行仓位设定。输出结构化判断（Short/Long/Watch/Evidence Incomplete/Pass）、证据、风险、行动计划与失效条件。",
+      "example": "用户询问某上市公司是否存在会计红旗。工作流要求提供财务数据与时间视野，阅读年报脚注识别收入确认异常，输出包含证据、风险与失效条件的法证式判断，并明确列出缺失数据。",
+      "inputs": [
+        "标的资产、组合、主题或市场背景",
+        "相关财务、市场、宏观或结构性数据",
+        "时间视野与风险约束",
+        "当前价格/估值或组合权重（若需仓位建议）"
+      ],
+      "nameEn": "Einhorn Forensic Short Analysis",
+      "dependenciesEn": [
+        "Access to financial filings and footnotes",
+        "Price and valuation data if position sizing is requested"
+      ],
+      "inputsEn": [
+        "Asset, portfolio, theme, or market context",
+        "Relevant financial, market, regime, or structural data",
+        "Time horizon and risk constraints",
+        "Current price/valuation or portfolio weights if sizing is requested"
+      ],
+      "methodEn": "Read primary filings and footnotes; identify the accounting, governance, or capital-allocation mechanism; define the catalyst and short structure; size positions for borrow cost, squeeze risk, and being early. Output a structured verdict (Short/Long/Watch/Evidence Incomplete/Pass) with evidence, risks, action plan, and invalidation conditions.",
+      "notesEn": "Source-checked but execution-unverified. No forced trade conclusion when critical data is missing; no guaranteed returns; facts, assumptions, and judgment are separated. Missing data remains an explicit data gap, not a signal of no risk.",
+      "notes": "来源已核查，执行未验证。当关键数据缺失时不强行给出交易结论；不承诺保证收益；事实、假设与判断分离。数据缺失保持为显性数据缺口，不视为无风险信号。",
+      "environmentEn": "A research environment with access to financial filings; supports document reading and analytical workflows.",
+      "outputs": [
+        "结构化法证式判断报告：结论、论点、证据、风险、行动计划、失效条件与缺失数据清单"
+      ],
+      "tags": [
+        "法证会计",
+        "做空研究",
+        "治理风险",
+        "资本配置",
+        "风险管理"
+      ],
+      "category": "research",
+      "id": "skill-522f66da9cec05ea",
+      "author": "questflowai",
+      "originalName": "einhorn-forensic-short",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/einhorn-forensic-short/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/einhorn-forensic-short/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
     }
   ],
   "evidence": {
     "checks": {
-      "skills": 134,
+      "skills": 137,
       "repositories": 7,
       "executionTestsRun": 0
     },
@@ -9711,7 +9935,7 @@
     },
     {
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "924769bd5b0cabb7200385cee0d5f5dd9cad18c2",
+      "commit": "9df13821d0e0945ad0708cfeb8f7dbd82b9fbf83",
       "license": "MIT",
       "licensePath": "LICENSE",
       "licenseFile": "/licenses/alphakit-LICENSE.txt",
@@ -9733,8 +9957,8 @@
           "file": "/licenses/alphakit-sellside-model-exhibits-LICENSE.txt"
         }
       ],
-      "archive": "Jeromelll--finskillhub-catalog--924769bd5b0cabb7200385cee0d5f5dd9cad18c2.zip",
-      "archiveSha256": "baa051e9be309bb3763a2738fc37f701f8184886dd30201e689107db61dda920",
+      "archive": "Jeromelll--finskillhub-catalog--9df13821d0e0945ad0708cfeb8f7dbd82b9fbf83.zip",
+      "archiveSha256": "8e5d30dbb95d76c830b2db402b83193d50f7bcfc070671cabcd312ea9f8b34ec",
       "description": "FinSkillHub 的三项原创金融研究技能，涵盖增量测算、模型展示表和股票初步研究；案例使用原创合成数据。",
       "descriptionEn": "FinSkillHub original finance research skills for incremental sizing, model exhibits and initial stock research, with original synthetic examples."
     }
