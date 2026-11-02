@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-02",
   "skills": [
     {
       "id": "equity-earnings-update",
@@ -5635,9 +5635,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "9df13821d0e0945ad0708cfeb8f7dbd82b9fbf83",
+      "commit": "45fc938af877c924d502276d40c2a93c84c5a99a",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/9df13821d0e0945ad0708cfeb8f7dbd82b9fbf83/skills/incremental-business-sizing/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/45fc938af877c924d502276d40c2a93c84c5a99a/skills/incremental-business-sizing/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "incremental-business-sizing",
@@ -5646,7 +5646,7 @@
       "nameEn": "Incremental business revenue and profit sizing",
       "category": "research",
       "sourcePath": "skills/incremental-business-sizing/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/9df13821d0e0945ad0708cfeb8f7dbd82b9fbf83/skills/incremental-business-sizing/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/45fc938af877c924d502276d40c2a93c84c5a99a/skills/incremental-business-sizing/SKILL.md",
       "summary": "把产能、用户行为、订阅或交易额拆成可复算的收入、利润与 EPS 驱动链，保留缺失参数并用同一模型制作情景和敏感性分析。",
       "summaryEn": "Builds reproducible revenue, profit and EPS drivers from capacity, user activity, subscriptions or transaction volume. Preserves missing inputs and uses one model for scenarios and sensitivities.",
       "method": "先界定收费对象、资源和时间约束，为参数标明单位、期间及来源，再按依赖图计算各情景；两个敏感性轴替换同一模型中的指定输入。",
@@ -5705,9 +5705,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "9df13821d0e0945ad0708cfeb8f7dbd82b9fbf83",
+      "commit": "45fc938af877c924d502276d40c2a93c84c5a99a",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/9df13821d0e0945ad0708cfeb8f7dbd82b9fbf83/skills/sellside-model-exhibits/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/45fc938af877c924d502276d40c2a93c84c5a99a/skills/sellside-model-exhibits/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "sellside-model-exhibits",
@@ -5716,7 +5716,7 @@
       "nameEn": "Financial model exhibits and sensitivity tables",
       "category": "operations",
       "sourcePath": "skills/sellside-model-exhibits/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/9df13821d0e0945ad0708cfeb8f7dbd82b9fbf83/skills/sellside-model-exhibits/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/45fc938af877c924d502276d40c2a93c84c5a99a/skills/sellside-model-exhibits/SKILL.md",
       "summary": "把同一份已完成测算制作成计算桥、情景表和敏感性矩阵，保留单位、年份、来源和未知值，输出文档、图片与公式工作簿。",
       "summaryEn": "Turns one completed model result into a calculation bridge, scenario table and sensitivity matrices. Retains units, periods, sources and unknown values, and exports documents, images and formula workbooks.",
       "method": "读取版本化计算结果，根据角色、表达式和状态排版；各格式共享同一数值来源，公式仅绑定到同一情景中的有效输入。",
@@ -5777,9 +5777,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "9df13821d0e0945ad0708cfeb8f7dbd82b9fbf83",
+      "commit": "45fc938af877c924d502276d40c2a93c84c5a99a",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/9df13821d0e0945ad0708cfeb8f7dbd82b9fbf83/skills/pre-trade-quick-brief/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/45fc938af877c924d502276d40c2a93c84c5a99a/skills/pre-trade-quick-brief/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "pre-trade-quick-brief",
@@ -5788,7 +5788,7 @@
       "nameEn": "Quick initial research for a new stock",
       "category": "research",
       "sourcePath": "skills/pre-trade-quick-brief/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/9df13821d0e0945ad0708cfeb8f7dbd82b9fbf83/skills/pre-trade-quick-brief/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/45fc938af877c924d502276d40c2a93c84c5a99a/skills/pre-trade-quick-brief/SKILL.md",
       "summary": "先解释市场叙事与新增经营变量，再拆出受约束的业绩上限、三个盈利时间窗、前瞻估值和下一验证点，保留资料缺口。",
       "summaryEn": "Explains the market narrative and new operating variables, then develops a constrained earnings ceiling, three earnings windows, forward valuation conditions and the next verification point while preserving evidence gaps.",
       "method": "冻结信息时点，建立旧预期到新参数的证据链，核对需求、供给、期间、成本及融资稀释，并把当前价值和远期条件终值分开。",
@@ -9704,11 +9704,227 @@
       "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
       "sourceVerified": true,
       "executionVerified": false
+    },
+    {
+      "environmentEn": "A judgment module inside Questflow-style agent workflows; no mandatory data subscription, but relevant financial, technical, policy, or sentiment data is needed.",
+      "inputs": [
+        "标的资产、行业、市场或宏观背景",
+        "相关财务、技术、政策或情绪数据",
+        "时间期限与风险约束",
+        "如需仓位建议则提供组合背景"
+      ],
+      "category": "research",
+      "notesEn": "A Feng Liu-style judgment framework curated by repository authors, not an investor-endorsed official skill. Explicitly not financial advice; refuse use when guaranteed returns or unbounded leverage are requested, when critical data is missing, or for generic chatter. Facts, assumptions, and judgment must be separated; invalidation must be defined before sizing. This entry is source-checked but execution-unverified.",
+      "evidenceQuotes": [
+        "Identify where consensus is strongest and potentially wrong.",
+        "Size by probability, not by conviction. Add as evidence improves."
+      ],
+      "dependenciesEn": [
+        "Relevant market and fundamental data (financial, technical, policy, sentiment)",
+        "User-supplied subject and risk constraints"
+      ],
+      "methodEn": "Four steps: (1) identify where consensus is strongest and potentially wrong; (2) check if downside is already priced in; (3) assess asymmetry between upside if consensus breaks and cost if it does not; (4) size by probability, adding as evidence improves. Output a verdict (Asymmetric Long / Watch / Consensus Still Right / Pass) with thesis, evidence, risks, action plan, and invalidation conditions.",
+      "outputsEn": [
+        "Verdict (Asymmetric Long / Watch / Consensus Still Right / Pass)",
+        "Thesis and evidence",
+        "Risks list",
+        "Action plan",
+        "Invalidation conditions",
+        "Missing data notes"
+      ],
+      "example": "用户问：'用弱者体系分析某A股白酒股，当前股价较三年高点回撤60%，机构持仓降至历史低位。' 技能输出：判定'非对称做多候选'，说明悲观定价证据（估值分位、持仓数据）、风险（渠道库存恶化）、建仓计划（小仓位起步）与失效条件（基本面恶化超预期）。",
+      "tagsEn": [
+        "reverse investing",
+        "A-shares",
+        "asymmetric risk-reward",
+        "position sizing",
+        "investing judgment framework"
+      ],
+      "exampleEn": "User asks: 'Apply the weak-hand framework to an A-share liquor stock down 60% from its three-year high with institutional holdings at multi-year lows.' The skill outputs a 'Asymmetric Long candidate' verdict with evidence of priced-in pessimism (valuation percentile, holdings data), risks, a small initial position plan, and invalidation triggers.",
+      "notes": "此为仓库作者整理的冯柳风格判断框架，非冯柳本人官方技能。明确声明不构成投资建议；在请求保证收益或无上限杠杆、关键数据缺失、或纯闲聊时应拒绝使用。事实、假设与判断需分开，仓位确定前须先定义失效条件。此条目经来源核对，未经验证执行。",
+      "tags": [
+        "逆向投资",
+        "A股",
+        "非对称风险回报",
+        "仓位管理",
+        "投资判断框架"
+      ],
+      "outputs": [
+        "判定（非对称做多/观察/共识仍正确/放弃）",
+        "论点与证据",
+        "风险清单",
+        "行动计划",
+        "失效条件",
+        "缺失数据说明"
+      ],
+      "method": "四步流程：(1) 识别共识最强且可能出错之处；(2) 检查下行风险是否已充分定价（跌不动）；(3) 评估非对称性——共识证伪时的上行空间 vs 共识维持时的成本；(4) 按概率而非信念配置仓位，证据改善时再加仓。输出判定（非对称做多/观察/共识仍正确/放弃）、论点、证据、风险、行动计划与失效条件。",
+      "summaryEn": "Evaluate stocks through Feng Liu's weak-hand reverse investing lens: assume less information, seek asymmetric risk/reward, buy at maximum pessimism, and size positions by probability.",
+      "dependencies": [
+        "相关市场与基本面数据（财务、技术、政策、情绪）",
+        "用户提供的标的与风险约束"
+      ],
+      "name": "冯柳弱者体系逆向投资分析",
+      "inputsEn": [
+        "Asset, sector, market, or macro context",
+        "Relevant financial, technical, policy, or sentiment data",
+        "Time horizon and risk constraints",
+        "Portfolio context if sizing is requested"
+      ],
+      "environment": " Questflow 式 agent 工作流中作为判断模块使用；无强制数据订阅，但需相关财务、技术、政策或情绪数据。",
+      "summary": "以冯柳'弱者体系'视角评估股票：假设信息劣势，寻找非对称风险回报，在悲观极值处买入，按概率管理仓位。",
+      "nameEn": "Feng Liu Reverse Weak-Hand Investing Analysis",
+      "id": "skill-2bda049fbb56530d",
+      "author": "questflowai",
+      "originalName": "fengliu-reverse-weakhand",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/fengliu-reverse-weakhand/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/fengliu-reverse-weakhand/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "environmentEn": "Usable in any research assistant environment that supports Markdown prompt skills; no specific data feeds or tools required.",
+      "inputs": [
+        "评估对象（公司、项目、代币、报告或市场背景）",
+        "原始文档、产品数据、用户或收入证据",
+        "时间期限、资本结构与风险约束",
+        "估值或轮次定价（如涉及规模决策）"
+      ],
+      "category": "research",
+      "notesEn": "This is a repository-author judgment-style framework, not an official Founders Fund skill or endorsement. Outputs are source-checked but execution-unverified; it explicitly disclaims financial advice, promises no guaranteed returns, and requires missing data to be listed explicitly rather than treated as no risk.",
+      "evidenceQuotes": [
+        "1. State the non-consensus insight.\n2. Test whether the secret is important and true.",
+        "- Do not force conviction without evidence.\n- Do not ignore incentives, structure, or liquidity/risk constraints."
+      ],
+      "dependenciesEn": [
+        "Markdown-compatible research assistant environment"
+      ],
+      "methodEn": "State the non-consensus insight, test whether the secret is important and true, assess technical and founder capacity to execute, and reject crowded incremental products; output verdict, thesis, evidence, risks, action plan, invalidation criteria, and missing-data list.",
+      "outputsEn": [
+        "Markdown judgment report: verdict, thesis, evidence, risks, action plan, invalidation criteria, missing data"
+      ],
+      "example": "用户提供一个硬科技初创公司的公开材料与轮次定价，请求非共识尽职审查；技能产出包含'Too Consensus'或'Contrarian Invest'结论的 Markdown 报告，并列出缺失数据项。",
+      "tagsEn": [
+        "venture capital",
+        "contrarian investing",
+        "hard-tech diligence",
+        "non-consensus judgment"
+      ],
+      "exampleEn": "Given a hard-tech startup's public materials and round pricing, the user requests a contrarian diligence review; the skill outputs a Markdown report with a verdict such as 'Too Consensus' or 'Contrarian Invest' plus a missing-data section.",
+      "notes": "该框架为仓库作者的判断风格模拟，非 Founders Fund 官方技能或背书。产出未经执行验证，仅做来源核对；明确声明不构成投资建议，不承诺收益，缺失数据需显式列出而非默认无风险。",
+      "tags": [
+        "风险投资",
+        "逆向投资",
+        "硬科技尽调",
+        "非共识判断"
+      ],
+      "outputs": [
+        "Markdown 判断报告：结论、论点、证据、风险、行动方案、失效条件、缺失数据"
+      ],
+      "method": "先陈述非共识洞察，再检验该 secret 是否重要且真实，评估技术与创始人执行力，拒绝拥挤的渐进式产品；输出包括结论、论点、证据、风险、行动方案、失效条件与缺失数据清单。",
+      "summaryEn": "Evaluates startups through a Founders Fund-style contrarian lens, testing whether non-consensus insights are important and true, and producing a verdict report with invalidation criteria.",
+      "dependencies": [
+        "Markdown 兼容的研究助手环境"
+      ],
+      "name": "Founders Fund 风格逆向投资判断",
+      "inputsEn": [
+        "Subject of evaluation (company, project, token, report, or market context)",
+        "Primary documents, product data, user/revenue evidence",
+        "Time horizon, capital structure, and risk constraints",
+        "Valuation or round pricing if sizing is requested"
+      ],
+      "environment": "可在任何支持 Markdown 提示技能的研究助手环境中使用；不依赖特定数据源或工具。",
+      "summary": "以 Founders Fund 风格的逆向思维框架评估初创项目，检验非共识洞察是否重要且真实，输出带失效条件的投资判断报告。",
+      "nameEn": "Founders Fund Contrarian Judgment",
+      "id": "skill-5d0583bef7a04a67",
+      "author": "questflowai",
+      "originalName": "founders-fund-contrarian",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/founders-fund-contrarian/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/founders-fund-contrarian/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "environmentEn": "Requires an analytical environment with access to target companies' balance sheet and market price data; used as a judgment module within research workflows and decision support.",
+      "inputs": [
+        "资产、组合、主题或市场背景",
+        "相关财务、市场、周期或结构性数据",
+        "时间期限与风险约束",
+        "当前价格/估值或组合权重（若需仓位建议）"
+      ],
+      "category": "valuation",
+      "notesEn": "This is a repository-author framework in the Graham style, not an investor-endorsed official skill. Source-checked but execution-unverified; missing critical data must be listed explicitly as a gap, and unavailable data must never be treated as absence of risk.",
+      "evidenceQuotes": [
+        "1. Calculate NCAV / tangible asset value.\n2. Haircut dubious assets and check liabilities.",
+        "Prefer a basket of discounts rather than one story stock.\n4. Exit when price converges to value or assets impair."
+      ],
+      "dependenciesEn": [
+        "Target company balance sheet data",
+        "Market price data"
+      ],
+      "methodEn": "First calculate NCAV/tangible asset value, then haircut dubious assets and check liabilities; prefer a basket of discounts rather than a single story stock; exit when price converges to value or assets impair. Output follows a fixed format with verdict, evidence, risks, action plan, invalidation, and missing-data sections.",
+      "outputsEn": [
+        "Structured Graham net-net value view with verdict, evidence, risks, action plan, invalidation, and missing data"
+      ],
+      "example": "对一家交易价格低于其NCAV的上市公司进行筛选：按流动资产减全部负债计算NCAV，对存货与应收款打折，若折价幅度达标则纳入篮子，并注明缺失的分部数据。",
+      "tagsEn": [
+        "deep value",
+        "Graham",
+        "NCAV",
+        "margin of safety",
+        "valuation"
+      ],
+      "exampleEn": "Screen a listed company trading below its NCAV: compute NCAV as current assets minus total liabilities, haircut inventory and receivables, add to a basket if the discount qualifies, and flag missing segment data.",
+      "notes": "此技能为仓库作者整理的格雷厄姆风格框架，非格雷厄姆本人或任何投资人官方认可。内容经过来源核对但未经验证执行；当关键数据缺失时必须显式列为数据缺口，不得将数据不可得当作无风险。",
+      "tags": [
+        "深度价值",
+        "格雷厄姆",
+        "净流动资产",
+        "安全边际",
+        "估值"
+      ],
+      "outputs": [
+        "结构化的格雷厄姆净流动资产价值判断报告，含结论、论据、风险、行动计划、失效条件与缺失数据"
+      ],
+      "method": "先计算NCAV/有形资产价值，再对可疑资产进行减值处理并核查负债；优先构建折价篮子而非单一故事股；当价格回归价值或资产出现减值时退出。输出包含结论、论据、风险、行动计划、失效条件与缺失数据清单的固定格式。",
+      "summaryEn": "Applies Benjamin Graham-style deep value analysis: computes NCAV, haircuts dubious assets, prefers discounted baskets with exit rules, and produces a structured value judgment report.",
+      "dependencies": [
+        "目标公司资产负债表数据",
+        "市场价格数据"
+      ],
+      "name": "格雷厄姆净流动资产净值法（Net-Net）",
+      "inputsEn": [
+        "Asset, portfolio, theme, or market context",
+        "Relevant financial, market, regime, or structural data",
+        "Time horizon and risk constraints",
+        "Current price/valuation or portfolio weights if sizing is requested"
+      ],
+      "environment": "需要能够获取目标公司资产负债表与市场价格数据的分析环境；作为判断模块用于研究工作流与决策支持。",
+      "summary": "以本杰明·格雷厄姆风格评估深度价值机会：计算NCAV、对可疑资产打折、优先选择折价篮子并设定退出规则，输出结构化的价值判断报告。",
+      "nameEn": "Graham Net-Net Deep Value",
+      "id": "skill-ccf35b2da60abe7a",
+      "author": "questflowai",
+      "originalName": "graham-net-net",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/graham-net-net/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/graham-net-net/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
     }
   ],
   "evidence": {
     "checks": {
-      "skills": 137,
+      "skills": 140,
       "repositories": 7,
       "executionTestsRun": 0
     },
@@ -9935,7 +10151,7 @@
     },
     {
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "9df13821d0e0945ad0708cfeb8f7dbd82b9fbf83",
+      "commit": "45fc938af877c924d502276d40c2a93c84c5a99a",
       "license": "MIT",
       "licensePath": "LICENSE",
       "licenseFile": "/licenses/alphakit-LICENSE.txt",
@@ -9957,8 +10173,8 @@
           "file": "/licenses/alphakit-sellside-model-exhibits-LICENSE.txt"
         }
       ],
-      "archive": "Jeromelll--finskillhub-catalog--9df13821d0e0945ad0708cfeb8f7dbd82b9fbf83.zip",
-      "archiveSha256": "8e5d30dbb95d76c830b2db402b83193d50f7bcfc070671cabcd312ea9f8b34ec",
+      "archive": "Jeromelll--finskillhub-catalog--45fc938af877c924d502276d40c2a93c84c5a99a.zip",
+      "archiveSha256": "89391f1f1e5900903a1228e2ff5498d8c8f1290903d356728ffce21962eb8e64",
       "description": "FinSkillHub 的三项原创金融研究技能，涵盖增量测算、模型展示表和股票初步研究；案例使用原创合成数据。",
       "descriptionEn": "FinSkillHub original finance research skills for incremental sizing, model exhibits and initial stock research, with original synthetic examples."
     }
