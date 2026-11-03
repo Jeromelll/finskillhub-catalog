@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02",
+  "updatedAt": "2026-11-03",
   "skills": [
     {
       "id": "equity-earnings-update",
@@ -5635,9 +5635,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "45fc938af877c924d502276d40c2a93c84c5a99a",
+      "commit": "3c2d6a89931d3b357c2c93b60e675fa9e8d32c82",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/45fc938af877c924d502276d40c2a93c84c5a99a/skills/incremental-business-sizing/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/3c2d6a89931d3b357c2c93b60e675fa9e8d32c82/skills/incremental-business-sizing/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "incremental-business-sizing",
@@ -5646,7 +5646,7 @@
       "nameEn": "Incremental business revenue and profit sizing",
       "category": "research",
       "sourcePath": "skills/incremental-business-sizing/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/45fc938af877c924d502276d40c2a93c84c5a99a/skills/incremental-business-sizing/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/3c2d6a89931d3b357c2c93b60e675fa9e8d32c82/skills/incremental-business-sizing/SKILL.md",
       "summary": "把产能、用户行为、订阅或交易额拆成可复算的收入、利润与 EPS 驱动链，保留缺失参数并用同一模型制作情景和敏感性分析。",
       "summaryEn": "Builds reproducible revenue, profit and EPS drivers from capacity, user activity, subscriptions or transaction volume. Preserves missing inputs and uses one model for scenarios and sensitivities.",
       "method": "先界定收费对象、资源和时间约束，为参数标明单位、期间及来源，再按依赖图计算各情景；两个敏感性轴替换同一模型中的指定输入。",
@@ -5705,9 +5705,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "45fc938af877c924d502276d40c2a93c84c5a99a",
+      "commit": "3c2d6a89931d3b357c2c93b60e675fa9e8d32c82",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/45fc938af877c924d502276d40c2a93c84c5a99a/skills/sellside-model-exhibits/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/3c2d6a89931d3b357c2c93b60e675fa9e8d32c82/skills/sellside-model-exhibits/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "sellside-model-exhibits",
@@ -5716,7 +5716,7 @@
       "nameEn": "Financial model exhibits and sensitivity tables",
       "category": "operations",
       "sourcePath": "skills/sellside-model-exhibits/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/45fc938af877c924d502276d40c2a93c84c5a99a/skills/sellside-model-exhibits/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/3c2d6a89931d3b357c2c93b60e675fa9e8d32c82/skills/sellside-model-exhibits/SKILL.md",
       "summary": "把同一份已完成测算制作成计算桥、情景表和敏感性矩阵，保留单位、年份、来源和未知值，输出文档、图片与公式工作簿。",
       "summaryEn": "Turns one completed model result into a calculation bridge, scenario table and sensitivity matrices. Retains units, periods, sources and unknown values, and exports documents, images and formula workbooks.",
       "method": "读取版本化计算结果，根据角色、表达式和状态排版；各格式共享同一数值来源，公式仅绑定到同一情景中的有效输入。",
@@ -5777,9 +5777,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "45fc938af877c924d502276d40c2a93c84c5a99a",
+      "commit": "3c2d6a89931d3b357c2c93b60e675fa9e8d32c82",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/45fc938af877c924d502276d40c2a93c84c5a99a/skills/pre-trade-quick-brief/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/3c2d6a89931d3b357c2c93b60e675fa9e8d32c82/skills/pre-trade-quick-brief/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "pre-trade-quick-brief",
@@ -5788,7 +5788,7 @@
       "nameEn": "Quick initial research for a new stock",
       "category": "research",
       "sourcePath": "skills/pre-trade-quick-brief/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/45fc938af877c924d502276d40c2a93c84c5a99a/skills/pre-trade-quick-brief/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/3c2d6a89931d3b357c2c93b60e675fa9e8d32c82/skills/pre-trade-quick-brief/SKILL.md",
       "summary": "先解释市场叙事与新增经营变量，再拆出受约束的业绩上限、三个盈利时间窗、前瞻估值和下一验证点，保留资料缺口。",
       "summaryEn": "Explains the market narrative and new operating variables, then develops a constrained earnings ceiling, three earnings windows, forward valuation conditions and the next verification point while preserving evidence gaps.",
       "method": "冻结信息时点，建立旧预期到新参数的证据链，核对需求、供给、期间、成本及融资稀释，并把当前价值和远期条件终值分开。",
@@ -9920,11 +9920,257 @@
       "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
       "sourceVerified": true,
       "executionVerified": false
+    },
+    {
+      "name": "灰度加密行业分类与行业份额估值",
+      "nameEn": "Grayscale Crypto Sectors Classification and Sector-Share Valuation",
+      "outputs": [
+        "行业分类结论",
+        "指数资格评估",
+        "基本面指标表",
+        "行业份额估值",
+        "催化剂与产品结构分析",
+        "尾部风险与配置建议",
+        "失效条件与缺失数据清单"
+      ],
+      "notesEn": "This is a repository-author framework built on Grayscale Research's publicly stated judgment system, not an official Grayscale skill or endorsement. Source-checked but execution-unverified. Reports must include a Missing Data section; unavailable feeds or failed access must remain an explicit data gap and never be reported as no material events or no risk. Not financial advice; separate facts, assumptions, and judgment.",
+      "inputs": [
+        "代币/主题/灰度产品代码",
+        "行业归属与同业",
+        "流通市值、行业市值与隐含行业份额",
+        "活跃地址、交易数与费用",
+        "代币通胀与解锁计划",
+        "催化剂：升级、立法、ETP/ETF申请",
+        "上市产品的NAV、市价与溢折价",
+        "投资期限与仓位定位"
+      ],
+      "environment": "需要加密市场数据源（市值、费用、活跃地址、交易量）、指数资格规则文件、ETP/信托NAV与溢价数据、以及监管/ETF文件动态。缺少实时数据时输出临时性行业备忘而非虚假精确目标价。",
+      "summaryEn": "A crypto research workflow modeled on Grayscale Research's public judgment system: classify the asset first, then test index eligibility, fee/usage fundamentals, and value via sector share rather than a Bitcoin-replacement narrative, before layering ETP/trust wrapper analysis.",
+      "notes": "这是仓库作者对灰度研究公开判断体系的框架整理，非灰度官方技能或背书。来源已核查但执行未验证；报告必须包含Missing Data部分，缺失数据保持显式缺口，访问失败或数据缺失不等于无风险。非投资建议，需区分事实、假设与判断。",
+      "outputsEn": [
+        "Sector classification verdict",
+        "Index eligibility assessment",
+        "Fundamentals metrics table",
+        "Sector-share valuation",
+        "Catalysts and wrapper analysis",
+        "Tail risks and sizing",
+        "Invalidation conditions and missing-data list"
+      ],
+      "dependenciesEn": [
+        "Crypto market data API or terminal",
+        "FTSE/Grayscale index rule documents",
+        "ETP/trust NAV and premium data source",
+        "ETF filing and regulatory announcement tracker"
+      ],
+      "dependencies": [
+        "加密市场数据API或终端",
+        "FTSE/灰度指数规则文件",
+        "ETP/信托NAV与溢价数据源",
+        "ETF申请与监管公告跟踪"
+      ],
+      "method": "1) 指定唯一主行业，不把货币当应用代币评分；2) 检查指数纳入资格：用例匹配、上市、市值门槛、ADTV、托管/准入与法律可行性；3) 以费用作为最难伪造的收入代理，配合用户数与交易数衡量基本面；4) 用行业份额估值，测算温和份额获取的隐含市值；5) 区分使用证据与叙事热度；6) 最后叠加产品结构：信托vs ETF、NAV溢折价、授权参与人套利；7) 作为卫星仓位或主题叠加配置。",
+      "example": "用户询问ZEC：归类为Currencies行业，检查FTSE/灰度指数资格与ZCSH信托NAV溢价，以费用和活跃地址验证隐私支付用例，测算其对Currencies行业0.5%-2%份额获取的隐含估值，作为卫星主题仓位配置并明确失效条件。",
+      "tagsEn": [
+        "crypto assets",
+        "sector taxonomy",
+        "index eligibility",
+        "sector-share valuation",
+        "ETP wrappers",
+        "NAV premium/discount",
+        "privacy coins"
+      ],
+      "category": "research",
+      "summary": "一套借鉴灰度研究公开判断框架的加密资产研究流程：先做行业分类，再检验指数纳入资格、费用/使用基本面，并以行业份额而非“取代比特币”进行估值，最后叠加ETP/信托产品结构分析。",
+      "inputsEn": [
+        "Token, theme, or Grayscale product ticker",
+        "Sector assignment and peers",
+        "Circulating market cap, sector market cap, implied sector share",
+        "Active addresses, transactions, and fees",
+        "Token supply inflation and unlocks",
+        "Catalysts: upgrades, legislation, ETP/ETF filings",
+        "NAV, market price, premium/discount for listed products",
+        "Time horizon and sleeve positioning"
+      ],
+      "tags": [
+        "加密资产",
+        "行业分类",
+        "指数纳入",
+        "行业份额估值",
+        "ETP结构",
+        "NAV溢折价",
+        "隐私币"
+      ],
+      "environmentEn": "Requires crypto market data feeds (market cap, fees, active addresses, volumes), index eligibility rule documents, ETP/trust NAV and premium data, and regulatory/ETF filing trackers. When live data is missing, output a provisional sector memo rather than a false-precision target.",
+      "exampleEn": "A user asks about ZEC: classify under Currencies, check FTSE/Grayscale index eligibility and ZCSH trust NAV premium, validate the private-payments use case with fees and active addresses, estimate implied valuation at 0.5%-2% Currencies sector share capture, size as a satellite theme with explicit invalidation conditions.",
+      "evidenceQuotes": [
+        "classify first, then ask whether the token is index-eligible, whether usage/fees support the use case, and whether valuation vs its Crypto Sector still prices the theme as a rounding error",
+        "Value against sector share, not against \"replacing Bitcoin.\" Ask what modest share capture would imply."
+      ],
+      "methodEn": "1) Assign one primary Crypto Sector; do not score a currency like an app token. 2) Check index eligibility: use-case fit, listings, market-cap floor, ADTV, custody/access, legal viability. 3) Measure fundamentals treating fees as the hardest-to-fake revenue proxy, paired with users and transactions. 4) Value via sector share, asking what modest share capture implies for market cap. 5) Separate usage evidence from narrative mindshare. 6) Layer the product wrapper last: trust vs ETF, NAV gap, authorized-participant arbitrage, sponsor flows. 7) Size as a satellite/theme overlay, not a Bitcoin substitute.",
+      "id": "skill-12d31aebd1d8c66d",
+      "author": "questflowai",
+      "originalName": "grayscale-crypto-sectors",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/grayscale-crypto-sectors/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/grayscale-crypto-sectors/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "name": "Greenblatt特殊情况事件驱动分析",
+      "nameEn": "Greenblatt Special Situations Event-Driven Analysis",
+      "outputs": [
+        "特殊情形投资备忘录",
+        "结论评级（买入/观察/事件过于拥挤/无错误定价/放弃）",
+        "催化剂与风险清单"
+      ],
+      "notesEn": "This is a repository-author framework in the style of Joel Greenblatt's methods, not an investor-endorsed official skill. The file provides a method and output template only, with no verified trade execution or data sources; conclusions require user verification. This entry is source-checked but execution-unverified. Guardrails state: do not buy every spinoff blindly, do not ignore pro forma leverage, do not assume event complexity equals value. No actual financial data sources are specified; data availability is an explicit gap.",
+      "inputs": [
+        "事件公告（分拆、重组、并购证券、权利发行）",
+        "母公司与分拆实体的财务数据",
+        "备考杠杆信息",
+        "股东结构与指数纳入规则"
+      ],
+      "environment": "可在任何支持读取Markdown技能文件的助手环境中使用；文件提及Questflow平台用于事件驱动股票发现与备忘录生成，该平台集成未经独立验证。",
+      "summaryEn": "Applies a Greenblatt-style event-driven value framework to spinoffs, restructurings, merger securities, and forced-selling cases, producing a structured special-situation investment memo.",
+      "notes": "本条目为仓库作者整理的分析框架，以Joel Greenblatt命名的方法风格，并非Greenblatt本人认可或官方技能。内容为方法与输出模板，未包含任何已验证的交易执行或数据源；所有结论需使用者自行核实，属来源核查但未经验证执行的资源。文件护栏明确：不盲目买入所有分拆、不忽视备考杠杆、不假设事件复杂性等同于价值。文件未提供实际财务数据来源，数据可用性为明确缺口。",
+      "outputsEn": [
+        "Special-situation investment memo",
+        "Verdict rating (Buy/Watchlist/Event Too Crowded/No Mispricing/Pass)",
+        "Catalyst and risk list"
+      ],
+      "dependenciesEn": [
+        "Environment that reads Markdown skill files",
+        "Optional: Questflow platform (mentioned in file, unverified)"
+      ],
+      "dependencies": [
+        "Markdown技能文件读取环境",
+        "可选：Questflow平台（文件提及，未验证）"
+      ],
+      "method": "五步流程：1) 识别事件及自然持有人可能抛售的结构性原因；2) 拆分母公司、分拆实体、剩余权益、权利或并购对价；3) 评估业务质量与正常化盈利；4) 将估值与隐藏或独立价值比较；5) 定义事件催化剂及事件后的股东结构。最终按固定模板输出结论（买入/观察/事件过于拥挤/无错误定价/放弃）。",
+      "example": "示例输入：一家上市公司宣布剥离非核心子公司并按比例分配股份给股东。示例输出：备忘录指出指数强制卖出机制，估算分拆实体独立估值与正常化盈利，给出催化剂时间表与风险清单，结论为'观察'。",
+      "tagsEn": [
+        "event-driven",
+        "special situations",
+        "spinoffs",
+        "value investing",
+        "magic formula",
+        "equity research"
+      ],
+      "category": "research",
+      "summary": "基于Greenblatt式事件驱动价值投资框架，分析分拆、重组、并购证券与被迫抛售情形，输出结构化的特殊情形投资备忘录。",
+      "inputsEn": [
+        "Event announcements (spinoff, restructuring, merger security, rights offering)",
+        "Parent and spun-off entity financials",
+        "Pro forma leverage information",
+        "Shareholder base and index inclusion rules"
+      ],
+      "tags": [
+        "事件驱动",
+        "特殊情形",
+        "分拆",
+        "价值投资",
+        "魔幻公式",
+        "股权研究"
+      ],
+      "environmentEn": "Usable in any assistant environment that reads Markdown skill files; the file references the Questflow platform for event-driven stock discovery and memo generation, an integration not independently verified.",
+      "exampleEn": "Example input: a listed company announces a spinoff of a non-core subsidiary with pro rata share distribution. Example output: a memo identifying index-driven forced selling, estimating standalone value and normalized earnings, listing the catalyst timeline and risks, with a verdict of 'Watchlist'.",
+      "evidenceQuotes": [
+        "Use this skill to apply Joel Greenblatt-style event-driven value: look where structural reasons force investors to sell or ignore securities",
+        "1. Identify the event and why natural holders may sell.\n2. Separate parent, spin, stub, rights, or merger consideration."
+      ],
+      "methodEn": "Five steps: 1) identify the event and why natural holders may sell; 2) separate parent, spin, stub, rights, or merger consideration; 3) underwrite business quality and normalized earnings; 4) compare valuation to hidden or standalone value; 5) define the event catalyst and post-event shareholder base. Output a fixed memo template with a verdict of Buy / Watchlist / Event Too Crowded / No Mispricing / Pass.",
+      "id": "skill-837b3446ad8cb823",
+      "author": "questflowai",
+      "originalName": "greenblatt-special-situations",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/greenblatt-special-situations/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/greenblatt-special-situations/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "name": "霍恩集中优质股评估框架",
+      "nameEn": "Hohn Concentrated Quality Framework",
+      "outputs": [
+        "结构化Markdown判断报告:判定、论点、证据、风险、行动计划、失效条件、缺失数据"
+      ],
+      "notesEn": "This is a source-checked, execution-unverified research framework; author-style frameworks do not imply endorsement by Chris Hohn or TCI. The skill mandates separating facts, assumptions, and judgment, and forbids forcing trades when filters fail. Missing data must be listed explicitly as a gap; a quiet news day is not evidence of no events, and failed data access must not be treated as no risk. No profit guarantees.",
+      "inputs": [
+        "标的资产、组合、主题或市场背景",
+        "相关财务、市场、宏观环境或结构性数据",
+        "时间期限与风险约束",
+        "若涉及仓位 sizing:当前价格/估值或组合权重"
+      ],
+      "environment": "纯文本/文档驱动的分析工作流,可在任何支持结构化提示或文档读取的LLM研究环境中使用;无强制外部工具依赖,但需要用户自备财务与市场数据。",
+      "summaryEn": "A judgment module styled after Chris Hohn/TCI concentrated quality investing, evaluating pricing power, high returns on capital, long-duration compounding, and engagement as a value lever. This is a repository-author framework, not an investor-endorsed official skill.",
+      "notes": "该技能为源文件核查后的研究框架,执行结果未经真实交易验证;作者风格框架不代表Chris Hohn或TCI官方背书。框架明确要求\"分离事实、假设与判断\",过滤器失败时不强推交易。缺失数据须在输出中作为显式数据缺口列出;新闻面平静不等于无事件,数据获取失败不可当作无风险。不提供任何收益保证。",
+      "outputsEn": [
+        "Structured Markdown judgment report: verdict, thesis, evidence, risks, action plan, invalidation triggers, missing data"
+      ],
+      "dependenciesEn": [
+        "LLM research environment",
+        "User-supplied financial and market data"
+      ],
+      "dependencies": [
+        "LLM研究环境",
+        "用户提供的财务与市场数据"
+      ],
+      "method": "四步流程:1) 评估业务质量与定价权;2) 估算长期ROIC与增长跑道;3) 将估值与多年复利路径对比;4) 当治理或资本配置可提升价值时纳入参与(engagement)策略。输出包含判定(集中持有/参与/观察/质量破坏/放弃)、论点、证据、风险、行动计划、失效条件与缺失数据清单。",
+      "example": "用户提供一家软件公司名称、最近三年ROIC、毛利率趋势、当前EV/EBITDA与十年期风险约束,框架输出\"集中持有\"判定、定价权证据、估值对复利的敏感性及失效条件(如定价权证据减弱)。",
+      "tagsEn": [
+        "concentrated investing",
+        "quality compounders",
+        "pricing power",
+        "ROIC",
+        "engagement",
+        "investment framework"
+      ],
+      "category": "research",
+      "summary": "借鉴Chris Hohn/TCI风格的集中优质投资判断模块,用于评估定价权、高资本回报与长期复利,并在治理可改善价值时纳入股东参与视角。该框架为仓库作者整理的研究风格,并非投资者本人官方背书。",
+      "inputsEn": [
+        "Asset, portfolio, theme, or market context",
+        "Relevant financial, market, regime, or structural data",
+        "Time horizon and risk constraints",
+        "If sizing is requested: current price/valuation or portfolio weights"
+      ],
+      "tags": [
+        "集中投资",
+        "优质复利股",
+        "定价权",
+        "ROIC",
+        "股东参与",
+        "投资框架"
+      ],
+      "environmentEn": "A text/document-driven analytical workflow usable in any LLM research environment supporting structured prompts or document reading; no mandatory external tools, but users must supply their own financial and market data.",
+      "exampleEn": "Given a software company, three years of ROIC, gross-margin trends, current EV/EBITDA, and a 10-year risk constraint, the framework outputs a 'Concentrated Own' verdict with pricing-power evidence, valuation-versus-compounding sensitivity, and invalidation triggers (e.g., weakening pricing-power evidence).",
+      "evidenceQuotes": [
+        "Score business quality and pricing power.\n2. Estimate long-term ROIC and runway.\n3. Check valuation versus multi-year compounding.",
+        "Do not force a trade when filters fail.\n- Do not ignore risk, liquidity, or regime constraints.\n- Do not mix this model with another unless comparison is requested."
+      ],
+      "methodEn": "Four steps: 1) score business quality and pricing power; 2) estimate long-term ROIC and growth runway; 3) check valuation versus multi-year compounding; 4) apply engagement when governance or capital allocation can improve value. Output includes a verdict (Concentrated Own / Engage / Watch / Quality Broken / Pass), thesis, evidence, risks, action plan, invalidation triggers, and missing-data list.",
+      "id": "skill-90eb394de0a82c3a",
+      "author": "questflowai",
+      "originalName": "hohn-concentrated-quality",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/hohn-concentrated-quality/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/hohn-concentrated-quality/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
     }
   ],
   "evidence": {
     "checks": {
-      "skills": 140,
+      "skills": 143,
       "repositories": 7,
       "executionTestsRun": 0
     },
@@ -10151,7 +10397,7 @@
     },
     {
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "45fc938af877c924d502276d40c2a93c84c5a99a",
+      "commit": "3c2d6a89931d3b357c2c93b60e675fa9e8d32c82",
       "license": "MIT",
       "licensePath": "LICENSE",
       "licenseFile": "/licenses/alphakit-LICENSE.txt",
@@ -10173,8 +10419,8 @@
           "file": "/licenses/alphakit-sellside-model-exhibits-LICENSE.txt"
         }
       ],
-      "archive": "Jeromelll--finskillhub-catalog--45fc938af877c924d502276d40c2a93c84c5a99a.zip",
-      "archiveSha256": "89391f1f1e5900903a1228e2ff5498d8c8f1290903d356728ffce21962eb8e64",
+      "archive": "Jeromelll--finskillhub-catalog--3c2d6a89931d3b357c2c93b60e675fa9e8d32c82.zip",
+      "archiveSha256": "e5e35b4362f10e51baf6b4794f57b34e069acedefc0208df21563d87a3fc4b95",
       "description": "FinSkillHub 的三项原创金融研究技能，涵盖增量测算、模型展示表和股票初步研究；案例使用原创合成数据。",
       "descriptionEn": "FinSkillHub original finance research skills for incremental sizing, model exhibits and initial stock research, with original synthetic examples."
     }
