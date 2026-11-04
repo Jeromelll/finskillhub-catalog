@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03",
+  "updatedAt": "2026-11-04",
   "skills": [
     {
       "id": "equity-earnings-update",
@@ -5635,9 +5635,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "3c2d6a89931d3b357c2c93b60e675fa9e8d32c82",
+      "commit": "8d422294bf6beb58dc8e9426a3cce441f9b2961f",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/3c2d6a89931d3b357c2c93b60e675fa9e8d32c82/skills/incremental-business-sizing/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/8d422294bf6beb58dc8e9426a3cce441f9b2961f/skills/incremental-business-sizing/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "incremental-business-sizing",
@@ -5646,7 +5646,7 @@
       "nameEn": "Incremental business revenue and profit sizing",
       "category": "research",
       "sourcePath": "skills/incremental-business-sizing/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/3c2d6a89931d3b357c2c93b60e675fa9e8d32c82/skills/incremental-business-sizing/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/8d422294bf6beb58dc8e9426a3cce441f9b2961f/skills/incremental-business-sizing/SKILL.md",
       "summary": "把产能、用户行为、订阅或交易额拆成可复算的收入、利润与 EPS 驱动链，保留缺失参数并用同一模型制作情景和敏感性分析。",
       "summaryEn": "Builds reproducible revenue, profit and EPS drivers from capacity, user activity, subscriptions or transaction volume. Preserves missing inputs and uses one model for scenarios and sensitivities.",
       "method": "先界定收费对象、资源和时间约束，为参数标明单位、期间及来源，再按依赖图计算各情景；两个敏感性轴替换同一模型中的指定输入。",
@@ -5705,9 +5705,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "3c2d6a89931d3b357c2c93b60e675fa9e8d32c82",
+      "commit": "8d422294bf6beb58dc8e9426a3cce441f9b2961f",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/3c2d6a89931d3b357c2c93b60e675fa9e8d32c82/skills/sellside-model-exhibits/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/8d422294bf6beb58dc8e9426a3cce441f9b2961f/skills/sellside-model-exhibits/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "sellside-model-exhibits",
@@ -5716,7 +5716,7 @@
       "nameEn": "Financial model exhibits and sensitivity tables",
       "category": "operations",
       "sourcePath": "skills/sellside-model-exhibits/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/3c2d6a89931d3b357c2c93b60e675fa9e8d32c82/skills/sellside-model-exhibits/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/8d422294bf6beb58dc8e9426a3cce441f9b2961f/skills/sellside-model-exhibits/SKILL.md",
       "summary": "把同一份已完成测算制作成计算桥、情景表和敏感性矩阵，保留单位、年份、来源和未知值，输出文档、图片与公式工作簿。",
       "summaryEn": "Turns one completed model result into a calculation bridge, scenario table and sensitivity matrices. Retains units, periods, sources and unknown values, and exports documents, images and formula workbooks.",
       "method": "读取版本化计算结果，根据角色、表达式和状态排版；各格式共享同一数值来源，公式仅绑定到同一情景中的有效输入。",
@@ -5777,9 +5777,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "3c2d6a89931d3b357c2c93b60e675fa9e8d32c82",
+      "commit": "8d422294bf6beb58dc8e9426a3cce441f9b2961f",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/3c2d6a89931d3b357c2c93b60e675fa9e8d32c82/skills/pre-trade-quick-brief/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/8d422294bf6beb58dc8e9426a3cce441f9b2961f/skills/pre-trade-quick-brief/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "pre-trade-quick-brief",
@@ -5788,7 +5788,7 @@
       "nameEn": "Quick initial research for a new stock",
       "category": "research",
       "sourcePath": "skills/pre-trade-quick-brief/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/3c2d6a89931d3b357c2c93b60e675fa9e8d32c82/skills/pre-trade-quick-brief/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/8d422294bf6beb58dc8e9426a3cce441f9b2961f/skills/pre-trade-quick-brief/SKILL.md",
       "summary": "先解释市场叙事与新增经营变量，再拆出受约束的业绩上限、三个盈利时间窗、前瞻估值和下一验证点，保留资料缺口。",
       "summaryEn": "Explains the market narrative and new operating variables, then develops a constrained earnings ceiling, three earnings windows, forward valuation conditions and the next verification point while preserving evidence gaps.",
       "method": "冻结信息时点，建立旧预期到新参数的证据链，核对需求、供给、期间、成本及融资稀释，并把当前价值和远期条件终值分开。",
@@ -10166,11 +10166,245 @@
       "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
       "sourceVerified": true,
       "executionVerified": false
+    },
+    {
+      "evidenceQuotes": [
+        "market structure, trend, invalidation, leverage discipline, and narrative-aware timing.",
+        "Separate facts, assumptions, and judgment.\n- Define invalidation before sizing."
+      ],
+      "outputsEn": [
+        "Market structure diagnosis (trend vs range)",
+        "Invalidation conditions",
+        "Leverage and narrative context assessment",
+        "Structured report (verdict/thesis/evidence/risks/action plan/invalidation/missing data)"
+      ],
+      "environment": "可在通用语言模型代理或 Questflow 式代理工作流中作为判断模块使用，需可加载技能文件并访问用户提供或外部获取的价格、链上、流动性等数据。",
+      "exampleEn": "Input: \"What is the BTC daily market structure and where are leverage flush zones likely?\" Output: verdict Wait, thesis notes price is ranging, invalidation set below recent range low, with missing real-time funding-rate data explicitly flagged.",
+      "example": "输入：\"BTC 日线结构怎么看，杠杆清算密集区在哪里？\" 输出：判定 Wait，论点指出价格处于区间内，无效化位设于近期区间低点下方，标注缺失实时资金费率数据。",
+      "tagsEn": [
+        "crypto",
+        "technical-analysis",
+        "market-structure",
+        "risk-management",
+        "leverage",
+        "trading-judgment"
+      ],
+      "dependencies": [
+        "支持技能文件加载的语言模型代理",
+        "用户提供的或外部获取的市场数据"
+      ],
+      "outputs": [
+        "市场结构诊断（趋势/区间）",
+        "无效化条件",
+        "杠杆与叙事背景评估",
+        "结构化判定报告（判定/论点/证据/风险/行动计划/无效化/缺失数据）"
+      ],
+      "dependenciesEn": [
+        "LLM agent capable of loading skill files",
+        "User-provided or externally sourced market data"
+      ],
+      "inputsEn": [
+        "Asset, token, protocol, sector, or market context",
+        "Relevant price, on-chain, liquidity, research, or adoption data",
+        "Time horizon and risk constraints",
+        "Portfolio context if sizing is requested"
+      ],
+      "category": "quant",
+      "notesEn": "This is a repository-author framework styled after a named investor, not an investor-endorsed official skill. It explicitly states it is not financial advice, promises no guaranteed returns, and rejects unbounded leverage. Analysis is source-checked but execution-unverified; missing data such as real-time funding rates is flagged as an explicit data gap in the output rather than treated as no risk.",
+      "summaryEn": "Evaluates crypto charts through an Hsaka-style technical lens covering market structure, trend vs range diagnosis, invalidation levels, leverage discipline, and narrative-aware timing.",
+      "tags": [
+        "加密货币",
+        "技术分析",
+        "市场结构",
+        "风险管理",
+        "杠杆",
+        "交易判断"
+      ],
+      "nameEn": "Hsaka-Style Crypto Technical Analysis",
+      "inputs": [
+        "资产/代币/协议/板块或市场背景",
+        "相关价格、链上、流动性、研究或采用数据",
+        "时间范围与风险约束",
+        "若涉及仓位，则需组合背景"
+      ],
+      "methodEn": "Four-step process: define market structure; mark invalidation; check leverage and narrative context; consider sizing only when risk is defined. Outputs a fixed-format report with verdict (Long Setup / Short Setup / Wait / Overlevered Trap / Pass), thesis, evidence, risks, action plan, invalidation, and missing data section.",
+      "notes": "该技能为仓库作者的框架，命名为 Hsaka 风格，不代表该投资者的官方认可。明确声明非投资建议、不承诺保证收益、不适用无界杠杆。分析结果未经实际执行验证，属于源文件核查结果；缺失的数据（如实时资金费率）在输出中作为明确数据缺口列出，而非视为无风险信号。",
+      "name": "Hsaka 风格加密货币技术分析",
+      "method": "按四步流程：1) 定义市场结构；2) 标注无效化位；3) 检查杠杆与叙事背景；4) 仅在风险已定义时进行仓位考量。输出固定格式报告：判定（Long Setup / Short Setup / Wait / Overlevered Trap / Pass）、论点、证据、风险、行动计划、无效化条件与缺失数据清单。",
+      "summary": "以 Hsaka 式技术分析框架评估加密货币图表，涵盖市场结构、趋势/区间诊断、无效化位设定、杠杆纪律与叙事时机判断。",
+      "environmentEn": "Usable as a judgment module in a general LLM agent or Questflow-style agent workflow; requires the skill file to be loadable and access to user-supplied or externally fetched price, on-chain, and liquidity data.",
+      "id": "skill-e43f7c992316e92c",
+      "author": "questflowai",
+      "originalName": "hsaka-crypto-ta",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/hsaka-crypto-ta/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/hsaka-crypto-ta/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "evidenceQuotes": [
+        "identify a valuable but mismanaged company, define what should change, estimate value after change, and assess whether activism can force the catalyst",
+        "Do not ignore poison pills, voting control, or legal constraints."
+      ],
+      "outputsEn": [
+        "Verdict (Activist Long / Watch / Needs Catalyst / Governance Too Hard / Pass)",
+        "Undervaluation analysis and value unlock estimate",
+        "Governance path and catalyst assessment",
+        "List of campaign risks"
+      ],
+      "environment": "需要能够获取公司财务报表、分部估值数据、股权结构与治理文件的证券研究环境；源文件未指定具体工具或数据供应商。",
+      "exampleEn": "Example (public, non-sensitive inputs): For a conglomerate whose sum-of-the-parts exceeds market cap, identify the undervalued segment, propose an asset sale or buyback, estimate per-share value unlock, then check poison pills and insider ownership to output a Watch or Needs Catalyst verdict.",
+      "example": "示例（公开、非敏感输入）：对一家分部估值高于市值的多元化公司进行分析——识别被低估的分部，提出资产出售或回购诉求，估算每股价值释放，核查毒丸计划与内部人持股后给出 Watch 或 Needs Catalyst 结论。",
+      "tagsEn": [
+        "activist investing",
+        "governance",
+        "capital allocation",
+        "sum-of-the-parts",
+        "catalysts"
+      ],
+      "dependencies": [
+        "公开财务披露",
+        "股权与治理数据",
+        "估值工具或电子表格"
+      ],
+      "outputs": [
+        "判定结论（Activist Long / Watch / Needs Catalyst / Governance Too Hard / Pass）",
+        "低估分析与价值释放估算",
+        "治理路径与催化剂评估",
+        "行动风险清单"
+      ],
+      "dependenciesEn": [
+        "Public financial disclosures",
+        "Ownership and governance data",
+        "Valuation tools or spreadsheets"
+      ],
+      "inputsEn": [
+        "Company financial statements and segment data",
+        "Ownership structure and board information",
+        "Governance provisions (poison pills, voting arrangements)",
+        "Comparable asset sale or transaction valuations"
+      ],
+      "category": "deals",
+      "notesEn": "Curated from public sources; source-checked but execution-unverified. This is a repository-author framework inspired by a named investor's style, not an investor-endorsed official skill. The source file provides no concrete data sources or tool dependencies; this gap remains an explicit data limitation.",
+      "summaryEn": "Applies Icahn-style activist thinking to evaluate undervalued, poorly governed companies, define activist demands, estimate value unlock, and assess feasibility of governance pressure.",
+      "tags": [
+        "积极投资",
+        "公司治理",
+        "资本配置",
+        "分部估值",
+        "催化剂"
+      ],
+      "nameEn": "Icahn-Style Activist Analysis",
+      "inputs": [
+        "公司财务报表与分部数据",
+        "股权结构与董事会信息",
+        "治理条款（毒丸计划、表决权安排）",
+        "可比资产出售或交易估值"
+      ],
+      "methodEn": "Five-step method: identify asset value and mismanagement; define the activist demand (buyback, asset sale, spin, board change); estimate value unlocked by action; assess ownership, board vulnerability, and shareholder support; define the catalyst and campaign risk.",
+      "notes": "此为基于公开来源的整理，已核对源文件但未经验证执行；为仓库作者构建的分析框架，不代表卡尔·伊坎本人或任何投资者的官方认可。源文件未提供具体数据源或工具依赖，该缺口保留为明确的数据限制。",
+      "name": "卡尔·伊坎式积极投资者分析",
+      "method": "五步法：识别资产价值与当前管理问题；界定积极投资者诉求（回购、资产出售、分拆、董事会变动等）；估算行动后释放的价值；评估持股结构、董事会脆弱性与股东支持度；明确催化剂与行动风险。",
+      "summary": "运用伊坎式激进投资思维评估低估且治理不善的公司，界定变革诉求、估算价值释放并评估治理可行性。",
+      "environmentEn": "Requires an equity research environment with access to company financials, segment valuation data, ownership structure, and governance documents; the source file specifies no particular tools or data vendors.",
+      "id": "skill-f9ba14f1f4822c59",
+      "author": "questflowai",
+      "originalName": "icahn-activist",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/icahn-activist/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/icahn-activist/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "evidenceQuotes": [
+        "Estimate conservative asset value and liquidation value.",
+        "Do not confuse cheap with safe."
+      ],
+      "outputsEn": [
+        "Structured Klarman View memo",
+        "Verdict: Buy / Watchlist / Too Little Safety / Value Trap / Pass",
+        "Conservative value and margin-of-safety analysis",
+        "Downside protection, catalyst, and invalidation criteria"
+      ],
+      "environment": "Markdown 技能定义文件，可在任何支持加载 SKILL.md 与引用文件（invest.md）的助手或工作流中使用；Questflow 中作为下行优先的困境与深度价值承销模块使用。",
+      "exampleEn": "Given a publicly traded property operator in liquidity distress: estimate liquidation value (assets at conservative haircuts minus debt), confirm mispricing stems from forced selling and complexity, demand a deep-discount margin of safety, check creditor seniority, then return a Watchlist verdict with catalyst (asset sales) and invalidation triggers.",
+      "example": "输入某陷入流动性危机的公开交易房地产运营商：估算清算价值（资产按保守折扣变现减去债务），确认错误定价来自强制卖出与复杂性，要求至少大幅折价的安全边际，核查债权人顺位后给出 Watchlist 结论并注明催化剂（资产出售）与失效条件。",
+      "tagsEn": [
+        "deep value",
+        "distressed investing",
+        "margin of safety",
+        "liquidation value",
+        "downside protection"
+      ],
+      "dependencies": [
+        "加载 SKILL.md 的助手/工作流",
+        "引用的 invest.md 文件",
+        "Questflow（可选）"
+      ],
+      "outputs": [
+        "Klarman 视角结构化备忘录",
+        "结论：Buy / Watchlist / Too Little Safety / Value Trap / Pass",
+        "保守估值与安全边际分析",
+        "下行保护、催化剂与失效条件"
+      ],
+      "dependenciesEn": [
+        "Assistant/workflow that loads SKILL.md",
+        "Referenced invest.md file",
+        "Questflow (optional)"
+      ],
+      "inputsEn": [
+        "Target asset description or ticker",
+        "Balance sheet and liquidation value data",
+        "Legal structure, seniority, and liquidity information",
+        "Catalyst/timeline information when available"
+      ],
+      "category": "valuation",
+      "notesEn": "This is a repository-author framework named after a well-known investor; it is not an official or investor-endorsed skill and does not imply endorsement by Klarman or Baupost. Findings are source-checked and execution-unverified; no guaranteed profit. The file specifies no live data feeds or market data sources, and that remains an explicit data gap.",
+      "summaryEn": "A Seth Klarman-style deep value framework that requires a large margin of safety over conservative value, identifies mispricing from distress, complexity, illiquidity, or forced selling, and delivers a downside-first underwriting verdict.",
+      "tags": [
+        "深度价值",
+        "困境投资",
+        "安全边际",
+        "清算价值",
+        "下行保护"
+      ],
+      "nameEn": "Klarman-Style Deep Value and Distressed Analysis",
+      "inputs": [
+        "标的资产描述或代码",
+        "资产负债表与清算价值数据",
+        "法律结构、受偿顺位与流动性信息",
+        "催化剂/时间线信息（如可用）"
+      ],
+      "methodEn": "Five steps: (1) estimate conservative asset value and liquidation value; (2) identify why the asset is mispriced (distress, complexity, illiquidity, neglect, forced selling); (3) demand a large margin of safety; (4) check balance sheet, legal structure, seniority, and liquidity; (5) define catalyst and patience horizon. Output is a structured memo with a verdict limited to Buy / Watchlist / Too Little Safety / Value Trap / Pass, plus margin of safety, downside protection, catalyst, and invalidation sections.",
+      "notes": "该目录为仓库作者整理的以知名投资者命名的方法框架，不代表克拉曼本人或 Baupost 官方技能或背书。结论与估值未经过执行验证，仅为源码级核查；不保证盈利。文件中未包含具体数据源或实时市场数据接入方式，此类数据缺口仍为缺口。",
+      "name": "Klarman 深度价值与困境投资分析",
+      "method": "五步流程：(1) 估算保守资产价值与清算价值；(2) 识别错误定价来源（困境、复杂性、流动性、被忽视、强制卖出）；(3) 要求大幅安全边际；(4) 核查资产负债表、法律结构、受偿顺位与流动性；(5) 定义催化剂与耐心持有期限。输出结构化报告，结论限定为 Buy / Watchlist / Too Little Safety / Value Trap / Pass，并包含安全边际、下行保护、催化剂与失效条件。",
+      "summary": "以塞斯·克拉曼式深度价值框架评估资产：在保守估值基础上要求大幅安全边际，识别困境、复杂性、流动性折扣与强制卖出造成的错误定价，并以下行保护优先的方式给出买入口径。",
+      "environmentEn": "A Markdown skill definition usable in any assistant or workflow that loads SKILL.md plus a referenced invest.md file; in Questflow it is positioned as a downside-first distressed and deep-value underwriting module.",
+      "id": "skill-b96d2351ae70bbc8",
+      "author": "questflowai",
+      "originalName": "klarman-deep-value",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/klarman-deep-value/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/klarman-deep-value/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
     }
   ],
   "evidence": {
     "checks": {
-      "skills": 143,
+      "skills": 146,
       "repositories": 7,
       "executionTestsRun": 0
     },
@@ -10397,7 +10631,7 @@
     },
     {
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "3c2d6a89931d3b357c2c93b60e675fa9e8d32c82",
+      "commit": "8d422294bf6beb58dc8e9426a3cce441f9b2961f",
       "license": "MIT",
       "licensePath": "LICENSE",
       "licenseFile": "/licenses/alphakit-LICENSE.txt",
@@ -10419,8 +10653,8 @@
           "file": "/licenses/alphakit-sellside-model-exhibits-LICENSE.txt"
         }
       ],
-      "archive": "Jeromelll--finskillhub-catalog--3c2d6a89931d3b357c2c93b60e675fa9e8d32c82.zip",
-      "archiveSha256": "e5e35b4362f10e51baf6b4794f57b34e069acedefc0208df21563d87a3fc4b95",
+      "archive": "Jeromelll--finskillhub-catalog--8d422294bf6beb58dc8e9426a3cce441f9b2961f.zip",
+      "archiveSha256": "0cbe62fbdfd44dfd23b2dbfd139be67c102902dd4683ad1456d5bd2e98b5fb4c",
       "description": "FinSkillHub 的三项原创金融研究技能，涵盖增量测算、模型展示表和股票初步研究；案例使用原创合成数据。",
       "descriptionEn": "FinSkillHub original finance research skills for incremental sizing, model exhibits and initial stock research, with original synthetic examples."
     }
