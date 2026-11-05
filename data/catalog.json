@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-05",
   "skills": [
     {
       "id": "equity-earnings-update",
@@ -5635,9 +5635,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "8d422294bf6beb58dc8e9426a3cce441f9b2961f",
+      "commit": "908d6968218063155b1b2f35c06c96b84e90919f",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/8d422294bf6beb58dc8e9426a3cce441f9b2961f/skills/incremental-business-sizing/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/908d6968218063155b1b2f35c06c96b84e90919f/skills/incremental-business-sizing/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "incremental-business-sizing",
@@ -5646,7 +5646,7 @@
       "nameEn": "Incremental business revenue and profit sizing",
       "category": "research",
       "sourcePath": "skills/incremental-business-sizing/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/8d422294bf6beb58dc8e9426a3cce441f9b2961f/skills/incremental-business-sizing/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/908d6968218063155b1b2f35c06c96b84e90919f/skills/incremental-business-sizing/SKILL.md",
       "summary": "把产能、用户行为、订阅或交易额拆成可复算的收入、利润与 EPS 驱动链，保留缺失参数并用同一模型制作情景和敏感性分析。",
       "summaryEn": "Builds reproducible revenue, profit and EPS drivers from capacity, user activity, subscriptions or transaction volume. Preserves missing inputs and uses one model for scenarios and sensitivities.",
       "method": "先界定收费对象、资源和时间约束，为参数标明单位、期间及来源，再按依赖图计算各情景；两个敏感性轴替换同一模型中的指定输入。",
@@ -5705,9 +5705,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "8d422294bf6beb58dc8e9426a3cce441f9b2961f",
+      "commit": "908d6968218063155b1b2f35c06c96b84e90919f",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/8d422294bf6beb58dc8e9426a3cce441f9b2961f/skills/sellside-model-exhibits/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/908d6968218063155b1b2f35c06c96b84e90919f/skills/sellside-model-exhibits/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "sellside-model-exhibits",
@@ -5716,7 +5716,7 @@
       "nameEn": "Financial model exhibits and sensitivity tables",
       "category": "operations",
       "sourcePath": "skills/sellside-model-exhibits/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/8d422294bf6beb58dc8e9426a3cce441f9b2961f/skills/sellside-model-exhibits/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/908d6968218063155b1b2f35c06c96b84e90919f/skills/sellside-model-exhibits/SKILL.md",
       "summary": "把同一份已完成测算制作成计算桥、情景表和敏感性矩阵，保留单位、年份、来源和未知值，输出文档、图片与公式工作簿。",
       "summaryEn": "Turns one completed model result into a calculation bridge, scenario table and sensitivity matrices. Retains units, periods, sources and unknown values, and exports documents, images and formula workbooks.",
       "method": "读取版本化计算结果，根据角色、表达式和状态排版；各格式共享同一数值来源，公式仅绑定到同一情景中的有效输入。",
@@ -5777,9 +5777,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "8d422294bf6beb58dc8e9426a3cce441f9b2961f",
+      "commit": "908d6968218063155b1b2f35c06c96b84e90919f",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/8d422294bf6beb58dc8e9426a3cce441f9b2961f/skills/pre-trade-quick-brief/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/908d6968218063155b1b2f35c06c96b84e90919f/skills/pre-trade-quick-brief/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "pre-trade-quick-brief",
@@ -5788,7 +5788,7 @@
       "nameEn": "Quick initial research for a new stock",
       "category": "research",
       "sourcePath": "skills/pre-trade-quick-brief/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/8d422294bf6beb58dc8e9426a3cce441f9b2961f/skills/pre-trade-quick-brief/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/908d6968218063155b1b2f35c06c96b84e90919f/skills/pre-trade-quick-brief/SKILL.md",
       "summary": "先解释市场叙事与新增经营变量，再拆出受约束的业绩上限、三个盈利时间窗、前瞻估值和下一验证点，保留资料缺口。",
       "summaryEn": "Explains the market narrative and new operating variables, then develops a constrained earnings ceiling, three earnings windows, forward valuation conditions and the next verification point while preserving evidence gaps.",
       "method": "冻结信息时点，建立旧预期到新参数的证据链，核对需求、供给、期间、成本及融资稀释，并把当前价值和远期条件终值分开。",
@@ -10400,11 +10400,245 @@
       "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
       "sourceVerified": true,
       "executionVerified": false
+    },
+    {
+      "method": "四步流程：1) 识别宏观周期（增长、通胀、政策、流动性）；2) 用价格/趋势验证宏观观点；3) 按信念定仓位——确定时大仓位、不确定时小仓位试探；4) 宏观论点被证伪时果断减仓。输出判定等级（High Conviction / Probe / Reduce / Hedge / Stand Aside）、论点、证据、风险、行动计划与失效条件。",
+      "nameEn": "Li Bei-Style Macro Hedge Framework",
+      "notesEn": "Source-checked, execution-unverified: this is a repository-author analytical framework in the style of Li Bei, not an official skill endorsed by Li Bei or Banyan Investment, and implies no endorsement. The skill states 'Not financial advice', requires separating facts, assumptions, and judgment, and defining invalidation before sizing. The Missing Data output field is an explicit data-gap declaration; failed access or absent data must not be read as no material events or no risk. No guaranteed returns or unbounded leverage.",
+      "dependenciesEn": [
+        "LLM agent workflow (e.g., Questflow)",
+        "User-supplied macro and market data (no built-in data sources)"
+      ],
+      "tagsEn": [
+        "macro hedge",
+        "A-shares",
+        "regime identification",
+        "position sizing",
+        "risk management",
+        "investment judgment framework"
+      ],
+      "notes": "来源已核对，执行未验证：该技能为知识库作者整理的分析框架，非李蓓本人或半夏投资官方认可，不代表任何背书。技能声明'Not financial advice'，要求区分事实、假设与判断，并在定仓前定义失效条件。输出中的Missing Data字段是明确的数据缺口声明；数据获取失败或缺失不应被解读为'无重大事件或风险'。不保证收益，不支持无界杠杆。",
+      "exampleEn": "Input: 'Assess the current A-share macro environment for a potential CSI 300 long position, 6-month horizon, 15% max drawdown tolerance.' Output: structured report with regime call, trend confirmation, probe sizing suggestion, invalidation triggers (e.g., liquidity policy reversal), and a missing-data list.",
+      "methodEn": "Four-step process: 1) identify the macro regime (growth, inflation, policy, liquidity); 2) verify the macro view against price/trend; 3) size positions by conviction—large when clear, small probes when uncertain; 4) cut aggressively when the macro thesis is invalidated. Output includes a verdict grade (High Conviction / Probe / Reduce / Hedge / Stand Aside), thesis, evidence, risks, action plan, and invalidation conditions.",
+      "tags": [
+        "宏观对冲",
+        "A股",
+        "周期识别",
+        "仓位管理",
+        "风险管理",
+        "投资判断框架"
+      ],
+      "evidenceQuotes": [
+        "Identify the macro regime (growth, inflation, policy, liquidity).",
+        "Size by conviction: large when clear, small when uncertain."
+      ],
+      "outputsEn": [
+        "Structured macro hedge report: verdict, thesis, evidence, risks, action plan, invalidation conditions, missing-data list"
+      ],
+      "environmentEn": "Usable in any LLM agent workflow supporting Markdown output, as a judgment module within Questflow-style agent pipelines; no automated data pipelines, data must be supplied manually.",
+      "summary": "以宏观周期识别与信念仓位管理为核心的A股宏观对冲分析模板，输出结构化判断、行动计划与失效条件。",
+      "inputsEn": [
+        "Asset, sector, market, or macro context",
+        "Relevant financial, technical, policy, or sentiment data",
+        "Time horizon and risk constraints",
+        "Portfolio context if sizing is requested"
+      ],
+      "inputs": [
+        "资产/行业/市场/宏观背景",
+        "相关财务、技术面、政策或情绪数据",
+        "时间期限与风险约束",
+        "组合背景（若需仓位建议）"
+      ],
+      "environment": "可在任何支持Markdown输出的LLM代理工作流中使用，作为判断模块嵌入Questflow式代理流程；无自动数据管道，数据需人工提供。",
+      "example": "输入：'评估当前A股宏观环境，考虑沪深300多头仓位，6个月期限，最大回撤15%。' 输出：结构化报告，含宏观周期判断、趋势确认、试探性仓位建议、失效条件（如流动性政策转向）与缺失数据清单。",
+      "dependencies": [
+        "LLM代理工作流（如Questflow）",
+        "用户提供的宏观与市场数据（无内置数据源）"
+      ],
+      "summaryEn": "A structured macro hedge analysis template for Chinese markets based on regime identification and conviction-based position sizing, producing verdicts, action plans, and invalidation conditions.",
+      "outputs": [
+        "结构化宏观对冲判断报告：判定、论点、证据、风险、行动计划、失效条件、缺失数据清单"
+      ],
+      "category": "macro",
+      "name": "李蓓式宏观对冲分析框架",
+      "id": "skill-df13b3781c230712",
+      "author": "questflowai",
+      "originalName": "libei-macro-hedge",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/libei-macro-hedge/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/libei-macro-hedge/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "method": "流程:(1)判断市场是否存在清晰的最小阻力线;(2)识别关键点或突破位;(3)检查成交量、后续走势与突破是否守住;(4)拒绝过晚、过度延伸、震荡或流动性差的交易;(5)定义入场、止损、首次加仓点、最大加仓次数与失效条件;(6)按风险优先确定仓位;(7)持仓时决定持有、加仓、减仓或退出。禁则:不向下摊平、不在确认前预判突破、前笔未盈利不加仓、不放宽止损、不在无趋势市场强行交易。",
+      "nameEn": "Livermore Breakout Trend-Following Skill",
+      "notesEn": "This is a repository-author framework named after the publicly known Jesse Livermore trading philosophy, not an investor-endorsed official skill. It is methodology and a trade-plan template with no profit guarantee. Results depend on user-supplied data and are source-checked but execution-unverified; missing data such as account risk limits or liquidity data must be listed explicitly and must not be treated as absence of risk.",
+      "dependenciesEn": [
+        "Source of recent OHLCV and volume data",
+        "User-supplied breakout and support levels",
+        "Position size and cost information if holding",
+        "Account risk limit if sizing is requested"
+      ],
+      "tagsEn": [
+        "trend-following",
+        "breakout-trading",
+        "pivotal-points",
+        "pyramiding",
+        "stop-discipline",
+        "risk-management",
+        "technical-analysis"
+      ],
+      "notes": "此技能以公开的Jesse Livermore交易理念命名的仓库作者框架,非投资者本人或官方背书技能。内容为方法论与交易计划模板,不保证盈利。结果基于用户提供数据,属来源核查但未经实盘执行验证;缺失数据(如账户风险限额、流动性数据)必须如实列示,不可视为无风险。",
+      "exampleEn": "A user asks for a daily-timeframe breakout buy plan for a liquid stock near a $100 breakout level: using recent OHLCV, the $100 level, support, and volume, the skill assesses trend state; if the breakout has follow-through and holds, it outputs entry ~98-100, initial stop $96, first add $104, invalidation on a close back below $99, and lists missing data such as the account risk limit.",
+      "methodEn": "Workflow: (1) determine whether a clear line of least resistance exists; (2) identify the pivotal point or breakout level; (3) check volume, follow-through, and whether price holds the breakout; (4) reject trades that are late, extended, choppy, or illiquid; (5) define entry, stop, first add point, max add count, and invalidation; (6) size positions from risk first; (7) for open positions decide hold/add/trim/exit. Guardrails: no averaging down, no anticipating breakouts before confirmation, no adds unless the prior entry is profitable, no widening stops, no forcing trades in trendless markets.",
+      "tags": [
+        "趋势跟踪",
+        "突破交易",
+        "关键点",
+        "加仓规则",
+        "止损纪律",
+        "风险管理",
+        "技术分析"
+      ],
+      "evidenceQuotes": [
+        "wait for a clear line of least resistance, enter only near pivotal points, add only after the market confirms, and cut losses quickly",
+        "Size from risk first, not from excitement."
+      ],
+      "outputsEn": [
+        "Market verdict: Enter/Wait/Hold/Add/Exit/Stand Down",
+        "Line of least resistance and pivotal point analysis",
+        "Signal check table (signal, status, evidence, weight)",
+        "Trade plan: entry, initial stop, first add, max size",
+        "Invalidation conditions and missing-data list"
+      ],
+      "environmentEn": "Requires an analysis environment able to provide recent OHLCV price and volume data; the skill file itself is a text workflow and involves no code execution.",
+      "summary": "以Jesse Livermore风格框架评估突破交易：等待最小阻力线、仅在关键点附近入场、盈利加仓、严格执行止损,并输出Enter/Wait/Hold/Add/Exit/Stand Down等明确判定与交易计划。",
+      "inputsEn": [
+        "Asset, ticker, or market",
+        "Timeframe (daily, weekly, or intraday)",
+        "Recent OHLCV, breakout level, support level, and volume",
+        "Current position size and average cost if already owned",
+        "Account risk limit if sizing is requested"
+      ],
+      "inputs": [
+        "资产/代码/市场",
+        "时间框架(日线、周线或日内)",
+        "近期OHLCV数据、突破位、支撑位与成交量",
+        "当前仓位规模与平均成本(如已持仓)",
+        "账户风险限额(如需仓位计算)"
+      ],
+      "environment": "需要能够获取近期OHLCV价格与成交量数据的分析环境;技能文件本身为文本流程,不涉及代码执行。",
+      "example": "用户询问某流动股票在日线级别、突破位100美元附近的突破买入计划:技能以近期OHLCV、100美元突破位与支撑位、成交量数据判断趋势状态,若突破放量且守住则输出入场98-100、初始止损96、首加104、失效条件为收盘跌回99以下,并列出缺失数据(如账户风险限额)。",
+      "dependencies": [
+        "近期OHLCV与成交量数据来源",
+        "用户提供的突破位与支撑位",
+        "仓位与成本信息(如已持仓)",
+        "账户风险限额(如需sizing)"
+      ],
+      "summaryEn": "Evaluates breakout trades in a Jesse Livermore-style framework: wait for the line of least resistance, enter only near pivotal points, pyramid only on confirmation, enforce strict stop discipline, and deliver a clear Enter/Wait/Hold/Add/Exit/Stand Down verdict with a trade plan.",
+      "outputs": [
+        "市场判定:Enter/Wait/Hold/Add/Exit/Stand Down",
+        "最小阻力线与关键点分析",
+        "信号检查表(信号、状态、证据、权重)",
+        "交易计划:入场、初始止损、首次加仓点、最大仓位",
+        "失效条件与缺失数据清单"
+      ],
+      "category": "quant",
+      "name": "Livermore突破趋势跟踪交易技能",
+      "id": "skill-74b4cd546142e445",
+      "author": "questflowai",
+      "originalName": "livermore",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/livermore/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/livermore/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "method": "五步流程：(1) 将公司分类为慢速成长、稳定增长、快速成长、周期、困境反转或资产型；(2) 用一段话陈述简单故事；(3) 用营收、盈利、单位经济、门店/产品扩张与资产负债表验证故事；(4) 用PEG与保守假设比较估值与成长；(5) 定义故事恶化信号。",
+      "nameEn": "Lynch Growth Stock Analysis",
+      "notesEn": "Source-checked, execution-unverified: the skill file itself was inspected, but its analytical outputs were not verified by running it. This is a repository-author Lynch-style framework, not an investor-endorsed or official skill. Guardrails explicitly prohibit buying a liked product without checking financials, overpaying for a good story, and ignoring debt in turnarounds or cyclicals. Missing filings or unit-economics data must remain an explicit data gap, not treated as no risk.",
+      "dependenciesEn": [
+        "Research environment with access to company fundamentals"
+      ],
+      "tagsEn": [
+        "growth stocks",
+        "PEG",
+        "Lynch-style",
+        "stock classification",
+        "consumer stocks",
+        "valuation"
+      ],
+      "notes": "来源已核验，执行未验证：该技能文件本身经过检查，但其实际分析输出未经验证运行。此为仓库作者的林奇风格框架，并非彼得·林奇本人认可或官方技能。守则明确禁止在不查财务的情况下买入喜欢的产品、为好故事过度支付、忽视困境反转或周期股的债务。若财报或单位经济数据缺失，必须保留为明确的数据缺口，而非视为无风险。",
+      "exampleEn": "Input: a familiar consumer brand plus its public filing highlights. Output: a '# Lynch View: [Company]' report with a Verdict (Buy / Watchlist / Story Not Proven / Too Expensive / Pass), stock category, simple story, growth evidence, PEG valuation, balance sheet check, and story-change triggers.",
+      "methodEn": "Five-step process: (1) classify the company as slow grower, stalwart, fast grower, cyclical, turnaround, or asset play; (2) state the simple story in one paragraph; (3) verify the story with revenue, earnings, unit economics, store/product expansion, and balance sheet; (4) compare valuation to growth using PEG and conservative assumptions; (5) define story deterioration signals.",
+      "tags": [
+        "成长股",
+        "PEG",
+        "彼得林奇风格",
+        "股票分类",
+        "消费股",
+        "估值"
+      ],
+      "evidenceQuotes": [
+        "find understandable companies early, classify the stock type, connect product observation to financial evidence, and monitor whether the story keeps improving",
+        "Do not ignore debt in turnarounds or cyclicals."
+      ],
+      "outputsEn": [
+        "A structured '# Lynch View: [Company]' report",
+        "A Buy/Watchlist/Pass verdict",
+        "Stock category classification and PEG valuation assessment",
+        "A list of story-deterioration signals"
+      ],
+      "environmentEn": "Requires an assistant with access to company fundamentals (revenue, earnings, balance sheet, store/unit expansion data) in a research environment; no specialized runtime dependencies.",
+      "summary": "以彼得·林奇式常识成长投资为框架，对消费/产品驱动型公司进行分类、故事验证、PEG估值与基本面检查，输出结构化研判报告。",
+      "inputsEn": [
+        "Public filings for the target company (revenue, earnings, balance sheet)",
+        "Unit economics and store/product expansion information",
+        "Current valuation data for PEG calculation"
+      ],
+      "inputs": [
+        "目标公司的公开财报数据（营收、盈利、资产负债表）",
+        "单位经济与门店/产品扩张信息",
+        "当前估值数据用于PEG计算"
+      ],
+      "environment": "需要具备股票基本面数据（营收、盈利、资产负债表、门店/单位扩张数据）与研究环境的助手；无专用运行时依赖。",
+      "example": "输入：一家熟悉的消费品牌及其公开财报要点。输出：'# Lynch View: [Company]'，含 Verdict（Buy / Watchlist / Story Not Proven / Too Expensive / Pass）、股票分类、简单故事、成长证据、PEG估值、资产负债表与故事改变条件。",
+      "dependencies": [
+        "具备基本面数据访问的研究环境"
+      ],
+      "summaryEn": "A Peter Lynch-style common-sense growth investing framework that classifies companies, validates the investment story against financials, applies PEG valuation, and produces a structured research verdict.",
+      "outputs": [
+        "结构化 '# Lynch View: [Company]' 报告",
+        "买卖/观察判决（Verdict）",
+        "股票类型分类与PEG估值评估",
+        "故事恶化信号清单"
+      ],
+      "category": "research",
+      "name": "林奇成长股分析",
+      "id": "skill-171ee7f749cad317",
+      "author": "questflowai",
+      "originalName": "lynch-growth",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/lynch-growth/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/lynch-growth/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
     }
   ],
   "evidence": {
     "checks": {
-      "skills": 146,
+      "skills": 149,
       "repositories": 7,
       "executionTestsRun": 0
     },
@@ -10631,7 +10865,7 @@
     },
     {
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "8d422294bf6beb58dc8e9426a3cce441f9b2961f",
+      "commit": "908d6968218063155b1b2f35c06c96b84e90919f",
       "license": "MIT",
       "licensePath": "LICENSE",
       "licenseFile": "/licenses/alphakit-LICENSE.txt",
@@ -10653,8 +10887,8 @@
           "file": "/licenses/alphakit-sellside-model-exhibits-LICENSE.txt"
         }
       ],
-      "archive": "Jeromelll--finskillhub-catalog--8d422294bf6beb58dc8e9426a3cce441f9b2961f.zip",
-      "archiveSha256": "0cbe62fbdfd44dfd23b2dbfd139be67c102902dd4683ad1456d5bd2e98b5fb4c",
+      "archive": "Jeromelll--finskillhub-catalog--908d6968218063155b1b2f35c06c96b84e90919f.zip",
+      "archiveSha256": "e9bea8d0adb1bae6c288716a5ffe9dc3e50b64a6d0c19be84e604f6ac3ff882a",
       "description": "FinSkillHub 的三项原创金融研究技能，涵盖增量测算、模型展示表和股票初步研究；案例使用原创合成数据。",
       "descriptionEn": "FinSkillHub original finance research skills for incremental sizing, model exhibits and initial stock research, with original synthetic examples."
     }
