@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-10",
   "skills": [
     {
       "id": "equity-earnings-update",
@@ -2899,7 +2899,7 @@
         "**Ask the user**: Any specific focus areas or topics to emphasize?"
       ],
       "nameEn": "Investment-Banking Company Profile",
-      "summaryEn": "|",
+      "summaryEn": "Creates investment banking strip profiles for pitch books and deal materials: 1–4 information-dense slides of business, geographic and financial data, valuation multiples, ownership and segment mix, with the outline confirmed with the user first.",
       "methodEn": "Confirm audience, page count and source materials, then plan company and sector analysis. Apply the prescribed layout to business, geography, financials and valuation; check information density, chart sources and slide fit, using the PPTX skill when file generation is needed.",
       "environmentEn": "Source is written for Claude Code / Cowork; host compatibility and execution have not been tested.",
       "dependenciesEn": [
@@ -5635,9 +5635,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "908d6968218063155b1b2f35c06c96b84e90919f",
+      "commit": "e26f1424e3908351d078b89472713c3e9fc41c3c",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/908d6968218063155b1b2f35c06c96b84e90919f/skills/incremental-business-sizing/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/e26f1424e3908351d078b89472713c3e9fc41c3c/skills/incremental-business-sizing/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "incremental-business-sizing",
@@ -5646,7 +5646,7 @@
       "nameEn": "Incremental business revenue and profit sizing",
       "category": "research",
       "sourcePath": "skills/incremental-business-sizing/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/908d6968218063155b1b2f35c06c96b84e90919f/skills/incremental-business-sizing/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/e26f1424e3908351d078b89472713c3e9fc41c3c/skills/incremental-business-sizing/SKILL.md",
       "summary": "把产能、用户行为、订阅或交易额拆成可复算的收入、利润与 EPS 驱动链，保留缺失参数并用同一模型制作情景和敏感性分析。",
       "summaryEn": "Builds reproducible revenue, profit and EPS drivers from capacity, user activity, subscriptions or transaction volume. Preserves missing inputs and uses one model for scenarios and sensitivities.",
       "method": "先界定收费对象、资源和时间约束，为参数标明单位、期间及来源，再按依赖图计算各情景；两个敏感性轴替换同一模型中的指定输入。",
@@ -5705,9 +5705,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "908d6968218063155b1b2f35c06c96b84e90919f",
+      "commit": "e26f1424e3908351d078b89472713c3e9fc41c3c",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/908d6968218063155b1b2f35c06c96b84e90919f/skills/sellside-model-exhibits/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/e26f1424e3908351d078b89472713c3e9fc41c3c/skills/sellside-model-exhibits/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "sellside-model-exhibits",
@@ -5716,7 +5716,7 @@
       "nameEn": "Financial model exhibits and sensitivity tables",
       "category": "operations",
       "sourcePath": "skills/sellside-model-exhibits/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/908d6968218063155b1b2f35c06c96b84e90919f/skills/sellside-model-exhibits/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/e26f1424e3908351d078b89472713c3e9fc41c3c/skills/sellside-model-exhibits/SKILL.md",
       "summary": "把同一份已完成测算制作成计算桥、情景表和敏感性矩阵，保留单位、年份、来源和未知值，输出文档、图片与公式工作簿。",
       "summaryEn": "Turns one completed model result into a calculation bridge, scenario table and sensitivity matrices. Retains units, periods, sources and unknown values, and exports documents, images and formula workbooks.",
       "method": "读取版本化计算结果，根据角色、表达式和状态排版；各格式共享同一数值来源，公式仅绑定到同一情景中的有效输入。",
@@ -5777,9 +5777,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "908d6968218063155b1b2f35c06c96b84e90919f",
+      "commit": "e26f1424e3908351d078b89472713c3e9fc41c3c",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/908d6968218063155b1b2f35c06c96b84e90919f/skills/pre-trade-quick-brief/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/e26f1424e3908351d078b89472713c3e9fc41c3c/skills/pre-trade-quick-brief/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "pre-trade-quick-brief",
@@ -5788,7 +5788,7 @@
       "nameEn": "Quick initial research for a new stock",
       "category": "research",
       "sourcePath": "skills/pre-trade-quick-brief/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/908d6968218063155b1b2f35c06c96b84e90919f/skills/pre-trade-quick-brief/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/e26f1424e3908351d078b89472713c3e9fc41c3c/skills/pre-trade-quick-brief/SKILL.md",
       "summary": "先解释市场叙事与新增经营变量，再拆出受约束的业绩上限、三个盈利时间窗、前瞻估值和下一验证点，保留资料缺口。",
       "summaryEn": "Explains the market narrative and new operating variables, then develops a constrained earnings ceiling, three earnings windows, forward valuation conditions and the next verification point while preserving evidence gaps.",
       "method": "冻结信息时点，建立旧预期到新参数的证据链，核对需求、供给、期间、成本及融资稀释，并把当前价值和远期条件终值分开。",
@@ -10634,11 +10634,669 @@
       "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
       "sourceVerified": true,
       "executionVerified": false
+    },
+    {
+      "name": "霍华德·马克斯周期判断框架",
+      "category": "portfolio",
+      "outputsEn": [
+        "Marks Cycle View report with verdict (defensive/neutral/opportunistic/aggressive/stand down)",
+        "Cycle position judgment",
+        "First-level vs second-level view comparison",
+        "Risk premium assessment",
+        "Market psychology assessment",
+        "Portfolio posture recommendation",
+        "Conditions that would change the view",
+        "Missing data list"
+      ],
+      "dependenciesEn": [
+        "Markdown rendering environment",
+        "Companion invest.md file referenced within the Questflow repository",
+        "User-supplied market, valuation, and sentiment data"
+      ],
+      "tags": [
+        "周期分析",
+        "风险溢价",
+        "市场心理",
+        "组合姿态",
+        "二层次思维",
+        "信用周期"
+      ],
+      "evidenceQuotes": [
+        "identify where markets are in the cycle, compare price to value and risk premium, and decide whether to be defensive or aggressive.",
+        "Size by margin for error, not confidence alone."
+      ],
+      "dependencies": [
+        "Markdown 渲染环境",
+        "同目录 invest.md 文件（Questflow 仓库内引用）",
+        "用户提供的市场、估值与情绪数据"
+      ],
+      "summary": "以霍华德·马克斯风格的周期与风险判断方法诊断市场所处周期位置，比较价格、价值与风险溢价，并给出防御、中性、机会型或进攻型的组合姿态建议。",
+      "example": "输入：'评估当前美国高收益债市场的周期位置与风险溢价，我的组合回撤容忍度为 15%。' 输出：一份 Marks Cycle View 报告，给出周期阶段判断（如后期/承压）、利差相对历史违约补偿的分析、市场心理评估，以及防御或中性的姿态结论，并列出缺失的持仓与流动性数据。",
+      "environmentEn": "Usable in any assistant environment that supports Markdown prompt skills; the file is a skill definition from the Questflow repository referencing an invest.md companion file in the same directory.",
+      "notes": "这是仓库作者基于霍华德·马克斯公开思想构建的分析框架，并非马克斯本人认可或发布的官方技能。该技能为源文件审查所得，未经执行验证；缺失数据（如信用条件、持仓、流动性）须在 Missing Data 部分明确列为数据缺口，不得将数据缺失当作无风险或无事件的结论。框架明确禁止虚假精确预测、不将高收益视为低风险。",
+      "environment": "可在任何支持 Markdown 提示词技能的助手环境中使用；该文件为 Questflow 仓库中的技能定义，引用同目录下的 invest.md 作为投资流程补充。",
+      "method": "六步流程：(1) 识别周期阶段：早期、中期、后期、承压、恐慌、复苏；(2) 区分一层次思维与二层次思维；(3) 比较价格、价值与风险溢价；(4) 评估市场心理：恐惧、贪婪、自满、被迫抛售；(5) 决定姿态：防御、中性、机会型或进攻型；(6) 按容错空间而非单纯信心来定仓位。输出包含结论、周期位置、一层次与二层次观点对比、风险溢价、市场心理、组合姿态、改变观点的条件及缺失数据清单。",
+      "tagsEn": [
+        "cycle analysis",
+        "risk premium",
+        "market psychology",
+        "portfolio posture",
+        "second-level thinking",
+        "credit cycle"
+      ],
+      "summaryEn": "Applies a Howard Marks-style cycle and risk judgment method to diagnose where a market sits in the cycle, compare price, value, and risk premium, and recommend a defensive, neutral, opportunistic, or aggressive portfolio posture.",
+      "notesEn": "This is a repository-author framework built on Howard Marks' publicly expressed ideas, not an official skill endorsed by Marks himself. The skill is source-checked but execution-unverified; missing data (e.g., credit conditions, positions, liquidity) must be explicitly listed as a data gap in the Missing Data section and never treated as evidence of no risk or no events. The framework explicitly forbids false-precision forecasting and treating high returns as low risk.",
+      "outputs": [
+        "Marks Cycle View 报告：结论（防御/中性/机会型/进攻型/观望）",
+        "周期位置判断",
+        "一层次与二层次观点对比",
+        "风险溢价评估",
+        "市场心理评估",
+        "组合姿态建议",
+        "改变观点的触发条件",
+        "缺失数据清单"
+      ],
+      "methodEn": "A six-step process: (1) identify the cycle stage: early, mid, late, stressed, panic, recovery; (2) separate first-level from second-level thinking; (3) compare price, value, and risk premium; (4) assess market psychology: fear, greed, complacency, forced selling; (5) decide posture: defensive, neutral, opportunistic, or aggressive; (6) size positions by margin for error, not confidence alone. Output includes a verdict, cycle position, first- vs second-level view, risk premium, market psychology, portfolio posture, what would change the view, and a missing-data list.",
+      "inputsEn": [
+        "Asset class or market",
+        "Valuation, yield, spread, or risk premium data",
+        "Credit conditions, liquidity, default risk, and refinancing risk if relevant",
+        "Sentiment, positioning, and consensus view",
+        "Portfolio exposure and drawdown tolerance if posture is requested"
+      ],
+      "exampleEn": "Input: 'Assess the cycle position and risk premium of the US high-yield bond market; my portfolio drawdown tolerance is 15%.' Output: a Marks Cycle View report with a cycle-stage judgment (e.g., late/stressed), spread analysis versus historical default compensation, a market psychology assessment, a defensive or neutral posture verdict, and a list of missing position and liquidity data.",
+      "nameEn": "Howard Marks Cycle Judgment Framework",
+      "inputs": [
+        "资产类别或市场",
+        "估值、收益率、利差或风险溢价数据",
+        "信用条件、流动性、违约风险与再融资风险（如相关）",
+        "情绪、持仓与共识观点",
+        "组合敞口与回撤容忍度（如需姿态建议）"
+      ],
+      "id": "skill-f7a2230b922bd7bd",
+      "author": "questflowai",
+      "originalName": "marks-cycles",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/marks-cycles/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/marks-cycles/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "name": "Minervini VCP 波动收缩形态分析",
+      "category": "quant",
+      "outputsEn": [
+        "Structured VCP report (verdict/trend template/VCP structure/pivot and stop/volume and relative strength/trade plan/missing data)",
+        "Verdict: Buyable Breakout / Watch Pivot / Too Loose / Extended / Failed / Pass",
+        "Entry, stop, first add, and invalidation levels"
+      ],
+      "dependenciesEn": [
+        "OHLCV market data source",
+        "Moving-average and relative-strength calculation tools",
+        "Volume data"
+      ],
+      "tags": [
+        "技术分析",
+        "VCP",
+        "突破交易",
+        "趋势跟踪",
+        "风险管理",
+        "成长股"
+      ],
+      "evidenceQuotes": [
+        "find leading stocks in uptrends, wait for volatility to contract through successive pullbacks, buy the breakout through a pivot, and cut quickly if the setup fails",
+        "Identify contraction sequence: each pullback should get smaller and tighter."
+      ],
+      "dependencies": [
+        "OHLCV 行情数据源",
+        "均线与相对强度计算工具",
+        "成交量数据"
+      ],
+      "summary": "应用 Mark Minervini 风格的 VCP（波动收缩形态）框架，评估成长股的平台整理、均线对齐、相对强度与突破触发，并给出入场、止损与加仓计划。",
+      "example": "用户提供某成长股代码、日线 OHLCV 与风险预算，技能输出结构化报告：判定为 Buyable Breakout 或 Too Loose，附趋势模板检查、VCP 收缩序列、枢轴与止损位、量能与相对强度评估及缺失数据清单。",
+      "environmentEn": "Any analysis environment with charting and OHLCV data access; no specific runtime required.",
+      "notes": "来源为仓库作者整理的 Minervini 风格框架，非 Minervini 本人官方技能。本条目仅经来源核查，未经验证执行；实际交易结果不保证。缺失的均线、相对强度或基本面数据须在 Missing Data 中明确列为数据缺口，不得视为无风险。",
+      "environment": "任何具备图表与 OHLCV 数据访问的分析环境；无需特定运行时。",
+      "method": "先确认 Stage-2 上升趋势与 50/150/200 日均线排列；核对相对强度与领涨属性；识别逐级收窄的回调序列；确认枢轴附近量能枯竭；定义枢轴、入场点、止损、首次加仓位与失效条件；拒绝松散、过度延伸或滞后的形态。",
+      "tagsEn": [
+        "technical-analysis",
+        "VCP",
+        "breakout-trading",
+        "trend-following",
+        "risk-management",
+        "growth-stocks"
+      ],
+      "summaryEn": "Applies a Mark Minervini-style Volatility Contraction Pattern framework to evaluate platform bases, moving-average alignment, relative strength, and breakout triggers in growth stocks, producing entry, stop, and add-on plans.",
+      "notesEn": "Source is a repository-author framework in the Minervini style, not an official skill by Mark Minervini. This entry is source-checked but execution-unverified; no trading outcome is guaranteed. Missing moving averages, relative strength, or fundamentals must be listed explicitly as data gaps in Missing Data, not treated as absence of risk.",
+      "outputs": [
+        "结构化 VCP 分析报告（判定/趋势模板/VCP 结构/枢轴与止损/量能与相对强度/交易计划/缺失数据）",
+        "判定结论：Buyable Breakout / Watch Pivot / Too Loose / Extended / Failed / Pass",
+        "入场、止损、首次加仓与失效条件"
+      ],
+      "methodEn": "Confirm a stage-2 uptrend with 50/150/200-day moving-average alignment; check relative strength and leadership; identify a contraction sequence of progressively tighter pullbacks; confirm volume dry-up near the pivot; define pivot, entry, stop, first add, and invalidation; reject loose, extended, or lagging setups.",
+      "inputsEn": [
+        "Ticker, timeframe, and recent OHLCV data",
+        "50/150/200-day moving averages if available",
+        "Relative strength versus market and industry",
+        "VCP contractions, pivot, volume dry-up, and breakout volume",
+        "Earnings/sales growth data if available",
+        "Risk budget if position sizing is requested"
+      ],
+      "exampleEn": "Given a ticker, daily OHLCV, and a risk budget, the skill returns a structured report: verdict such as Buyable Breakout or Too Loose, trend-template checklist, VCP contraction sequence, pivot and stop levels, volume and relative-strength assessment, and a missing-data list.",
+      "nameEn": "Minervini VCP Volatility Contraction Analysis",
+      "inputs": [
+        "股票代码、时间周期与近期 OHLCV 数据",
+        "50/150/200 日均线（如可用）",
+        "相对大盘与行业的相对强度",
+        "VCP 收缩序列、枢轴、量能枯竭与突破量",
+        "盈利/营收增长数据（如可用）",
+        "风险预算（如需仓位建议）"
+      ],
+      "id": "skill-cd37596b5b3e248c",
+      "author": "questflowai",
+      "originalName": "minervini-vcp",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/minervini-vcp/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/minervini-vcp/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "name": "浑水式做空尽调研究",
+      "category": "research",
+      "outputsEn": [
+        "Structured forensic short view (verdict/thesis/evidence/risks)",
+        "Action plan and invalidation conditions",
+        "Missing-data list"
+      ],
+      "dependenciesEn": [
+        "Regulatory filings and company disclosures",
+        "Channel checks and primary research materials",
+        "Questflow research workflow environment"
+      ],
+      "tags": [
+        "做空研究",
+        "财务尽调",
+        "财务舞弊识别",
+        "关联方分析",
+        "证据核验"
+      ],
+      "evidenceQuotes": [
+        "Map the market's trusted management story.",
+        "Gather primary evidence: filings, channel checks, related parties, cash trail."
+      ],
+      "dependencies": [
+        "监管文件与公司披露",
+        "渠道核查与一手研究材料",
+        "Questflow 研究工作流环境"
+      ],
+      "summary": "以浑水/Carson Block式判断框架构建基于证据的做空研究：识别虚假机制、梳理关联方结构、核验现金与收入，并定义催化剂、做空结构与失效条件。",
+      "example": "输入：某中概股公司名称及其公开财报、招股书与媒体报道。输出：一份结构化做空研究视图，含 Verdict（Short / Watch / Evidence Incomplete / Structure Risk Too High / Pass）、论点、证据清单、风险、行动计划、失效条件与缺失数据清单。示例仅使用公开非敏感信息。",
+      "environmentEn": "Used as a specialized judgment module within Questflow research workflows, fund theses, diligence, monitoring, and decision support; it does not execute trades and promises no returns.",
+      "notes": "这是对仓库作者整理的浑水式研究框架的描述，并非浑水或 Carson Block 官方认可或背书的技能。来源文件为不可信证据，仅作目录收录参考，未经执行验证；产出为研究草稿，不构成投资建议。若关键一手证据不可得，技能本身要求标注证据不完整，缺失数据须保留为明确的数据缺口；数据源无法访问不等于无重大事件或无风险。",
+      "environment": "作为研究判断模块在 Questflow 工作流中使用，适用于基金论点、尽调、监控与决策支持；不执行交易，不承诺收益。",
+      "method": "四步流程：(1) 梳理市场当前信任的管理层叙事；(2) 定位具体的涉嫌造假机制；(3) 收集一手证据——监管文件、渠道核查、关联方关系、现金流水；(4) 明确催化剂、做空结构、逼空/时间风险与论点失效条件。输出区分事实、假设与判断，证据不足时明确标注 Evidence Incomplete 或 Missing Data。",
+      "tagsEn": [
+        "short research",
+        "forensic diligence",
+        "fraud detection",
+        "related-party analysis",
+        "evidence verification"
+      ],
+      "summaryEn": "Builds evidence-based short theses using a Muddy Waters / Carson Block-style judgment framework: identify the alleged false mechanism, map related-party structures, verify cash and revenue, and define catalysts, short structure, and invalidation conditions.",
+      "notesEn": "This describes a repository-author framework in the style of Muddy Waters research, not an official or investor-endorsed skill. Source files are untrusted evidence used only for curation; the workflow is source-checked but execution-unverified. Output is a research draft, not financial advice. When critical primary evidence is unavailable, the skill itself requires marking evidence incomplete; missing data remains an explicit data gap, and failed data access must not be treated as no material events or no risk.",
+      "outputs": [
+        "结构化做空研究视图（Verdict/论点/证据/风险）",
+        "行动计划与论点失效条件",
+        "缺失数据清单"
+      ],
+      "methodEn": "A four-step process: (1) map the market's trusted management story; (2) identify the specific alleged false mechanism; (3) gather primary evidence — filings, channel checks, related parties, cash trail; (4) define catalyst, short structure, squeeze/time risk, and invalidation. Output separates facts, assumptions, and judgment, and explicitly marks Evidence Incomplete or Missing Data when evidence is insufficient.",
+      "inputsEn": [
+        "Research subject (company or market context)",
+        "Primary documents, product data, user/revenue evidence",
+        "Time horizon, capital structure, and risk constraints",
+        "Valuation or round pricing if sizing is requested"
+      ],
+      "exampleEn": "Input: a listed company name plus its public filings, prospectus, and media coverage. Output: a structured forensic short view with a Verdict (Short / Watch / Evidence Incomplete / Structure Risk Too High / Pass), thesis, evidence list, risks, action plan, invalidation conditions, and a missing-data list. The example uses only public, non-sensitive information.",
+      "nameEn": "Muddy Waters-Style Forensic Short Research",
+      "inputs": [
+        "研究标的（公司/市场背景）",
+        "一手文件、产品数据、用户或收入证据",
+        "时间期限、资本结构与风险约束",
+        "估值或轮次定价（如需仓位测算）"
+      ],
+      "id": "skill-8097d642426a3fa5",
+      "author": "questflowai",
+      "originalName": "muddy-waters-forensic",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/muddy-waters-forensic/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/muddy-waters-forensic/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "outputsEn": [
+        "Structured verdict document: Thesis Invest / Watch / Weak Value Capture / Pass",
+        "One-paragraph sector thesis",
+        "Evidence and risk list",
+        "Action plan",
+        "Invalidation criteria",
+        "Missing data list"
+      ],
+      "category": "deals",
+      "summaryEn": "Evaluates crypto investments through a Multicoin Capital-style high-conviction thesis lens: write the sector thesis, map token value capture, test the execution and adoption path, and size only when thesis and capture are both clear, producing a structured verdict document with explicit invalidation criteria.",
+      "notes": "该技能明确声明不构成财务建议，且在关键数据缺失、用户要求保证收益或无杠杆上限、或仅有泛泛炒作而无决策需求时不应使用。缺失数据须在输出的Missing Data部分显式列出，不得将数据缺失当作无风险。本条目为源文件核查后的目录记录，方法未经执行验证；Multicoin风格仅为仓库作者框架命名，不代表该机构认可。",
+      "tagsEn": [
+        "crypto investing",
+        "investment thesis",
+        "token value capture",
+        "L1/L2",
+        "VC-style judgment",
+        "position sizing"
+      ],
+      "evidenceQuotes": [
+        "Write the sector thesis in one paragraph.\n2. Map value capture to token/equity.\n3. Test execution and adoption path.\n4. Size only when thesis and capture both clear.",
+        "Separate facts, assumptions, and judgment.\n- Define invalidation before sizing.\n- Not financial advice."
+      ],
+      "method": "四步流程：（1）用一段话撰写行业论点；（2）将价值捕获映射到代币或股权；（3）测试执行与采用路径；（4）仅在论点与价值捕获均清晰时进行仓位评估。输出采用固定格式：结论（Thesis Invest / Watch / Weak Value Capture / Pass）、论点、证据、风险、行动计划、否决条件与缺失数据清单。要求区分事实、假设与判断，并在仓位评估前先定义否决条件。",
+      "exampleEn": "Example: assess value capture for a public L2 scaling token. Inputs are public project documentation, a time horizon, and risk constraints (non-sensitive public information). The workflow writes a one-paragraph thesis, maps fee and value accrual to the token, tests the adoption path, and outputs a Watch verdict with invalidation criteria (e.g., sustained fee capture below a stated threshold) and a Missing Data list (e.g., no verified on-chain revenue data available).",
+      "tags": [
+        "加密投资",
+        "投资论点",
+        "代币价值捕获",
+        "L1/L2",
+        "风险投资式判断",
+        "仓位评估"
+      ],
+      "nameEn": "Multicoin-Style Crypto Thesis VC Framework",
+      "example": "示例：评估某个L2扩容方案的代币价值捕获。输入为公开的项目文档与市场时间范围、风险约束（非敏感公开信息）。流程先写一段行业论点，再将费用与价值累积映射到代币，测试采用路径，最后输出结论为Watch并附否决条件（如实际费用捕获持续低于阈值）与缺失数据（如缺乏经核实的链上收入数据）。",
+      "environment": "文本分析环境即可运行（无强制外部依赖）；若需定量支撑，用户须自行提供价格、链上、流动性、研究或采用数据。该框架为仓库作者的方法论模块，可在Questflow式智能体工作流中作为加密判断模块引用，不构成Multicoin Capital官方技能或背书。",
+      "name": "Multicoin风格加密投资论点评估框架",
+      "environmentEn": "Runs in a text-analysis environment with no mandatory external dependencies; quantitative support requires the user to supply price, on-chain, liquidity, research, or adoption data. This is a repository-author methodology module usable as a crypto judgment module inside Questflow-style agent workflows; it is not an official Multicoin Capital skill or endorsement.",
+      "outputs": [
+        "结构化判断文档：结论（Thesis Invest / Watch / Weak Value Capture / Pass）",
+        "行业论点段落",
+        "证据与风险清单",
+        "行动计划",
+        "否决条件",
+        "缺失数据清单"
+      ],
+      "methodEn": "A four-step process: (1) write the sector thesis in one paragraph; (2) map value capture to token/equity; (3) test the execution and adoption path; (4) size only when thesis and capture are both clear. Output follows a fixed template: Verdict (Thesis Invest / Watch / Weak Value Capture / Pass), Thesis, Evidence, Risks, Action Plan, Invalidation, and Missing Data. Facts, assumptions, and judgment must be separated, and invalidation is defined before sizing.",
+      "notesEn": "The skill explicitly states it is not financial advice and must not be used when critical data is missing, when the user wants guaranteed returns or unbounded leverage, or when the request is generic hype with no decision. Missing data must be listed explicitly in the Missing Data section and must never be treated as an absence of risk. This entry is source-checked but execution-unverified; the Multicoin-style label is a repository-author framework name, not an endorsement by that firm.",
+      "dependencies": [
+        "无强制运行时依赖；定量支撑依赖用户提供的行情/链上/流动性/研究数据",
+        "可选：Questflow式智能体工作流宿主"
+      ],
+      "inputsEn": [
+        "Asset, token, protocol, sector, or market context",
+        "Relevant price, on-chain, liquidity, research, or adoption data (user-supplied)",
+        "Time horizon and risk constraints",
+        "Portfolio context if sizing is requested"
+      ],
+      "dependenciesEn": [
+        "No mandatory runtime dependencies; quantitative support depends on user-supplied market/on-chain/liquidity/research data",
+        "Optional: Questflow-style agent workflow host"
+      ],
+      "inputs": [
+        "资产、代币、协议、行业或市场背景",
+        "相关价格、链上、流动性、研究或采用数据（用户自备）",
+        "时间范围与风险约束",
+        "如需仓位建议，还须提供组合背景"
+      ],
+      "summary": "以Multicoin Capital风格的高确信度行业论点方法评估加密投资：撰写行业论点、映射代币价值捕获、测试执行与采用路径，并在论点与价值捕获均清晰时才给出仓位建议，输出含否决条件的结构化判断文档。",
+      "id": "skill-7228d02efadfaa9d",
+      "author": "questflowai",
+      "originalName": "multicoin-thesis-vc",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/multicoin-thesis-vc/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/multicoin-thesis-vc/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "outputsEn": [
+        "Munger-view report with Act/Wait/Pass/Too-Hard verdict",
+        "Inversion analysis of the biggest ways the decision fails",
+        "Incentive and agency-problem review",
+        "Mental models applied and quality-filter conclusion",
+        "Opportunity-cost analysis and missing-data list"
+      ],
+      "category": "research",
+      "summaryEn": "A qualitative decision framework built on inversion, incentive review, multidisciplinary mental models, and quality filters, producing an Act/Wait/Pass/Too-Hard verdict report with mandatory missing-data and failure-mode sections.",
+      "notes": "此条目为源文件核查后收录，未经验证执行。它是仓库作者对查理·芒格决策风格的诠释框架，并非芒格本人认可或官方发布的技能；芒格风格不构成任何投资背书。输出格式中的\"Missing Data\"栏被保留为强制性章节：数据缺失必须显式报告，安静的新闻日与数据源不可用不同，不能将访问失败或数据缺失当作\"无重大事件\"或\"无风险\"。该技能自身声明不适用于信息不足以理解激励与商业质量的场景，此类限制应如实保留。",
+      "tagsEn": [
+        "mental models",
+        "inversion",
+        "incentives",
+        "circle of competence",
+        "qualitative analysis",
+        "decision quality"
+      ],
+      "evidenceQuotes": [
+        "1. Invert: ask how this investment could fail badly.",
+        "Avoid obvious stupidity before seeking brilliance."
+      ],
+      "method": "六步流程：(1) 逆向提问——该投资可能如何严重失败；(2) 检查能力圈，拒绝无法理解的标的；(3) 审查管理层、客户、监管者与竞争者的激励及代理问题；(4) 应用多元模型（竞争、规模、习惯、心理学、杠杆、监管、机会成本）；(5) 识别多股力量相互强化的\"lollapalooza\"效应；(6) 判断答案是否足够显而易见以支持集中决策。明确排除场景：机械式技术进场、仅依赖短期价格行为、信息不足以理解激励与商业质量、或用户只是寻求对既定决策的确认。",
+      "exampleEn": "A user supplies a listed company's business model description, management compensation structure, competitive landscape, and current valuation, requesting a Munger-style review. The skill outputs a report: inverted listing of the most likely failure paths (e.g., regulatory tightening, key-person dependence, misaligned incentives), identified agency problems, the mental models applied, a quality-filter conclusion, opportunity-cost comparison, and a Missing Data section explicitly flagging gaps such as unavailable customer retention figures.",
+      "tags": [
+        "心智模型",
+        "逆向思维",
+        "激励机制",
+        "能力圈",
+        "定性分析",
+        "决策质量"
+      ],
+      "nameEn": "Munger-Style Mental Models Investment Judgment",
+      "example": "用户提供一家上市公司的商业模式描述、管理层薪酬结构、主要竞争格局和当前估值，请求\"芒格式\"审查。技能输出一份报告：逆向列出三种最可能的失败路径（如监管收紧、关键人依赖、激励错位）、识别的代理问题、所应用的心智模型清单、质量过滤结论、机会成本对比，以及\"缺失数据\"栏中明确标注尚无法获取的客户留存率等数据缺口。",
+      "environment": "纯分析文本工作流，无代码执行或外部数据订阅要求；所需输入为用户提供的公司背景、商业模式、激励结构、已知风险与估值/机会成本。",
+      "name": "芒格式心智模型投资判断",
+      "environmentEn": "A pure analytical text workflow with no code execution or external data subscriptions required; inputs are user-supplied company context, business economics, incentive structures, known risks, and valuation/opportunity cost where relevant.",
+      "outputs": [
+        "芒格式判断报告：行动/等待/放弃/太难结论",
+        "逆向分析（主要失败方式）",
+        "激励与代理问题审查",
+        "所应用心智模型清单与质量过滤结论",
+        "机会成本分析与缺失数据清单"
+      ],
+      "methodEn": "A six-step process: (1) invert—ask how the investment could fail badly; (2) check circle of competence and reject what cannot be understood; (3) examine incentives and agency problems across management, customers, regulators, and competitors; (4) apply multiple models (competition, scale, habit, psychology, leverage, regulation, opportunity cost); (5) look for lollapalooza effects where several forces reinforce each other; (6) decide whether the answer is obvious enough to justify concentration. Explicit exclusions: mechanical technical entries, decisions depending only on short-term price action, insufficient information on incentives and business quality, or confirmation-seeking of an already-made decision.",
+      "notesEn": "Included after source-file review; execution-unverified. This is a repository-author's interpretation of Charlie Munger's decision style, not a Munger-endorsed or official skill; the Munger style constitutes no investment endorsement. The Missing Data section of the output format is preserved as mandatory: data gaps must be reported explicitly, and a quiet verified news day is different from unavailable feeds—failed access or absent data must never be treated as no material events or no risk. The skill's own declared unsuitability for cases with insufficient information on incentives and business quality is retained as stated.",
+      "dependencies": [
+        "用户提供的定性背景材料（无外部数据订阅或代码执行依赖）"
+      ],
+      "inputsEn": [
+        "Company or decision context",
+        "Business model and economics",
+        "Incentives of management, customers, regulators, and competitors",
+        "Known risks, unknowns, and failure modes",
+        "Current valuation or opportunity cost if relevant"
+      ],
+      "dependenciesEn": [
+        "User-supplied qualitative context materials (no external data subscriptions or code execution dependencies)"
+      ],
+      "inputs": [
+        "公司或决策背景",
+        "商业模式与经济特征",
+        "管理层、客户、监管者与竞争者的激励",
+        "已知风险、未知事项与失败模式",
+        "当前估值或机会成本（如相关）"
+      ],
+      "summary": "以逆向思维、激励机制审查、多元心智模型和质量过滤为核心的定性决策框架，输出\"行动/等待/放弃/太难\"的集中度判断报告，并强制列出缺失数据与主要失败模式。",
+      "id": "skill-741b601bb463817a",
+      "author": "questflowai",
+      "originalName": "munger",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/munger/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/munger/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "outputsEn": [
+        "Verdict: Long-Term Own / Watch / Not Shared / Too Expensive / Pass",
+        "Scale economies shared analysis",
+        "Customer flywheel mapping",
+        "Culture and time horizon assessment",
+        "Reinvestment runway and risk list"
+      ],
+      "category": "research",
+      "summaryEn": "Applies a Nick Sleep (Nomad Partnership) style long-term compounding framework to assess whether a business shares scale economies with customers, builds a price-experience-volume flywheel, and supports low-turnover, long-duration investment decisions.",
+      "notes": "这是对 Nick Sleep 风格框架的仓库作者整理，并非投资者本人认可或官方技能。已进行来源核对但未执行验证：框架描述与输出格式来自技能文件本身，其实际分析效果未经回测或实盘验证。文件未指定数据来源或获取方式，所需的财务与定价数据可用性为明确数据缺口；无法访问数据不等于无风险或无重大事件。",
+      "tagsEn": [
+        "long-term compounding",
+        "scale economies",
+        "moat",
+        "low turnover",
+        "investment framework",
+        "Nick Sleep"
+      ],
+      "evidenceQuotes": [
+        "find businesses that share scale economies with customers, widen their moat by lowering prices, and compound for years with minimal trading.",
+        "Do not mistake scale for shared scale."
+      ],
+      "method": "五步流程：（1）识别规模经济是否存在；（2）判断成本节约是与客户共享还是被短期榨取；（3）绘制飞轮图：更低价格→更好体验→更大销量→更大规模；（4）评估管理层的时间视野与所有者文化；（5）在预期未极端时忽略短期估值噪音。输出判定结论：Long-Term Own / Watch / Not Shared / Too Expensive / Pass，并覆盖规模共享、客户飞轮、文化与时间视野、再投资跑道、风险五个部分。护栏包括：不得将规模误认为共享规模、不对长周期复利股过度交易、不得忽视文化漂移或客户价值恶化。",
+      "exampleEn": "For a listed warehouse-club retailer: input recent same-store sales, gross margins, and price-cut history to test whether scale savings are passed to members via lower prices; map the flywheel and assess the reinvestment runway, then output a 'Long-Term Own' or 'Not Shared' verdict with section analysis. The example uses only public, non-sensitive information.",
+      "tags": [
+        "长期复利",
+        "规模经济",
+        "护城河",
+        "低换手",
+        "投资框架",
+        "Nick Sleep"
+      ],
+      "nameEn": "Nick Sleep Scale Economies Shared Analysis",
+      "example": "以一家公开上市的仓储会员零售商为对象：输入其近年同店销售、毛利率与降价记录，检验规模节约是否通过降价让利给会员；绘制飞轮并评估管理层资本再投资跑道，输出 'Long-Term Own' 或 'Not Shared' 判定及各节分析。示例仅使用公开非敏感信息。",
+      "environment": "文本分析环境。该技能文件仅提供分析框架与输出格式，未绑定特定数据源、代码执行环境或外部工具。",
+      "name": "尼克·斯利普规模经济共享分析",
+      "environmentEn": "A text-analysis environment. The skill file provides only the analytical framework and output format; no specific data source, code execution environment, or external tool is bound.",
+      "outputs": [
+        "判定结论：Long-Term Own / Watch / Not Shared / Too Expensive / Pass",
+        "规模经济共享分析",
+        "客户飞轮图解",
+        "文化与时间视野评估",
+        "再投资跑道与风险清单"
+      ],
+      "methodEn": "A five-step process: (1) identify whether scale economies exist; (2) determine whether savings are shared with customers or captured short-term; (3) map the flywheel of lower price, better experience, more volume, more scale; (4) assess management time horizon and culture; (5) ignore short-term valuation noise unless expectations are extreme. Output is a verdict of Long-Term Own / Watch / Not Shared / Too Expensive / Pass with sections on scale economies shared, customer flywheel, culture and time horizon, reinvestment runway, and risks. Guardrails include not mistaking scale for shared scale, not overtrading long-duration compounders, and not ignoring culture drift or customer value deterioration.",
+      "notesEn": "This is a repository-author framework in the style of Nick Sleep, not an investor-endorsed or official skill. Source-checked but execution-unverified: the framework and output format come from the skill file itself, and its analytical effectiveness has not been backtested or validated in live use. The file specifies no data sources or retrieval method; availability of required financial and pricing data remains an explicit data gap, and failed data access must not be treated as no risk or no material events.",
+      "dependencies": [
+        "公司公开财务披露",
+        "历史定价信息",
+        "管理层公开评论"
+      ],
+      "inputsEn": [
+        "Multi-year company financials (revenue, gross margin, same-store sales)",
+        "Historical pricing and price-cut records",
+        "Management shareholder letters or earnings commentary (culture and time horizon)",
+        "Capital reinvestment and expansion plan information"
+      ],
+      "dependenciesEn": [
+        "Public company financial disclosures",
+        "Historical pricing information",
+        "Public management commentary"
+      ],
+      "inputs": [
+        "公司多年财务数据（收入、毛利率、同店销售）",
+        "历史定价与降价记录",
+        "管理层股东信或业绩会评论（文化与时间视野）",
+        "资本再投资与扩张计划信息"
+      ],
+      "summary": "运用尼克·斯利普（Nomad 基金）风格的长期复利框架，评估企业是否将规模经济让利给客户，构建'降价-体验-规模'飞轮，并据此做出低换手、长持仓周期的投资判断。",
+      "id": "skill-cab86c5390214a27",
+      "author": "questflowai",
+      "originalName": "nick-sleep-scale-economies",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/nick-sleep-scale-economies/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/nick-sleep-scale-economies/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "exampleEn": "User input: a Nasdaq-listed ticker with its last four quarters of EPS and sales growth, 52-week relative strength, cup-with-handle pivot price versus current price, and daily volume. Output: a CAN SLIM checklist (pass/fail per item with evidence), base and pivot assessment, a buy price with a 7-8% stop plan, sell rules, and an explicit missing-data list (e.g., institutional ownership not provided).",
+      "notesEn": "This entry is a repository-author O'Neil-style analysis framework, not an officially endorsed skill by William O'Neil or IBD; it is a methodology and checklist with no guarantee of returns. The entry is source-checked but execution-unverified; use requires external market and fundamental data, and unavailable data must be flagged in the report's Missing Data section rather than treated as no risk or no events.",
+      "summary": "基于威廉·欧奈尔 CAN SLIM 框架的成长股研究与交易检核技能，串联盈利加速、相对强度、筹码供需、大盘方向与基底突破纪律，输出带买卖计划的标准化检核报告。",
+      "methodEn": "Execute a six-step process: (1) check CAN SLIM fundamentals first — current and annual earnings, sales, new product/catalyst; (2) confirm leadership — relative strength, industry group strength, and price near new highs; (3) evaluate supply and demand — float, volume dry-up, accumulation, institutional sponsorship; (4) confirm market direction; (5) judge base quality and pivot validity; (6) define buy point, stop, add rules, and sell rules. Reject applicability for weak fundamentals, confirmed downtrends, thinly traded or far-extended names.",
+      "name": "O'Neil CAN SLIM 成长股筛选技能",
+      "environmentEn": "Runs as a growth-stock opportunity scanner and breakout monitor within a general LLM assistant or Questflow environment; requires the user to supply or connect market and fundamental data, as the skill itself contains no data-fetching implementation.",
+      "category": "quant",
+      "notes": "本条目为仓库作者整理的欧奈尔风格分析框架，非欧奈尔或 IBD 官方认证技能；内容为方法论与检查清单，不含任何收益保证。条目仅经来源核对，未实际执行验证；使用时应依赖外部行情与基本面数据，数据不可得时须在报告的 Missing Data 部分明确标注，不得将数据缺失当作无风险或无事件。",
+      "environment": "可在通用大语言模型助手或 Questflow 环境中作为成长股机会扫描器与突破监控运行；需要用户提供或接入行情与基本面数据，技能本身不包含数据抓取实现。",
+      "example": "用户输入：某纳斯达克上市公司代码及其最近四个季度 EPS 与营收增速、52 周相对强度、杯柄形态枢轴价与当前价、当日成交量。技能输出：CAN SLIM 检核表（逐项通过/不通过及证据）、基底与枢轴评估、买入价与 7-8% 止损计划、卖出规则，并列出缺失数据（如机构持股比例未提供）。",
+      "inputsEn": [
+        "Ticker and exchange",
+        "Quarterly EPS and sales growth",
+        "Annual EPS trend",
+        "Relative strength versus market and peers",
+        "Base pattern, pivot price, volume, and current price",
+        "General market trend"
+      ],
+      "evidenceQuotes": [
+        "Use this skill to apply William O'Neil-style growth stock selection: find companies with accelerating earnings and sales, strong relative strength, constructive bases",
+        "- Cut losses quickly, usually around 7-8% from the proper buy point."
+      ],
+      "outputsEn": [
+        "CAN SLIM view report with verdict (Buy Point / Watchlist / Extended / Pass / Market Stand Down)",
+        "CAN SLIM checklist with per-item status and evidence",
+        "Base and pivot assessment",
+        "Buy and stop plan",
+        "Sell rules",
+        "Missing data list"
+      ],
+      "nameEn": "O'Neil CAN SLIM Growth Stock Screening Skill",
+      "outputs": [
+        "CAN SLIM 观点报告：结论（买点/观察/延伸/放弃/大盘观望）",
+        "CAN SLIM 检核表（逐项状态与证据）",
+        "基底与枢轴评估",
+        "买入与止损计划",
+        "卖出规则",
+        "缺失数据清单"
+      ],
+      "dependenciesEn": [
+        "Market price and volume data",
+        "Quarterly and annual earnings and sales data",
+        "Relative strength and industry group data",
+        "Institutional ownership / float data (must be flagged as missing if unavailable)"
+      ],
+      "method": "按六步流程执行：(1) 先核 CAN SLIM 基本面：当期与年度盈利、营收、新产品或催化剂；(2) 确认领导地位：相对强度、行业组强度、股价接近新高；(3) 评估供需：流通盘、量能收缩、吸筹与机构持股；(4) 确认大盘方向；(5) 判断基底质量与枢轴点有效性；(6) 定义买入点、止损、加仓与卖出规则。对弱基本面、确认下跌趋势、极薄成交或过度延伸的股票拒绝适用。",
+      "tagsEn": [
+        "growth stocks",
+        "CAN SLIM",
+        "relative strength",
+        "breakout trading",
+        "stop-loss discipline",
+        "technical analysis",
+        "fundamental screening"
+      ],
+      "tags": [
+        "成长股",
+        "CAN SLIM",
+        "相对强度",
+        "突破交易",
+        "止损纪律",
+        "技术分析",
+        "基本面筛选"
+      ],
+      "summaryEn": "A research and trade-check skill applying the William O'Neil CAN SLIM framework for growth stocks, chaining earnings acceleration, relative strength, supply/demand, general market direction, and breakout discipline into a standardized checklist report with buy/stop/sell rules.",
+      "dependencies": [
+        "行情与价格/成交量数据",
+        "季度与年度盈利及营收数据",
+        "相对强度与行业组数据",
+        "机构持股/流通盘数据（如不可得须标注缺失）"
+      ],
+      "inputs": [
+        "股票代码与交易所",
+        "季度 EPS 与营收增速",
+        "年度 EPS 趋势",
+        "相对大盘与同业的相对强度",
+        "基底形态、枢轴价、成交量与现价",
+        "大盘趋势"
+      ],
+      "id": "skill-da2b3d7a8ed4e07f",
+      "author": "questflowai",
+      "originalName": "oneil-canslim",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/oneil-canslim/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/oneil-canslim/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "exampleEn": "A user requests protocol diligence on an L2 scaling protocol: they supply the token, on-chain and liquidity data, time horizon, and risk constraints. The workflow reads protocol docs, maps sequencer/validator incentives and MEV attack surfaces, assesses data-availability design and ecosystem moat, then outputs a 'Watch' verdict with thesis, risks, action plan, invalidation triggers, and a missing-data list.",
+      "notesEn": "This is a repository-author framework in a Paradigm style, not an official Paradigm skill or an endorsement by any investment firm. It explicitly states it is not financial advice and must not be used for guaranteed-return or unbounded-leverage requests. Missing critical data should trigger the Do-Not-Use condition rather than guesswork. This entry is source-checked and execution-unverified; the referenced invest.md file was not present in the supplied source, and its contents remain a data gap.",
+      "summary": "以Paradigm风格研究框架对加密协议进行尽职分析,覆盖机制设计、协议基本面、L2/MEV与激励结构,并输出结构化投资研究判断。",
+      "methodEn": "A four-step process: 1) read primary protocol research and docs; 2) map incentives and attack surfaces; 3) underwrite technical and economic moat; 4) only then judge token/company expression. Output follows a fixed template with Verdict (Research Long / Watch / Mechanism Weak / Pass), Thesis, Evidence, Risks, Action Plan, Invalidation, and Missing Data sections. Guardrails require separating facts, assumptions, and judgment, and defining invalidation before sizing.",
+      "name": "Paradigm风格加密协议研究",
+      "environmentEn": "A text/research assistant environment, used as a crypto judgment module inside Questflow-style agent workflows; reference readings/podcasts/videos after loading the skill.",
+      "category": "research",
+      "notes": "该技能为仓库作者整理的Paradigm风格研究框架,非Paradigm官方技能或任何投资机构背书。明确声明非投资建议,且不适用于保证回报或无上限杠杆的请求。缺失关键数据时应触发'Do Not Use'条件而非猜测。本条目仅经来源核对,未执行验证;仓库中引用的invest.md文件未在本次提供的来源中呈现,其具体内容为数据缺口。",
+      "environment": "文本/研究助手环境;作为加密判断模块嵌入Questflow式智能体工作流;引用readings/podcasts/videos资料需在加载技能后进行。",
+      "example": "用户要求对某L2扩容协议做协议尽调:提供代币、链上与流动性数据、时间期限与风险约束,流程读取协议文档,绘制验证者/排序器激励与MEV攻击面,评估数据可用性方案与生态护城河,最后输出'Watch'结论、论点、风险清单、行动计划、失效触发条件及缺失数据清单。",
+      "inputsEn": [
+        "Asset, token, protocol, sector, or market context",
+        "Relevant price, on-chain, liquidity, research, or adoption data",
+        "Time horizon and risk constraints",
+        "Portfolio context if sizing is requested"
+      ],
+      "evidenceQuotes": [
+        "1. Read primary protocol research and docs.\n2. Map incentives and attack surfaces.\n3. Underwrite technical and economic moat.",
+        "Separate facts, assumptions, and judgment.\n- Define invalidation before sizing."
+      ],
+      "outputsEn": [
+        "Structured research view report (Verdict / Thesis / Evidence / Risks / Action Plan / Invalidation / Missing Data)"
+      ],
+      "nameEn": "Paradigm-Style Crypto Protocol Research",
+      "outputs": [
+        "结构化研究判断报告(结论/论点/证据/风险/行动计划/失效条件/缺失数据)"
+      ],
+      "dependenciesEn": [
+        "Primary protocol research and public documentation",
+        "Price, on-chain, liquidity, and adoption data",
+        "Questflow-style agent workflow (optional runtime)"
+      ],
+      "method": "四步流程:1) 阅读协议一手研究文档;2) 绘制激励映射与攻击面;3) 评估技术与经济护城河;4) 在此基础上才判断代币或公司层面的表达。输出固定格式包括结论(Research Long / Watch / Mechanism Weak / Pass)、论点、证据、风险、行动计划、失效条件与缺失数据。护栏要求区分事实、假设与判断,并在仓位确定前先定义失效条件。",
+      "tagsEn": [
+        "crypto research",
+        "mechanism design",
+        "L2",
+        "MEV",
+        "protocol diligence",
+        "investment thesis"
+      ],
+      "tags": [
+        "加密研究",
+        "机制设计",
+        "L2",
+        "MEV",
+        "协议尽调",
+        "投资论点"
+      ],
+      "summaryEn": "A structured research workflow for evaluating crypto protocols through a Paradigm-style lens, covering mechanism design, protocol fundamentals, L2/MEV, and incentive structures, producing a formatted research-driven investment view.",
+      "dependencies": [
+        "协议一手研究文档与公开资料",
+        "价格、链上、流动性、采用数据",
+        "Questflow式智能体工作流(可选运行环境)"
+      ],
+      "inputs": [
+        "资产、代币、协议、板块或市场背景",
+        "相关价格、链上、流动性、研究或采用数据",
+        "时间期限与风险约束",
+        "如需仓位建议则提供组合背景"
+      ],
+      "id": "skill-11f57926a942c1df",
+      "author": "questflowai",
+      "originalName": "paradigm-crypto-research",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/paradigm-crypto-research/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/paradigm-crypto-research/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
     }
   ],
   "evidence": {
     "checks": {
-      "skills": 149,
+      "skills": 157,
       "repositories": 7,
       "executionTestsRun": 0
     },
@@ -10865,7 +11523,7 @@
     },
     {
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "908d6968218063155b1b2f35c06c96b84e90919f",
+      "commit": "e26f1424e3908351d078b89472713c3e9fc41c3c",
       "license": "MIT",
       "licensePath": "LICENSE",
       "licenseFile": "/licenses/alphakit-LICENSE.txt",
@@ -10887,8 +11545,8 @@
           "file": "/licenses/alphakit-sellside-model-exhibits-LICENSE.txt"
         }
       ],
-      "archive": "Jeromelll--finskillhub-catalog--908d6968218063155b1b2f35c06c96b84e90919f.zip",
-      "archiveSha256": "e9bea8d0adb1bae6c288716a5ffe9dc3e50b64a6d0c19be84e604f6ac3ff882a",
+      "archive": "Jeromelll--finskillhub-catalog--e26f1424e3908351d078b89472713c3e9fc41c3c.zip",
+      "archiveSha256": "b6fdaf603a8f08d4d630ebc47b7b88ed08b0a4cd996f2d7acbfbbcb00285183a",
       "description": "FinSkillHub 的三项原创金融研究技能，涵盖增量测算、模型展示表和股票初步研究；案例使用原创合成数据。",
       "descriptionEn": "FinSkillHub original finance research skills for incremental sizing, model exhibits and initial stock research, with original synthetic examples."
     }
