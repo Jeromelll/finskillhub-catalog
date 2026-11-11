@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-11",
   "skills": [
     {
       "id": "equity-earnings-update",
@@ -5635,9 +5635,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "e26f1424e3908351d078b89472713c3e9fc41c3c",
+      "commit": "54f25fe1fd7b113d14efdaf62f2d73f6aebf0462",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/e26f1424e3908351d078b89472713c3e9fc41c3c/skills/incremental-business-sizing/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/54f25fe1fd7b113d14efdaf62f2d73f6aebf0462/skills/incremental-business-sizing/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "incremental-business-sizing",
@@ -5646,7 +5646,7 @@
       "nameEn": "Incremental business revenue and profit sizing",
       "category": "research",
       "sourcePath": "skills/incremental-business-sizing/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/e26f1424e3908351d078b89472713c3e9fc41c3c/skills/incremental-business-sizing/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/54f25fe1fd7b113d14efdaf62f2d73f6aebf0462/skills/incremental-business-sizing/SKILL.md",
       "summary": "把产能、用户行为、订阅或交易额拆成可复算的收入、利润与 EPS 驱动链，保留缺失参数并用同一模型制作情景和敏感性分析。",
       "summaryEn": "Builds reproducible revenue, profit and EPS drivers from capacity, user activity, subscriptions or transaction volume. Preserves missing inputs and uses one model for scenarios and sensitivities.",
       "method": "先界定收费对象、资源和时间约束，为参数标明单位、期间及来源，再按依赖图计算各情景；两个敏感性轴替换同一模型中的指定输入。",
@@ -5705,9 +5705,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "e26f1424e3908351d078b89472713c3e9fc41c3c",
+      "commit": "54f25fe1fd7b113d14efdaf62f2d73f6aebf0462",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/e26f1424e3908351d078b89472713c3e9fc41c3c/skills/sellside-model-exhibits/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/54f25fe1fd7b113d14efdaf62f2d73f6aebf0462/skills/sellside-model-exhibits/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "sellside-model-exhibits",
@@ -5716,7 +5716,7 @@
       "nameEn": "Financial model exhibits and sensitivity tables",
       "category": "operations",
       "sourcePath": "skills/sellside-model-exhibits/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/e26f1424e3908351d078b89472713c3e9fc41c3c/skills/sellside-model-exhibits/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/54f25fe1fd7b113d14efdaf62f2d73f6aebf0462/skills/sellside-model-exhibits/SKILL.md",
       "summary": "把同一份已完成测算制作成计算桥、情景表和敏感性矩阵，保留单位、年份、来源和未知值，输出文档、图片与公式工作簿。",
       "summaryEn": "Turns one completed model result into a calculation bridge, scenario table and sensitivity matrices. Retains units, periods, sources and unknown values, and exports documents, images and formula workbooks.",
       "method": "读取版本化计算结果，根据角色、表达式和状态排版；各格式共享同一数值来源，公式仅绑定到同一情景中的有效输入。",
@@ -5777,9 +5777,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "e26f1424e3908351d078b89472713c3e9fc41c3c",
+      "commit": "54f25fe1fd7b113d14efdaf62f2d73f6aebf0462",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/e26f1424e3908351d078b89472713c3e9fc41c3c/skills/pre-trade-quick-brief/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/54f25fe1fd7b113d14efdaf62f2d73f6aebf0462/skills/pre-trade-quick-brief/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "pre-trade-quick-brief",
@@ -5788,7 +5788,7 @@
       "nameEn": "Quick initial research for a new stock",
       "category": "research",
       "sourcePath": "skills/pre-trade-quick-brief/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/e26f1424e3908351d078b89472713c3e9fc41c3c/skills/pre-trade-quick-brief/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/54f25fe1fd7b113d14efdaf62f2d73f6aebf0462/skills/pre-trade-quick-brief/SKILL.md",
       "summary": "先解释市场叙事与新增经营变量，再拆出受约束的业绩上限、三个盈利时间窗、前瞻估值和下一验证点，保留资料缺口。",
       "summaryEn": "Explains the market narrative and new operating variables, then develops a constrained earnings ceiling, three earnings windows, forward valuation conditions and the next verification point while preserving evidence gaps.",
       "method": "冻结信息时点，建立旧预期到新参数的证据链，核对需求、供给、期间、成本及融资稀释，并把当前价值和远期条件终值分开。",
@@ -11292,11 +11292,169 @@
       "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
       "sourceVerified": true,
       "executionVerified": false
+    },
+    {
+      "nameEn": "PTJ Macro Trend Trading Analysis",
+      "environment": "作为文本推理/研究工作流运行，无特定运行时依赖；需要用户提供或接入目标市场的宏观趋势与价格数据。",
+      "notes": "这是仓库作者构建的Paul Tudor Jones风格分析框架，非其本人认可或官方技能。本条目已通过来源核查，但未经执行验证；实际交易信号质量取决于输入数据的时效与准确性。若用户未提供实时行情或流动性数据，该缺口应作为明确的数据缺口标注，而非视为无风险事件。",
+      "category": "macro",
+      "outputsEn": [
+        "Structured 'PTJ View' report with a Long/Short/Probe/Cut/Stand Aside verdict",
+        "Macro setup and trend confirmation analysis",
+        "Entry/stop definition and risk-control checklist",
+        "Statement of what would change the view"
+      ],
+      "notesEn": "This is a repository-author framework in the style of Paul Tudor Jones, not a skill endorsed by the investor. The entry is source-checked but execution-unverified; actual signal quality depends on the timeliness and accuracy of input data. If the user does not provide live market or liquidity data, that gap must be flagged as an explicit data gap, not treated as an absence of risk events.",
+      "dependencies": [
+        "无强制运行时依赖",
+        "需要用户提供目标市场的趋势/价格/流动性数据"
+      ],
+      "summary": "以Paul Tudor Jones风格框架评估宏观趋势交易：识别重大宏观/技术转折点、趋势与流动性确认、止损纪律与回撤控制，优先'不亏大钱'而非'判断正确'。",
+      "method": "五步流程：(1) 判定宏观环境与主导市场趋势；(2) 检查技术确认与关键移动平均线（如200日线）；(3) 明确定义交易被证伪的价位；(4) 优先控制下行风险；(5) 仅在趋势确认后加仓。输出结构化'PTJ观点'报告，含多空判断（Long/Short/Probe/Cut/Stand Aside）、宏观设定、趋势确认、入场/止损、风险控制与观点反转条件。护栏：不摊薄亏损仓位、不因宏观观点承受大额损失、不无止损逆势操作。",
+      "inputsEn": [
+        "Description of the target market's macro trend and regime (equity index, rates, FX, commodities)",
+        "Price/technical data: key moving averages (e.g., 200-day) and trend confirmation signals",
+        "Liquidity backdrop and positioning context"
+      ],
+      "summaryEn": "A Paul Tudor Jones-style framework for evaluating macro trend trades: identifying major macro/technical turning points, trend and liquidity confirmation, stop discipline and drawdown control, prioritizing 'not losing big' over 'being right'.",
+      "name": "PTJ宏观趋势交易分析",
+      "dependenciesEn": [
+        "No mandatory runtime dependencies",
+        "Requires user-supplied trend/price/liquidity data for the target market"
+      ],
+      "tags": [
+        "宏观趋势",
+        "转折点分析",
+        "风险控制",
+        "止损纪律",
+        "技术确认",
+        "流动性",
+        "回撤控制"
+      ],
+      "environmentEn": "Runs as a text-based reasoning/research workflow with no specific runtime dependencies; requires the user to supply or connect macro trend and price data for the target market.",
+      "outputs": [
+        "结构化'PTJ观点'报告：Long/Short/Probe/Cut/Stand Aside判断",
+        "宏观设定与趋势确认分析",
+        "入场/止损定义与风险控制清单",
+        "观点反转条件说明"
+      ],
+      "tagsEn": [
+        "macro trend",
+        "turning-point analysis",
+        "risk control",
+        "stop discipline",
+        "technical confirmation",
+        "liquidity",
+        "drawdown control"
+      ],
+      "example": "用户提供某股指指数的趋势描述、200日线位置与流动性背景，技能输出一份'PTJ观点'报告，例如判定为'Probe'（试探性仓位），给出入场区间、定义错误的止损位、风险控制清单以及'何种情况会改变观点'。",
+      "evidenceQuotes": [
+        "identify major macro/technical turning points, align with trend and liquidity, and prioritize not losing big over being right",
+        "Do not average losers."
+      ],
+      "methodEn": "A five-step process: (1) identify the macro regime and dominant market trend; (2) check technical confirmation and key moving averages (e.g., the 200-day); (3) explicitly define the point where the trade is wrong; (4) control downside first; (5) add only when the trend confirms. Output is a structured 'PTJ View' report with a verdict (Long/Short/Probe/Cut/Stand Aside), macro setup, trend confirmation, entry/stop, risk control, and what would change the view. Guardrails: do not average losers, do not risk a large loss on a macro opinion, do not fight the tape without a defined stop.",
+      "exampleEn": "Given a user-supplied description of an equity index trend, 200-day moving average location, and liquidity backdrop, the skill outputs a 'PTJ View' report, e.g., a 'Probe' verdict with an entry zone, a stop that defines where the trade is wrong, a risk-control checklist, and what would change the view.",
+      "inputs": [
+        "目标市场的宏观趋势与制度描述（如股指、利率、外汇、商品）",
+        "价格/技术数据：关键移动平均线（如200日线）与趋势确认信号",
+        "流动性背景与仓位状况"
+      ],
+      "id": "skill-0cf0cd00c5c9f128",
+      "author": "questflowai",
+      "originalName": "ptj-macro-trend",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/ptj-macro-trend/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/ptj-macro-trend/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "nameEn": "Qiu Guolu Value-Quality Analysis Framework",
+      "environment": "纯文本分析工作流，适用于大语言模型助手环境；作为 Questflow 式智能体工作流中的判断模块使用，引用阅读材料/播客/视频时需在加载技能之后进行。不需要代码执行环境。",
+      "notes": "该技能为仓库作者整理的'邱国鹭风格'判断框架，并非邱国鹭本人认可或发布的官方技能。为来源核查的分析方法，未经执行验证——裁决质量取决于输入数据是否完整，缺失数据必须显式保留为'缺失数据'而非推断填补。技能明确声明不构成投资建议，且拒绝保证收益或无上限杠杆的请求。安静的新闻日与数据源不可用是两回事，不能将获取失败当作无重大事件或无风险。",
+      "category": "valuation",
+      "outputsEn": [
+        "Structured Markdown report with verdict (Own Leader / Watch / Too Complex / Not A Leader / Pass)",
+        "2-3 sentence thesis with evidence",
+        "Risks, action plan, and invalidation conditions",
+        "Explicit missing-data list"
+      ],
+      "notesEn": "This skill is a repository-author framework styled after Qiu Guolu's published views, not an official skill endorsed by Qiu Guolu himself. It is a source-checked analysis method, execution-unverified; verdict quality depends on input data completeness, and missing data must remain an explicit 'Missing Data' item rather than being inferred. The skill states it is not financial advice and refuses requests for guaranteed returns or unbounded leverage. A quiet verified news day differs from unavailable feeds; failed access or absent data must never be treated as no material events or no risk.",
+      "dependencies": [
+        "大语言模型助手环境",
+        "用户提供的标的与财务/基本面数据",
+        "Questflow 式智能体工作流（可选，用于模块化调用）"
+      ],
+      "summary": "基于'邱国鹭式'价值-质量判断的股票评估流程：聚焦能力圈、行业龙头与结构性优势，要求投资论点必须简单清晰，通过结构化裁决（拥有龙头/观察/过于复杂/非龙头/放弃）输出结论。",
+      "method": "四步流程：(1) 识别具备结构性优势的行业龙头；(2) 用2-3句话写出投资论点，写不出来即放弃；(3) 相对质量与成长性检验估值；(4) 仅当论点简单且龙头地位清晰时才考虑持有。输出包含裁决、论点、证据、风险、行动计划、失效条件与缺失数据七个部分。",
+      "inputsEn": [
+        "Asset, sector, market, or macro context",
+        "Relevant financial, technical, policy, or sentiment data",
+        "Time horizon and risk constraints",
+        "Portfolio context if sizing is requested"
+      ],
+      "summaryEn": "A stock evaluation workflow applying a Qiu Guolu-style value-quality lens: stay within the circle of competence, focus on industry leaders with structural advantages, and demand a simple, clear thesis, culminating in a structured verdict (Own Leader / Watch / Too Complex / Not A Leader / Pass).",
+      "name": "邱国鹭价值-质量分析框架",
+      "dependenciesEn": [
+        "LLM assistant environment",
+        "User-provided subject and financial/fundamental data",
+        "Questflow-style agent workflow (optional, for modular invocation)"
+      ],
+      "tags": [
+        "价值投资",
+        "质量因子",
+        "行业龙头",
+        "A股",
+        "投资论点",
+        "能力圈"
+      ],
+      "environmentEn": "A text-based analysis workflow suited to LLM assistant environments; used as a judgment module inside Questflow-style agent workflows, with reference readings/podcasts/videos to be loaded after the skill. No code execution environment required.",
+      "outputs": [
+        "结构化 Markdown 报告：裁决（拥有龙头/观察/过于复杂/非龙头/放弃）",
+        "2-3句话的投资论点与证据",
+        "风险、行动计划与失效条件",
+        "缺失数据清单"
+      ],
+      "tagsEn": [
+        "value investing",
+        "quality factor",
+        "industry leader",
+        "A-shares",
+        "investment thesis",
+        "circle of competence"
+      ],
+      "example": "输入：某A股消费行业的上市公司。流程输出：判断其为行业龙头且具备品牌结构性优势，论点可压缩为两句话；相对其盈利质量，当前估值处于合理区间；裁决为'拥有龙头'，同时列出政策风险与明确的失效条件，并标注缺少渠道库存等一手数据。",
+      "evidenceQuotes": [
+        "Write the thesis in 2-3 sentences. If you can't, pass.",
+        "Check valuation relative to quality and growth."
+      ],
+      "methodEn": "A four-step process: (1) identify the industry leader with structural advantage; (2) write the thesis in 2-3 sentences - if you cannot, pass; (3) check valuation relative to quality and growth; (4) own only if the thesis is simple and the leader is clear. Output includes verdict, thesis, evidence, risks, action plan, invalidation, and missing-data sections.",
+      "exampleEn": "Input: a listed consumer-sector A-share company. Workflow output: judged an industry leader with brand-based structural advantage, thesis compressed into two sentences; valuation assessed as reasonable relative to earnings quality; verdict 'Own Leader', with policy risks listed, an explicit invalidation condition, and a noted gap in first-hand channel-inventory data.",
+      "inputs": [
+        "标的资产、行业、市场或宏观背景",
+        "相关财务、技术面、政策或情绪数据",
+        "时间期限与风险约束",
+        "若需仓位建议则需提供组合背景"
+      ],
+      "id": "skill-ae1869e160324787",
+      "author": "questflowai",
+      "originalName": "qiuguolu-value-quality",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/qiuguolu-value-quality/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/qiuguolu-value-quality/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
     }
   ],
   "evidence": {
     "checks": {
-      "skills": 157,
+      "skills": 159,
       "repositories": 7,
       "executionTestsRun": 0
     },
@@ -11523,7 +11681,7 @@
     },
     {
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "e26f1424e3908351d078b89472713c3e9fc41c3c",
+      "commit": "54f25fe1fd7b113d14efdaf62f2d73f6aebf0462",
       "license": "MIT",
       "licensePath": "LICENSE",
       "licenseFile": "/licenses/alphakit-LICENSE.txt",
@@ -11545,8 +11703,8 @@
           "file": "/licenses/alphakit-sellside-model-exhibits-LICENSE.txt"
         }
       ],
-      "archive": "Jeromelll--finskillhub-catalog--e26f1424e3908351d078b89472713c3e9fc41c3c.zip",
-      "archiveSha256": "b6fdaf603a8f08d4d630ebc47b7b88ed08b0a4cd996f2d7acbfbbcb00285183a",
+      "archive": "Jeromelll--finskillhub-catalog--54f25fe1fd7b113d14efdaf62f2d73f6aebf0462.zip",
+      "archiveSha256": "825c241778de3b6ed447fe054c34a4e3aee9fc3dd6b0cdbd8623df31c297dc26",
       "description": "FinSkillHub 的三项原创金融研究技能，涵盖增量测算、模型展示表和股票初步研究；案例使用原创合成数据。",
       "descriptionEn": "FinSkillHub original finance research skills for incremental sizing, model exhibits and initial stock research, with original synthetic examples."
     }
