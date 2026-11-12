@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11",
+  "updatedAt": "2026-11-12",
   "skills": [
     {
       "id": "equity-earnings-update",
@@ -5635,9 +5635,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "54f25fe1fd7b113d14efdaf62f2d73f6aebf0462",
+      "commit": "ad6c3eb6918b3d67178ea0019e143f6c1fefbf26",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/54f25fe1fd7b113d14efdaf62f2d73f6aebf0462/skills/incremental-business-sizing/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/ad6c3eb6918b3d67178ea0019e143f6c1fefbf26/skills/incremental-business-sizing/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "incremental-business-sizing",
@@ -5646,7 +5646,7 @@
       "nameEn": "Incremental business revenue and profit sizing",
       "category": "research",
       "sourcePath": "skills/incremental-business-sizing/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/54f25fe1fd7b113d14efdaf62f2d73f6aebf0462/skills/incremental-business-sizing/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/ad6c3eb6918b3d67178ea0019e143f6c1fefbf26/skills/incremental-business-sizing/SKILL.md",
       "summary": "把产能、用户行为、订阅或交易额拆成可复算的收入、利润与 EPS 驱动链，保留缺失参数并用同一模型制作情景和敏感性分析。",
       "summaryEn": "Builds reproducible revenue, profit and EPS drivers from capacity, user activity, subscriptions or transaction volume. Preserves missing inputs and uses one model for scenarios and sensitivities.",
       "method": "先界定收费对象、资源和时间约束，为参数标明单位、期间及来源，再按依赖图计算各情景；两个敏感性轴替换同一模型中的指定输入。",
@@ -5705,9 +5705,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "54f25fe1fd7b113d14efdaf62f2d73f6aebf0462",
+      "commit": "ad6c3eb6918b3d67178ea0019e143f6c1fefbf26",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/54f25fe1fd7b113d14efdaf62f2d73f6aebf0462/skills/sellside-model-exhibits/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/ad6c3eb6918b3d67178ea0019e143f6c1fefbf26/skills/sellside-model-exhibits/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "sellside-model-exhibits",
@@ -5716,7 +5716,7 @@
       "nameEn": "Financial model exhibits and sensitivity tables",
       "category": "operations",
       "sourcePath": "skills/sellside-model-exhibits/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/54f25fe1fd7b113d14efdaf62f2d73f6aebf0462/skills/sellside-model-exhibits/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/ad6c3eb6918b3d67178ea0019e143f6c1fefbf26/skills/sellside-model-exhibits/SKILL.md",
       "summary": "把同一份已完成测算制作成计算桥、情景表和敏感性矩阵，保留单位、年份、来源和未知值，输出文档、图片与公式工作簿。",
       "summaryEn": "Turns one completed model result into a calculation bridge, scenario table and sensitivity matrices. Retains units, periods, sources and unknown values, and exports documents, images and formula workbooks.",
       "method": "读取版本化计算结果，根据角色、表达式和状态排版；各格式共享同一数值来源，公式仅绑定到同一情景中的有效输入。",
@@ -5777,9 +5777,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "54f25fe1fd7b113d14efdaf62f2d73f6aebf0462",
+      "commit": "ad6c3eb6918b3d67178ea0019e143f6c1fefbf26",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/54f25fe1fd7b113d14efdaf62f2d73f6aebf0462/skills/pre-trade-quick-brief/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/ad6c3eb6918b3d67178ea0019e143f6c1fefbf26/skills/pre-trade-quick-brief/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "pre-trade-quick-brief",
@@ -5788,7 +5788,7 @@
       "nameEn": "Quick initial research for a new stock",
       "category": "research",
       "sourcePath": "skills/pre-trade-quick-brief/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/54f25fe1fd7b113d14efdaf62f2d73f6aebf0462/skills/pre-trade-quick-brief/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/ad6c3eb6918b3d67178ea0019e143f6c1fefbf26/skills/pre-trade-quick-brief/SKILL.md",
       "summary": "先解释市场叙事与新增经营变量，再拆出受约束的业绩上限、三个盈利时间窗、前瞻估值和下一验证点，保留资料缺口。",
       "summaryEn": "Explains the market narrative and new operating variables, then develops a constrained earnings ceiling, three earnings windows, forward valuation conditions and the next verification point while preserving evidence gaps.",
       "method": "冻结信息时点，建立旧预期到新参数的证据链，核对需求、供给、期间、成本及融资稀释，并把当前价值和远期条件终值分开。",
@@ -11450,11 +11450,231 @@
       "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
       "sourceVerified": true,
       "executionVerified": false
+    },
+    {
+      "inputs": [
+        "资产、代币、协议、板块或市场背景",
+        "相关价格、链上、流动性、研究或采用率数据",
+        "时间跨度与风险约束",
+        "如需仓位建议，还需组合背景"
+      ],
+      "outputsEn": [
+        "Structured Markdown view: verdict (Network Own / Watch / Weak Network / Pass), thesis, evidence, risks, action plan, invalidation, missing data"
+      ],
+      "method": "按四步流程执行：(1) 定义网络及其参与者；(2) 解释代币的经济角色；(3) 评估参与度增长与开放性优势；(4) 仅在价值捕获真实时才支持长周期持有。输出结构化视图：结论（Network Own/Watch/Weak Network/Pass）、论点、证据、风险、行动计划、失效条件与缺失数据清单，并要求分离事实、假设与判断。",
+      "methodEn": "Follow a four-step process: (1) define the network and participants; (2) explain the token's economic role; (3) assess participation growth and openness advantages; (4) underwrite long-duration ownership only if capture is real. Output a structured view with a verdict (Network Own / Watch / Weak Network / Pass), thesis, evidence, risks, action plan, invalidation criteria, and a missing-data list, while separating facts, assumptions, and judgment.",
+      "environment": "适用于支持Markdown输出的研究环境；需要加载skill文件并引用配套的阅读/播客/视频材料；无特殊运行时依赖。",
+      "category": "valuation",
+      "tagsEn": [
+        "crypto assets",
+        "token networks",
+        "due diligence",
+        "open networks",
+        "long-duration ownership",
+        "risk framework"
+      ],
+      "summary": "提供一个以开放网络为核心视角的加密代币网络尽职调查框架，通过定义网络参与者、分析代币经济角色、评估参与度增长与开放性优势，输出Network Own/Watch/Weak Network/Pass四档结论并强制写明失效条件与缺失数据。",
+      "exampleEn": "A user supplies a Layer-1 token with public price, on-chain active-address, liquidity data and research materials and requests token network diligence. The process defines participants such as validators and developers, explains the token's role in fees and governance, assesses address growth and ecosystem openness, outputs a Watch verdict with missing TVL breakdown flagged as a data gap, and states invalidation criteria (e.g., sustained decline in active addresses) before any sizing discussion.",
+      "dependencies": [
+        "Skill文件（SKILL.md）",
+        "配套的阅读/播客/视频材料引用",
+        "用户提供的公开市场与链上数据"
+      ],
+      "name": "Placeholder式代币网络评估",
+      "dependenciesEn": [
+        "Skill file (SKILL.md)",
+        "References to accompanying readings/podcasts/videos",
+        "User-supplied public market and on-chain data"
+      ],
+      "inputsEn": [
+        "Asset, token, protocol, sector, or market context",
+        "Relevant price, on-chain, liquidity, research, or adoption data",
+        "Time horizon and risk constraints",
+        "Portfolio context if sizing is requested"
+      ],
+      "tags": [
+        "加密资产",
+        "代币网络",
+        "尽职调查",
+        "开放网络",
+        "长周期持有",
+        "风险框架"
+      ],
+      "evidenceQuotes": [
+        "1. Define the network and participants.\n2. Explain the token's economic role.\n3. Assess participation growth and openness advantages.",
+        "Underwrite long-duration ownership only if capture is real."
+      ],
+      "summaryEn": "A crypto token network diligence framework using an open-networks lens: define the network and its participants, explain the token's economic role, assess participation growth and openness advantages, and deliver a Network Own/Watch/Weak Network/Pass verdict with mandatory invalidation criteria and missing-data disclosure.",
+      "nameEn": "Placeholder-Style Token Network Evaluation",
+      "notes": "这是以Placeholder（Chris Burniske）风格命名的仓库作者框架，不代表投资者本人官方认可的技能。仅提供分析判断框架，不构成财务建议，亦不承诺任何收益；明确拒绝保证回报或无上限杠杆类请求。输出为观点与结论，未经执行验证；数据可用性需逐次确认——访问失败或数据缺失应作为数据缺口披露，不得当作'无重大事件'或'无风险'处理。本条目经来源核对，执行未经验证。",
+      "environmentEn": "Suitable for any research environment that supports Markdown output; load the skill file and reference the accompanying readings/podcasts/videos; no special runtime dependencies.",
+      "example": "用户给出某Layer1代币及公开的价格、链上活跃地址、流动性数据与研究材料，请求代币网络尽职调查。按流程定义验证人与开发者等参与者，解释代币在手续费与治理中的角色，评估地址增长与生态开放性，输出Watch结论并列出缺失的TVL细分数据，同时先写明失效条件（如活跃地址连续下滑）再讨论仓位。",
+      "notesEn": "This is a repository-author framework named after the Placeholder (Chris Burniske) style, not an investor-endorsed official skill. It provides an analytical judgment framework only, is not financial advice, and promises no returns; requests for guaranteed returns or unbounded leverage are explicitly refused. Outputs are opinions and verdicts and are execution-unverified; data availability must be confirmed each time—failed access or absent data must be disclosed as a data gap, never treated as 'no material events' or 'no risk'. This entry is source-checked and execution-unverified.",
+      "outputs": [
+        "结构化Markdown视图：结论（Network Own/Watch/Weak Network/Pass）、论点、证据、风险、行动计划、失效条件、缺失数据"
+      ],
+      "id": "skill-9e01a4c7ca2b70bf",
+      "author": "questflowai",
+      "originalName": "placeholder-token-networks",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/placeholder-token-networks/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/placeholder-token-networks/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "inputs": [
+        "资产、组合、主题或市场背景",
+        "相关财务、市场、周期或结构性数据",
+        "时间期限与风险约束",
+        "当前价格/估值或组合权重（如需仓位建议）"
+      ],
+      "outputsEn": [
+        "Structured deep value note: verdict, thesis, evidence, risks, action plan, invalidation triggers, and missing-data list"
+      ],
+      "method": "四步流程：1) 筛选资产型便宜价值（如账面价值折价）；2) 核查债务水平与资产质量；3) 构建分散化的便宜股篮子；4) 当标的不再便宜或资产出现减值时卖出。输出采用固定结构：结论（买入篮子/加仓/持有/资产减值/放弃）、论点、证据、风险、行动方案、失效条件与缺失数据清单。",
+      "methodEn": "A four-step process: 1) screen for cheap asset-based value (e.g., book value discount); 2) check debt and asset quality; 3) build a diversified basket of cheap stocks; 4) sell when a holding is no longer cheap or assets impair. Output follows a fixed structure: verdict (Buy Basket / Add / Hold / Asset Impaired / Pass), thesis, evidence, risks, action plan, invalidation, and missing-data list.",
+      "environment": "需要一个能读取财务报表、市场价格与估值数据的分析环境；该技能定位为判断模块，可嵌入研究工作流、组合监控与风控决策支持流程。不执行交易，不做杠杆建议。",
+      "category": "valuation",
+      "tagsEn": [
+        "deep value",
+        "cigar butt",
+        "book value discount",
+        "diversification",
+        "stock screening",
+        "value investing"
+      ],
+      "summary": "以Walter Schloss式的资产型价值判断为框架，筛选便宜股票、核查资产负债表质量、构建分散化便宜股篮子，并在资产恶化或不再便宜时退出。",
+      "exampleEn": "A user asks for a cigar-butt basket based on book value discount: given a candidate stock list, latest balance-sheet data, and liquidity constraints, the skill produces a research note with a Buy Basket or Pass verdict, debt and asset-quality checks, a diversified position plan, and invalidation triggers.",
+      "dependencies": [
+        "财务报表数据（资产负债表、债务数据）",
+        "市场价格与估值数据",
+        "流动性数据"
+      ],
+      "name": "Schloss风格烟蒂股深度价值筛选",
+      "dependenciesEn": [
+        "Financial statement data (balance sheet, debt data)",
+        "Market price and valuation data",
+        "Liquidity data"
+      ],
+      "inputsEn": [
+        "Asset, portfolio, theme, or market context",
+        "Relevant financial, market, regime, or structural data",
+        "Time horizon and risk constraints",
+        "Current price/valuation or portfolio weights if sizing is requested"
+      ],
+      "tags": [
+        "深度价值",
+        "烟蒂股",
+        "账面价值折价",
+        "分散化",
+        "选股",
+        "价值投资"
+      ],
+      "evidenceQuotes": [
+        "1. Screen for cheap asset-based value.\n2. Check debt and asset quality.\n3. Build a diversified basket.\n4. Sell when no longer cheap or assets impair.",
+        "- Do not force a trade when filters fail.\n- Do not ignore risk, liquidity, or regime constraints."
+      ],
+      "summaryEn": "A Walter Schloss-style asset-based value framework for screening cheap stocks, checking balance-sheet quality, building a diversified basket of bargains, and exiting when assets impair or stocks are no longer cheap.",
+      "nameEn": "Schloss-Style Cigar-Butt Deep Value Screening",
+      "notes": "该技能为仓库作者整理的Walter Schloss风格投资框架，并非由Walter Schloss本人或其关联方认可的官方技能。技能明确警告不提供保证收益、不与使用者追高杠杆。本目录仅做来源核对，未实际执行该工作流或验证其筛选结果；输出中的'Missing Data'字段要求显式列示数据缺口，数据缺失不同于无重大事件。",
+      "environmentEn": "Requires an analysis environment with access to financial statements, market prices, and valuation data; positioned as a judgment module for research workflows, portfolio monitoring, and risk-aware decision support. It does not execute trades and does not recommend leverage.",
+      "example": "用户要求构建一个基于账面价值折价的烟蒂股篮子：提供候选股票清单、最新资产负债表数据与流动性约束，技能输出一份含买入篮子结论、债务与资产质量核查结果、分散化持仓方案及失效条件的研究简报。",
+      "notesEn": "This is a repository-author framework styled after Walter Schloss, not an official skill endorsed by Walter Schloss or his estate. The skill explicitly warns against guaranteed returns and unbounded leverage. This directory performs source checking only; the workflow has not been executed and its screening results are unverified. The output's Missing Data field requires explicit listing of data gaps, and missing data must not be treated as an absence of risk.",
+      "outputs": [
+        "结构化深度价值研判：结论、论点、证据、风险、行动方案、失效条件、缺失数据清单"
+      ],
+      "id": "skill-7f815dcc391260ba",
+      "author": "questflowai",
+      "originalName": "schloss-cigar-butt",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/schloss-cigar-butt/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/schloss-cigar-butt/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "inputs": [
+        "公司/初创项目/市场研究对象",
+        "原始文档、产品数据、用户或收入证据",
+        "时间跨度、资本结构与风险约束",
+        "估值或轮次定价（仅在请求仓位规模时）"
+      ],
+      "outputsEn": [
+        "A fixed-format diligence report: verdict, thesis, evidence, risks, action plan, invalidation conditions, and missing-data list"
+      ],
+      "method": "四步流程：（1）评估创始人团队质量与动机；（2）界定市场规模及'为什么是现在'；（3）检验PMF证据与分发/增长路径；（4）对多年期公司构建潜力及轮次定价进行承销式判断。强制区分事实、假设与判断，输出包含裁决（Strong Invest / Watch / Needs PMF / Founder Risk / Pass）、论点、证据、风险、行动计划、失效条件与缺失数据清单的固定格式报告。",
+      "methodEn": "A four-step process: (1) evaluate founder and team quality and incentives; (2) define market size and 'why now'; (3) test PMF evidence and the distribution path; (4) underwrite multi-year company-building potential and round pricing. Facts, assumptions, and judgment must be separated, and output follows a fixed report format including verdict (Strong Invest / Watch / Needs PMF / Founder Risk / Pass), thesis, evidence, risks, action plan, invalidation conditions, and a missing-data list.",
+      "environment": "以文档为基础的研究环境：用户提供公司/项目背景、原始文档、产品数据、用户或收入证据、时间跨度、资本结构与风险约束；仅在请求仓位规模时需要估值或轮次定价信息。技能本身不执行代码或连接外部数据源。",
+      "category": "deals",
+      "tagsEn": [
+        "venture capital",
+        "diligence",
+        "founder evaluation",
+        "product-market fit",
+        "company research",
+        "judgment framework"
+      ],
+      "summary": "以早期/成长期公司为对象，按创始人质量、市场规模与时机、产品市场契合度（PMF）、分发路径和长期公司构建潜力进行结构化风险投资尽调判断，输出带裁决与失效条件的书面观点。",
+      "exampleEn": "Given a B2B software startup's publicly shared deck summary, growth screenshots, and pricing page, the framework assesses founder background and team complementarity, defines TAM and the timing thesis, tests PMF with retention and revenue evidence, then returns a 'Watch' verdict listing missing data such as churn and unit economics, noting the view is not financial advice.",
+      "dependencies": [
+        "用户提供的目标公司背景与原始研究材料",
+        "无外部数据订阅或代码执行依赖"
+      ],
+      "name": "红杉风格创始人-市场尽调判断框架",
+      "dependenciesEn": [
+        "User-supplied subject background and primary research materials",
+        "No external data subscriptions or code execution required"
+      ],
+      "inputsEn": [
+        "Company, startup, or market research subject",
+        "Primary documents, product data, user or revenue evidence",
+        "Time horizon, capital structure, and risk constraints",
+        "Valuation or round pricing (only when sizing/commitment is requested)"
+      ],
+      "tags": [
+        "风险投资",
+        "尽调",
+        "创始人评估",
+        "产品市场契合",
+        "公司研究",
+        "判断框架"
+      ],
+      "evidenceQuotes": [
+        "1. Evaluate founder and team.\n2. Define market and why now.\n3. Test PMF evidence and distribution path.",
+        "- Do not force conviction without evidence.\n- Do not ignore incentives, structure, or liquidity/risk constraints."
+      ],
+      "summaryEn": "A structured venture diligence judgment framework for startups and growth companies, evaluating founder quality, market size and timing, product-market fit, distribution path, and multi-year company-building potential, producing a written view with verdict and invalidation conditions.",
+      "nameEn": "Sequoia-Style Founder-Market Diligence Framework",
+      "notes": "该技能为来源已核查、执行未验证的研究框架：目录仅核验其描述与结构，未实际运行其工作流。'Sequoia-style'指仓库作者模仿的判断框架，并非红杉资本官方技能或认可。缺少原始证据时应明确列为缺失数据，而非推断为无风险；输出不得承诺收益或构成投资建议。",
+      "environmentEn": "A document-based research environment: the user supplies company/project context, primary documents, product data, user or revenue evidence, time horizon, capital structure, and risk constraints; valuation or round pricing is needed only when sizing or commitment is requested. The skill itself executes no code and connects to no external data source.",
+      "example": "用户给出一家B2B软件初创公司的融资材料（公开pitch摘要、用户增长截图、定价页）：框架评估创始人背景与团队互补性，界定TAM与时机论点，用留存和收入证据检验PMF，最后给出'Watch'裁决并列出缺失数据（如流失率、单位经济），说明该判断非投资建议。",
+      "notesEn": "This is a source-checked, execution-unverified research framework: the directory verifies its description and structure but has not run its workflow. 'Sequoia-style' denotes a repository-author judgment framework, not an official Sequoia Capital skill or endorsement. Unavailable primary evidence must be listed explicitly as missing data, not inferred as absence of risk; outputs must not promise returns or constitute financial advice.",
+      "outputs": [
+        "固定格式尽调报告：裁决、论点、证据、风险、行动计划、失效条件、缺失数据清单"
+      ],
+      "id": "skill-9aac026c3def706b",
+      "author": "questflowai",
+      "originalName": "sequoia-founder-market",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/sequoia-founder-market/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/sequoia-founder-market/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
     }
   ],
   "evidence": {
     "checks": {
-      "skills": 159,
+      "skills": 162,
       "repositories": 7,
       "executionTestsRun": 0
     },
@@ -11681,7 +11901,7 @@
     },
     {
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "54f25fe1fd7b113d14efdaf62f2d73f6aebf0462",
+      "commit": "ad6c3eb6918b3d67178ea0019e143f6c1fefbf26",
       "license": "MIT",
       "licensePath": "LICENSE",
       "licenseFile": "/licenses/alphakit-LICENSE.txt",
@@ -11703,8 +11923,8 @@
           "file": "/licenses/alphakit-sellside-model-exhibits-LICENSE.txt"
         }
       ],
-      "archive": "Jeromelll--finskillhub-catalog--54f25fe1fd7b113d14efdaf62f2d73f6aebf0462.zip",
-      "archiveSha256": "825c241778de3b6ed447fe054c34a4e3aee9fc3dd6b0cdbd8623df31c297dc26",
+      "archive": "Jeromelll--finskillhub-catalog--ad6c3eb6918b3d67178ea0019e143f6c1fefbf26.zip",
+      "archiveSha256": "daf40ed92f1d0963b94d637bbbc975e4f90a8aac3ec709179541689115a184fd",
       "description": "FinSkillHub 的三项原创金融研究技能，涵盖增量测算、模型展示表和股票初步研究；案例使用原创合成数据。",
       "descriptionEn": "FinSkillHub original finance research skills for incremental sizing, model exhibits and initial stock research, with original synthetic examples."
     }
