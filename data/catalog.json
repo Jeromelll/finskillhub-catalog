@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-15",
   "skills": [
     {
       "id": "equity-earnings-update",
@@ -5635,9 +5635,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "e2a06e85e42e64cf334a982dd8137aac8f9b4f43",
+      "commit": "d6ae2260e5873c23364864db698838001c693d33",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/e2a06e85e42e64cf334a982dd8137aac8f9b4f43/skills/incremental-business-sizing/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d6ae2260e5873c23364864db698838001c693d33/skills/incremental-business-sizing/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "incremental-business-sizing",
@@ -5646,7 +5646,7 @@
       "nameEn": "Incremental business revenue and profit sizing",
       "category": "research",
       "sourcePath": "skills/incremental-business-sizing/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/e2a06e85e42e64cf334a982dd8137aac8f9b4f43/skills/incremental-business-sizing/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d6ae2260e5873c23364864db698838001c693d33/skills/incremental-business-sizing/SKILL.md",
       "summary": "把产能、用户行为、订阅或交易额拆成可复算的收入、利润与 EPS 驱动链，保留缺失参数并用同一模型制作情景和敏感性分析。",
       "summaryEn": "Builds reproducible revenue, profit and EPS drivers from capacity, user activity, subscriptions or transaction volume. Preserves missing inputs and uses one model for scenarios and sensitivities.",
       "method": "先界定收费对象、资源和时间约束，为参数标明单位、期间及来源，再按依赖图计算各情景；两个敏感性轴替换同一模型中的指定输入。",
@@ -5705,9 +5705,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "e2a06e85e42e64cf334a982dd8137aac8f9b4f43",
+      "commit": "d6ae2260e5873c23364864db698838001c693d33",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/e2a06e85e42e64cf334a982dd8137aac8f9b4f43/skills/sellside-model-exhibits/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d6ae2260e5873c23364864db698838001c693d33/skills/sellside-model-exhibits/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "sellside-model-exhibits",
@@ -5716,7 +5716,7 @@
       "nameEn": "Financial model exhibits and sensitivity tables",
       "category": "operations",
       "sourcePath": "skills/sellside-model-exhibits/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/e2a06e85e42e64cf334a982dd8137aac8f9b4f43/skills/sellside-model-exhibits/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d6ae2260e5873c23364864db698838001c693d33/skills/sellside-model-exhibits/SKILL.md",
       "summary": "把同一份已完成测算制作成计算桥、情景表和敏感性矩阵，保留单位、年份、来源和未知值，输出文档、图片与公式工作簿。",
       "summaryEn": "Turns one completed model result into a calculation bridge, scenario table and sensitivity matrices. Retains units, periods, sources and unknown values, and exports documents, images and formula workbooks.",
       "method": "读取版本化计算结果，根据角色、表达式和状态排版；各格式共享同一数值来源，公式仅绑定到同一情景中的有效输入。",
@@ -5777,9 +5777,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "e2a06e85e42e64cf334a982dd8137aac8f9b4f43",
+      "commit": "d6ae2260e5873c23364864db698838001c693d33",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/e2a06e85e42e64cf334a982dd8137aac8f9b4f43/skills/pre-trade-quick-brief/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d6ae2260e5873c23364864db698838001c693d33/skills/pre-trade-quick-brief/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "pre-trade-quick-brief",
@@ -5788,7 +5788,7 @@
       "nameEn": "Quick initial research for a new stock",
       "category": "research",
       "sourcePath": "skills/pre-trade-quick-brief/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/e2a06e85e42e64cf334a982dd8137aac8f9b4f43/skills/pre-trade-quick-brief/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d6ae2260e5873c23364864db698838001c693d33/skills/pre-trade-quick-brief/SKILL.md",
       "summary": "先解释市场叙事与新增经营变量，再拆出受约束的业绩上限、三个盈利时间窗、前瞻估值和下一验证点，保留资料缺口。",
       "summaryEn": "Explains the market narrative and new operating variables, then develops a constrained earnings ceiling, three earnings windows, forward valuation conditions and the next verification point while preserving evidence gaps.",
       "method": "冻结信息时点，建立旧预期到新参数的证据链，核对需求、供给、期间、成本及融资稀释，并把当前价值和远期条件终值分开。",
@@ -12149,11 +12149,242 @@
       "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
       "sourceVerified": true,
       "executionVerified": false
+    },
+    {
+      "example": "示例（公开非敏感输入）：假设某系统重要性银行股价暴跌60%，其AT1债券跌至面值的70%。应用本框架：识别监管资本事件引发的强制抛售；映射层级（优先债→AT1→普通股）；评估央行流动性工具与存款担保的兜底范围；对比AT1价格与违约情形回收率；以『兜底不覆盖AT1减记』的下行情形控制仓位，输出『试仓』结论并标注催化剂为监管处置方案公布。",
+      "tagsEn": [
+        "distressed assets",
+        "credit stress",
+        "policy backstop",
+        "capital structure",
+        "recovery trade",
+        "bank stress",
+        "position sizing"
+      ],
+      "method": "五步流程：(1) 识别恐慌、强制抛售与资本结构压力来源；(2) 梳理资本结构层级——债务、优先股、普通股、可转债；(3) 在政策响应与流动性支持下评估生存概率；(4) 将市场价格与回收价值对比；(5) 以救助失败情形的下行风险为核心进行仓位规模控制。输出结构化研判：结论（激进买入/试仓/观望/回避/做空）、恐慌来源、资本结构、政策兜底、回收价值、错误情形下的下行、催化剂。内置护栏：当关键安全证券是债务时不得买入困境股权；不得假设政府支持保护普通股东；不得忽视稀释与重组条款。",
+      "summaryEn": "A David Tepper-style distressed macro framework for crisis assets: evaluate policy backstops, capital-structure seniority, and asymmetric recovery when panic prices in disaster.",
+      "outputsEn": [
+        "Structured Tepper view (verdict / panic source / capital structure / policy backstop / recovery value / downside / catalyst)",
+        "One of five verdicts: Aggressive Buy / Probe / Wait / Avoid / Short",
+        "Position-sizing discipline anchored to rescue-failure downside"
+      ],
+      "exampleEn": "Example (public, non-sensitive inputs): assume a systemically important bank's shares fall 60% and its AT1 bonds trade at 70% of par. Apply the framework: identify forced selling from a regulatory-capital event; map seniority (senior debt to AT1 to common); assess the coverage of central-bank liquidity facilities and deposit guarantees; compare the AT1 price to default-scenario recovery; size the position for the downside where the backstop excludes AT1 write-downs, output a 'Probe' verdict, and flag the resolution-plan announcement as catalyst.",
+      "inputs": [
+        "标的债务与股权价格",
+        "资本结构与层级披露（债务/优先股/普通股/可转债）",
+        "政策响应与流动性支持声明",
+        "强制抛售与恐慌来源信息",
+        "救助失败情形下的下行假设"
+      ],
+      "notesEn": "This is a source-checked, execution-unverified framework: the method and guardrails come verbatim from the supplied file, with no live run or backtest validation. The 'Tepper-style' label is a repository-author learning framework in the style of an investor, not an official skill endorsed by David Tepper. Analysis quality depends on user-supplied bond prices, capital-structure filings, and policy texts; if these are missing or access fails, treat it as an explicit data gap — not as 'no risk' or 'no events' — and never conclude risk-free on that basis.",
+      "dependencies": [
+        "债券与股权市场数据",
+        "资本结构披露文件",
+        "政策与监管公告来源"
+      ],
+      "dependenciesEn": [
+        "Bond and equity market data",
+        "Capital-structure disclosure filings",
+        "Policy and regulatory announcement sources"
+      ],
+      "inputsEn": [
+        "Target debt and equity prices",
+        "Capital-structure and seniority disclosures (debt/preferred/common/convertibles)",
+        "Policy response and liquidity-support statements",
+        "Forced-selling and panic-source information",
+        "Downside assumptions under rescue failure"
+      ],
+      "notes": "此为经过来源核对但未经验证执行的分析框架：方法与护栏来自所提供的文件原文，未做实际运行或回测验证。'Tepper风格'为仓库作者对投资风格的学习式框架，非David Tepper本人认可或官方技能。分析质量依赖用户提供的债券价格、资本结构文件与政策文本；若这些数据缺失或获取失败，应视为数据缺口而非'无风险'或'无事件'，不得据此得出无风险结论。",
+      "outputs": [
+        "结构化Tepper观点（结论/恐慌来源/资本结构/政策兜底/回收价值/下行/催化剂）",
+        "五档结论之一：激进买入/试仓/观望/回避/做空",
+        "基于救助失败情形的仓位规模纪律"
+      ],
+      "tags": [
+        "困境资产",
+        "信用压力",
+        "政策兜底",
+        "资本结构",
+        "回收交易",
+        "银行压力",
+        "仓位管理"
+      ],
+      "nameEn": "Tepper-Style Distressed Macro Analysis",
+      "methodEn": "Five steps: (1) identify panic, forced selling, and capital-structure stress; (2) map seniority across debt, preferred, common, and convertibles; (3) assess survival odds under policy response and liquidity support; (4) compare price to recovery value; (5) size positions around downside if the rescue fails. Output a structured verdict (Aggressive Buy / Probe / Wait / Avoid / Short) covering panic source, capital structure, policy backstop, recovery value, downside if wrong, and catalyst. Guardrails: do not buy distressed equity when the fulcrum security is debt; do not assume government support protects common shareholders; do not ignore dilution and restructuring terms.",
+      "evidenceQuotes": [
+        "buy when panic prices in disaster, policy backstops improve survival odds, and the capital structure offers asymmetric recovery.",
+        "Do not assume government support protects common shareholders."
+      ],
+      "environment": "适用于具备债券与股权价格、资本结构披露、央行/财政政策声明等市场数据的分析环境。框架未捆绑任何数据源或工具；实时信贷价格、持仓披露与政策公告需由用户从可信渠道提供。",
+      "category": "research",
+      "environmentEn": "Suited to analysis environments with access to bond and equity prices, capital-structure disclosures, and central bank/fiscal policy statements. The framework bundles no data feeds or tools; live credit prices, holdings disclosures, and policy announcements must be supplied by the user from reliable channels.",
+      "name": "Tepper式困境宏观分析",
+      "summary": "一套应用于危机资产的David Tepper风格困境宏观研判框架：在恐慌定价灾难时评估政策兜底、资本结构层级与非对称回收机会。",
+      "id": "skill-b4f0fc5560a25763",
+      "author": "questflowai",
+      "originalName": "tepper-distressed-macro",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/tepper-distressed-macro/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/tepper-distressed-macro/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "example": "示例（公开数据，非敏感）：对某商品期货计算 20 日突破上方触发价与 55 日下行退出价，以近 20 日 ATR 得出 N 值，按账户风险百分比换算每单位手数，设定初始止损于 N 的一半，并按每 0.5N 加仓一单位，同时检查跨市场相关性后确认组合热度未超上限，输出 Enter / Add / Hold / Exit / No Signal 结论。",
+      "tagsEn": [
+        "trend-following",
+        "breakout-system",
+        "position-sizing",
+        "risk-management",
+        "systematic-rules"
+      ],
+      "method": "按五个步骤执行：1) 定义突破系统与回看周期（如20日/55日）；2) 计算 ATR/N 风险单位以确定每单位仓位规模；3) 设定初始止损与加仓价位；4) 限制组合热度并控制相关市场敞口；5) 严格按系统规则退出，不掺入主观判断。护栏包括：不得以主观理由跳过规则、不得突破热度上限、不得摊低成本。",
+      "summaryEn": "A fully rule-based trend-following template in the Richard Dennis / Turtle Trading style: Donchian channel breakout entries, ATR/N-unit position sizing, pyramiding, portfolio heat limits, and disciplined exits.",
+      "outputsEn": [
+        "Structured Turtle View report: verdict (Enter / Add / Hold / Exit / No Signal), breakout rule, N/ATR, unit size, stop, and portfolio heat",
+        "Pyramiding add plan with heat-limit constraints"
+      ],
+      "exampleEn": "Example (public, non-sensitive data): for a commodity futures contract, derive the 20-day upside breakout trigger and 55-day downside exit, compute N from the 20-day ATR, convert account risk percentage into per-unit contracts, set the initial stop at half of N, add one unit per 0.5N move, verify correlated-market exposure so portfolio heat stays within limits, and output an Enter / Add / Hold / Exit / No Signal verdict.",
+      "inputs": [
+        "标的行情数据（开高低收）用于计算突破与 ATR/N",
+        "突破系统参数（回看周期，如 20 日 / 55 日）",
+        "账户风险参数（风险百分比、单位规模）",
+        "持仓组合信息（现有敞口、相关市场清单）"
+      ],
+      "notesEn": "Included after source-file review; execution-unverified. Not investment advice and no profit guarantee. The file references invest.md as a companion invest document, but that file was not present in the supplied material — an explicit data gap. The Questflow platform integration claim comes from the source and is independently unverified.",
+      "dependencies": [
+        "行情数据源（未指明具体供应商）",
+        "ATR/指标计算工具",
+        "Questflow 平台（源文件声明的运行环境）"
+      ],
+      "dependenciesEn": [
+        "Market data source (specific vendor unspecified)",
+        "ATR / indicator calculation tooling",
+        "Questflow platform (declared runtime in source)"
+      ],
+      "inputsEn": [
+        "Market OHLC data for the instrument to compute breakouts and ATR/N",
+        "Breakout system parameters (lookback periods, e.g., 20-day / 55-day)",
+        "Account risk parameters (risk percentage, unit size)",
+        "Portfolio context (existing exposure, correlated markets list)"
+      ],
+      "notes": "本条目为源文件检查后收录，未经执行验证；不构成投资建议，也不保证盈利。文档引用了 invest.md 作为配套投资说明文件，但该文件未在所提供材料中出现，构成明确的数据缺口。Questflow 平台集成描述来自源文件，未经独立验证。",
+      "outputs": [
+        "结构化 Turtle View 报告：结论（Enter / Add / Hold / Exit / No Signal）、突破规则、N/ATR、单位规模、止损与组合热度",
+        "金字塔加仓计划与热度上限约束说明"
+      ],
+      "tags": [
+        "趋势跟踪",
+        "突破系统",
+        "仓位管理",
+        "风险管理",
+        "量化规则"
+      ],
+      "nameEn": "Turtle Trading Breakout System",
+      "methodEn": "Execute in five steps: 1) define the breakout system and lookback (e.g., 20-day / 55-day); 2) calculate the ATR/N risk unit to determine per-unit position size; 3) set the initial stop and add levels; 4) cap portfolio heat and limit correlated market exposure; 5) exit strictly by system rule with no discretion. Guardrails: never skip rules for discretionary reasons, never exceed heat limits, never average down.",
+      "evidenceQuotes": [
+        "Donchian channels, ATR/N-unit sizing, pyramiding, portfolio heat, and fully rule-based trend following.",
+        "Calculate ATR/N risk unit."
+      ],
+      "environment": "适用于期货、外汇、加密货币或股票的系统化趋势跟踪框架。文档提及在 Questflow 平台中可作为规则化趋势跟踪执行模板使用；需要可获取的行情数据与 ATR 计算。",
+      "category": "quant",
+      "environmentEn": "Applies to systematic trend following across futures, FX, crypto, or stock markets. The document notes it is best used within the Questflow platform as a rule-based trend-following execution template; requires accessible price data and ATR calculation.",
+      "name": "海龟交易突破系统",
+      "summary": "一套基于理查德·丹尼斯/海龟交易员风格的全规则化趋势跟踪模板：唐奇安通道突破入场、按 ATR/N 风险单位计算仓位、金字塔式加仓、组合热度上限与纪律化退出。",
+      "id": "skill-b36dc6592a7adb61",
+      "author": "questflowai",
+      "originalName": "turtle-trading",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/turtle-trading/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/turtle-trading/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "example": "用户以一家上市电商平台的公开财报数据、披露的活跃买家与卖家指标、佣金率及竞品公开信息为输入，请求网络效应防御性评估；技能输出结构化裁决（如Watch）、证据、风险、行动计划与失效条件，并明确列出未获得的内部数据（如单位经济模型）为数据缺口。",
+      "tagsEn": [
+        "network effects",
+        "marketplaces",
+        "defensibility",
+        "venture diligence",
+        "protocols and platforms",
+        "investment judgment framework"
+      ],
+      "method": "四步判断流程：(1) 识别网络节点与交互关系；(2) 检验网络密度是否提升产品价值；(3) 评估防御性与反向网络效应风险；(4) 在不破坏网络的前提下论证变现方式。输出结构化裁决（Network Invest / Watch / Weak Defensibility / Commodity App / Pass），并强制分列证据、假设与判断，附失效条件与缺失数据清单。",
+      "summaryEn": "A judgment module modeled on a Union Square Ventures-style lens for diligencing platforms, marketplaces, and network businesses on network effects, defensibility, protocols, openness, and scalable distribution. The framework is a repository-author synthesis, not an official USV skill or endorsement.",
+      "outputsEn": [
+        "A structured network-effects view report: verdict (Network Invest / Watch / Weak Defensibility / Commodity App / Pass), thesis, evidence, risks, action plan, invalidation triggers, and a missing-data list"
+      ],
+      "exampleEn": "A user supplies a listed e-commerce marketplace's public filings, disclosed active buyer and seller metrics, take rates, and competitor public information, and asks for a network-effect defensibility review; the skill returns a structured verdict (e.g., Watch), evidence, risks, an action plan, invalidation triggers, and explicitly lists unavailable internal data (e.g., unit economics) as a data gap.",
+      "inputs": [
+        "公司、初创、代币、报告标的或市场背景",
+        "一手文件、产品数据、用户/收入证据或研究材料",
+        "时间期限、资本结构与风险约束",
+        "估值或轮次定价（如涉及仓位规模/承诺）"
+      ],
+      "notesEn": "The skill explicitly disclaims financial advice, requires separating facts, assumptions, and judgment, and should not be used when critical primary evidence is unavailable. The 'USV-style' label refers to the repository author's synthesis of that investment philosophy, not official USV recognition. This directory entry is source-checked against the file text only; execution is unverified. Missing data must remain an explicit gap, and failed access or absent data must not be treated as 'no material events'.",
+      "dependencies": [
+        "用户提供的标的公司背景材料",
+        "一手文件或产品/用户/收入数据（缺失时技能要求停止使用）",
+        "如涉及规模测算：估值或轮次定价数据"
+      ],
+      "dependenciesEn": [
+        "User-supplied target background materials",
+        "Primary documents or product/user/revenue data; the skill instructs refusal when critical primary evidence is unavailable",
+        "Valuation or round pricing data if sizing is requested"
+      ],
+      "inputsEn": [
+        "Company, startup, token, report target, or market context",
+        "Primary documents, product data, user/revenue evidence, or research materials",
+        "Time horizon, capital structure, and risk constraints",
+        "Valuation or round pricing if sizing or commitment is requested"
+      ],
+      "notes": "该技能明确声明不构成投资建议，要求分离事实、假设与判断，且在关键一手证据缺失时应拒绝使用。'USV风格'指仓库作者对该投资理念的整理，非USV官方认可。本目录记录仅基于源文件文本核对，未实际运行或验证该技能的执行效果；缺失数据须保留为显式数据缺口，数据获取失败不等同于'无重大事件'。",
+      "outputs": [
+        "结构化网络效应观点报告：裁决（Network Invest / Watch / Weak Defensibility / Commodity App / Pass）、论点、证据、风险、行动计划、失效条件与缺失数据清单"
+      ],
+      "tags": [
+        "网络效应",
+        "市场平台",
+        "防御性",
+        "风险投资尽调",
+        "协议与平台",
+        "投资判断框架"
+      ],
+      "nameEn": "USV-Style Network Effects Analysis",
+      "methodEn": "A four-step judgment process: (1) identify network nodes and interactions; (2) test whether density improves product value; (3) assess defensibility and reverse-network-effect risks; (4) underwrite monetization without destroying the network. Outputs a structured verdict (Network Invest / Watch / Weak Defensibility / Commodity App / Pass) with facts separated from assumptions and judgment, plus explicit invalidation triggers and a missing-data list.",
+      "evidenceQuotes": [
+        "1. Identify the network nodes and interactions.\n2. Test whether density improves product value.\n3. Assess defensibility and reverse-network-effect risks.",
+        "- Critical primary evidence is unavailable.",
+        "- Do not present this as financial advice."
+      ],
+      "environment": "纯分析型技能：在支持读取Markdown技能文件的LLM助手环境中，由模型对用户提供的材料进行阅读与推理，不执行代码或交易。",
+      "category": "deals",
+      "environmentEn": "Analysis-only skill: used inside an LLM assistant that can read Markdown skill files; the model reads and reasons over user-supplied materials. No code execution or trading is involved.",
+      "name": "USV式网络效应分析",
+      "summary": "一个以Union Square Ventures风格为参照的判断模块，用于对平台、市场和网络类业务做网络效应、防御性与协议开放性的尽调分析。该框架为仓库作者的整理，并非USV官方技能或背书。",
+      "id": "skill-30ac91bcb3d45247",
+      "author": "questflowai",
+      "originalName": "usv-network-effects",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/usv-network-effects/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/usv-network-effects/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
     }
   ],
   "evidence": {
     "checks": {
-      "skills": 168,
+      "skills": 171,
       "repositories": 7,
       "executionTestsRun": 0
     },
@@ -12380,7 +12611,7 @@
     },
     {
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "e2a06e85e42e64cf334a982dd8137aac8f9b4f43",
+      "commit": "d6ae2260e5873c23364864db698838001c693d33",
       "license": "MIT",
       "licensePath": "LICENSE",
       "licenseFile": "/licenses/alphakit-LICENSE.txt",
@@ -12402,8 +12633,8 @@
           "file": "/licenses/alphakit-sellside-model-exhibits-LICENSE.txt"
         }
       ],
-      "archive": "Jeromelll--finskillhub-catalog--e2a06e85e42e64cf334a982dd8137aac8f9b4f43.zip",
-      "archiveSha256": "cac151126bebd2f437163a9e4fd8afff29c92fc8e315048700977804ba962d24",
+      "archive": "Jeromelll--finskillhub-catalog--d6ae2260e5873c23364864db698838001c693d33.zip",
+      "archiveSha256": "bf2d083884904458f8900d702b49f250bd5b9bfb333bc9781bbe18907c24c186",
       "description": "FinSkillHub 的三项原创金融研究技能，涵盖增量测算、模型展示表和股票初步研究；案例使用原创合成数据。",
       "descriptionEn": "FinSkillHub original finance research skills for incremental sizing, model exhibits and initial stock research, with original synthetic examples."
     }
