@@ -14,4 +14,4 @@ For a new catalog entry, include:
 
 Do not submit credentials, personal data, unlicensed material, private research, paid product materials, or claims that imply endorsement or guaranteed returns. Do not copy third-party skill packages into this repository without confirming redistribution rights. Preserve each work's attribution and license.
 
-For changes to the three included original skills, retain the package's `LICENSE`, use synthetic examples, and remove private paths and data. State what was changed and whether behavior was checked. Catalog inclusion is not a claim that a skill has been executed or independently validated.
+For changes to the four included original skills, retain the package's `LICENSE`, use synthetic examples, and remove private paths and data. State what was changed and whether behavior was checked. Catalog inclusion is not a claim that a skill has been executed or independently validated.
