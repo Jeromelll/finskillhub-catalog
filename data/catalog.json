@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-16",
   "skills": [
     {
       "id": "equity-earnings-update",
@@ -5635,9 +5635,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "d6ae2260e5873c23364864db698838001c693d33",
+      "commit": "a96a1bc4dc8fd52a7de396aba7ddb91e16d94441",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d6ae2260e5873c23364864db698838001c693d33/skills/incremental-business-sizing/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/a96a1bc4dc8fd52a7de396aba7ddb91e16d94441/skills/incremental-business-sizing/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "incremental-business-sizing",
@@ -5646,7 +5646,7 @@
       "nameEn": "Incremental business revenue and profit sizing",
       "category": "research",
       "sourcePath": "skills/incremental-business-sizing/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d6ae2260e5873c23364864db698838001c693d33/skills/incremental-business-sizing/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/a96a1bc4dc8fd52a7de396aba7ddb91e16d94441/skills/incremental-business-sizing/SKILL.md",
       "summary": "把产能、用户行为、订阅或交易额拆成可复算的收入、利润与 EPS 驱动链，保留缺失参数并用同一模型制作情景和敏感性分析。",
       "summaryEn": "Builds reproducible revenue, profit and EPS drivers from capacity, user activity, subscriptions or transaction volume. Preserves missing inputs and uses one model for scenarios and sensitivities.",
       "method": "先界定收费对象、资源和时间约束，为参数标明单位、期间及来源，再按依赖图计算各情景；两个敏感性轴替换同一模型中的指定输入。",
@@ -5705,9 +5705,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "d6ae2260e5873c23364864db698838001c693d33",
+      "commit": "a96a1bc4dc8fd52a7de396aba7ddb91e16d94441",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d6ae2260e5873c23364864db698838001c693d33/skills/sellside-model-exhibits/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/a96a1bc4dc8fd52a7de396aba7ddb91e16d94441/skills/sellside-model-exhibits/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "sellside-model-exhibits",
@@ -5716,7 +5716,7 @@
       "nameEn": "Financial model exhibits and sensitivity tables",
       "category": "operations",
       "sourcePath": "skills/sellside-model-exhibits/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d6ae2260e5873c23364864db698838001c693d33/skills/sellside-model-exhibits/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/a96a1bc4dc8fd52a7de396aba7ddb91e16d94441/skills/sellside-model-exhibits/SKILL.md",
       "summary": "把同一份已完成测算制作成计算桥、情景表和敏感性矩阵，保留单位、年份、来源和未知值，输出文档、图片与公式工作簿。",
       "summaryEn": "Turns one completed model result into a calculation bridge, scenario table and sensitivity matrices. Retains units, periods, sources and unknown values, and exports documents, images and formula workbooks.",
       "method": "读取版本化计算结果，根据角色、表达式和状态排版；各格式共享同一数值来源，公式仅绑定到同一情景中的有效输入。",
@@ -5777,9 +5777,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "d6ae2260e5873c23364864db698838001c693d33",
+      "commit": "a96a1bc4dc8fd52a7de396aba7ddb91e16d94441",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d6ae2260e5873c23364864db698838001c693d33/skills/pre-trade-quick-brief/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/a96a1bc4dc8fd52a7de396aba7ddb91e16d94441/skills/pre-trade-quick-brief/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "pre-trade-quick-brief",
@@ -5788,7 +5788,7 @@
       "nameEn": "Quick initial research for a new stock",
       "category": "research",
       "sourcePath": "skills/pre-trade-quick-brief/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d6ae2260e5873c23364864db698838001c693d33/skills/pre-trade-quick-brief/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/a96a1bc4dc8fd52a7de396aba7ddb91e16d94441/skills/pre-trade-quick-brief/SKILL.md",
       "summary": "先解释市场叙事与新增经营变量，再拆出受约束的业绩上限、三个盈利时间窗、前瞻估值和下一验证点，保留资料缺口。",
       "summaryEn": "Explains the market narrative and new operating variables, then develops a constrained earnings ceiling, three earnings windows, forward valuation conditions and the next verification point while preserving evidence gaps.",
       "method": "冻结信息时点，建立旧预期到新参数的证据链，核对需求、供给、期间、成本及融资稀释，并把当前价值和远期条件终值分开。",
@@ -12380,11 +12380,239 @@
       "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
       "sourceVerified": true,
       "executionVerified": false
+    },
+    {
+      "category": "portfolio",
+      "inputs": [
+        "资产、组合、主题或市场背景",
+        "相关财务、市场、宏观周期或结构性数据",
+        "时间期限与风险约束",
+        "当前价格/估值或组合权重（若需仓位计算）"
+      ],
+      "dependenciesEn": [
+        "Financial and valuation data supplied by the user",
+        "User-defined time horizon and risk constraints"
+      ],
+      "outputsEn": [
+        "Verdict-bearing insurance float value view report",
+        "Thesis, evidence, and risks sections",
+        "Action plan and invalidation triggers",
+        "Missing-data list"
+      ],
+      "tags": [
+        "保险浮存金",
+        "价值投资",
+        "逆势配置",
+        "安全边际",
+        "资本配置",
+        "下行情景"
+      ],
+      "inputsEn": [
+        "Asset, portfolio, theme, or market context",
+        "Relevant financial, market, regime, or structural data",
+        "Time horizon and risk constraints",
+        "Current price/valuation or portfolio weights if sizing is requested"
+      ],
+      "nameEn": "Watsa Insurance Float Value Framework",
+      "tagsEn": [
+        "insurance float",
+        "value investing",
+        "contrarian allocation",
+        "margin of safety",
+        "capital allocation",
+        "downside protection"
+      ],
+      "summary": "以保险浮存金质量、逆势配置与安全边际为核心的Prem Watsa / Fairfax风格价值投资判断模块，适用于承保与浮存金评估、资本配置映射及下行保护检验。",
+      "exampleEn": "Input: float size, combined ratio, and portfolio weights from a listed insurer's latest annual report, plus the user's time horizon and risk constraints. Output: a float-value assessment with a verdict (e.g., Add On Fear), underwriting-quality evidence, downside risks, an add/hedge plan, and invalidation triggers. The example uses only public disclosure data and is not investment advice.",
+      "method": "四步流程：1) 评估保险承保与浮存金质量；2) 将资本配置机会映射至股票、信用与特殊情形；3) 要求安全边际与下行保护；4) 以账面/内在价值复利衡量进展。输出含裁决（Own / Add On Fear / Hedge / Float Impaired / Pass）、论点、证据、风险、行动方案、失效条件与缺失数据清单，且事实、假设与判断须分离。",
+      "name": "Watsa保险浮存金价值框架",
+      "evidenceQuotes": [
+        "1. Assess insurance underwriting and float quality.\n2. Map capital allocation opportunities across equities, credit, special situations.",
+        "Do not force a trade when filters fail.\n- Do not ignore risk, liquidity, or regime constraints."
+      ],
+      "methodEn": "A four-step process: 1) assess insurance underwriting and float quality; 2) map capital allocation opportunities across equities, credit, and special situations; 3) demand margin of safety and downside protection; 4) measure progress by book/intrinsic value compounding. Output includes a verdict (Own / Add On Fear / Hedge / Float Impaired / Pass), thesis, evidence, risks, action plan, invalidation triggers, and a missing-data list, with facts, assumptions, and judgment kept separate.",
+      "notes": "来源已核对，但执行未经验证：本条目仅整理文档所述方法，未实际运行或验证其输出质量。该框架为仓库作者对Prem Watsa风格的演绎，并非Watsa本人或Fairfax认可的官方技能。技能自身声明：当关键数据缺失、用户要求保证收益或请求仅为泛泛市场 chatter 时不应使用；数据缺口须在Missing Data中明示，不可将数据缺失当作无风险。",
+      "outputs": [
+        "带裁决的保险浮存金价值观点报告",
+        "论点、证据与风险章节",
+        "行动方案与失效条件",
+        "缺失数据清单"
+      ],
+      "notesEn": "Source-checked but execution-unverified: this entry only organizes the method as documented and has not been run or validated for output quality. The framework is the repository author's interpretation of a Prem Watsa style, not an official skill endorsed by Watsa or Fairfax. The skill itself states it should not be used when critical data is missing, when guaranteed returns are requested, or when the request is generic market chatter; data gaps must be listed explicitly and must never be treated as absence of risk.",
+      "environment": "该技能文件为纯文档型判断框架，未声明特定运行环境或外部工具依赖；未引用具体数据库或行情源，任何数据接入需由用户环境自行提供。",
+      "environmentEn": "The skill file is a document-only judgment framework with no declared runtime environment or external tool dependencies; no specific databases or market-data sources are referenced, so any data access must be supplied by the user's own environment.",
+      "summaryEn": "A Prem Watsa / Fairfax-style value investing judgment module centered on insurance float quality, contrarian allocation, and margin of safety, for underwriting/float assessment, capital allocation mapping, and downside-protection checks.",
+      "example": "输入：某上市保险集团最新年报中的浮存金规模、综合成本率、投资组合权重，以及用户的时间期限与风险约束。输出：一份带裁决（如 Add On Fear）的浮存金价值评估，列明承保质量证据、下行风险、加仓/对冲计划与失效条件。示例仅使用公开披露数据，不构成投资建议。",
+      "dependencies": [
+        "用户提供的财务与估值数据",
+        "用户设定的期限与风险约束"
+      ],
+      "id": "skill-25735b8de4d1b43d",
+      "author": "questflowai",
+      "originalName": "watsa-insurance-float",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/watsa-insurance-float/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/watsa-insurance-float/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "category": "quant",
+      "inputs": [
+        "资产/代币/协议/板块或市场背景",
+        "相关价格、链上、流动性或研究数据",
+        "时间 horizon 与风险约束",
+        "若涉及仓位，需投资组合背景"
+      ],
+      "dependenciesEn": [
+        "External price and on-chain data sources (no vendor specified; must be supplied by the user or accessed)",
+        "Questflow-style agent workflow environment (optional)"
+      ],
+      "outputsEn": [
+        "A structured Markdown judgment report: Verdict (Accumulate/Distribute/Neutral/Data Incomplete/Pass), Thesis, Evidence, Risks, Action Plan, Invalidation, Missing Data"
+      ],
+      "tags": [
+        "比特币",
+        "链上分析",
+        "周期判断",
+        "已实现价格",
+        "持币者行为",
+        "加密货币"
+      ],
+      "inputsEn": [
+        "Asset, token, protocol, sector, or market context",
+        "Relevant price, on-chain, liquidity, or research data",
+        "Time horizon and risk constraints",
+        "Portfolio context if sizing is requested"
+      ],
+      "nameEn": "Willy Woo-Style On-Chain Bitcoin Cycle Judgment",
+      "tagsEn": [
+        "bitcoin",
+        "on-chain analysis",
+        "cycle diagnosis",
+        "realized price",
+        "holder behavior",
+        "crypto"
+      ],
+      "summary": "以 Willy Woo 风格的链上分析框架诊断比特币周期位置：结合持币者行为、已实现成本（realized price）、交易所供应与链上需求，输出 accumulate/hold/distribute/wait 的判定及失效条件。",
+      "exampleEn": "Example: a user asks 'where is BTC in its cycle?' → supply asset context, time horizon, and risk constraints, plus public price and on-chain metrics (e.g., realized price, exchange balances), then run the four-step process to output a cycle verdict, evidence, risks, and invalidation; if on-chain data is unavailable, output Data Incomplete with an explicit gap list.",
+      "method": "四步流程：(1) 绘制持币者群体（holder cohorts）与交易所供应分布；(2) 将市场价格与已实现价格/链上成本基准比较；(3) 据此诊断周期位置；(4) 决定 accumulate、hold、distribute 或 wait。输出含 Verdict、Thesis、Evidence、Risks、Action Plan、Invalidation 与 Missing Data 区块，要求事实、假设与判断分离，并在仓位确定前先定义失效条件。",
+      "name": "Willy Woo 风格链上比特币周期判断",
+      "evidenceQuotes": [
+        "Map holder cohorts and exchange supply.",
+        "Compare price to realized/on-chain cost basis."
+      ],
+      "methodEn": "A four-step process: (1) map holder cohorts and exchange supply; (2) compare price to realized/on-chain cost basis; (3) diagnose cycle position; (4) decide accumulate, hold, distribute, or wait. Output includes Verdict, Thesis, Evidence, Risks, Action Plan, Invalidation, and Missing Data sections, with facts/assumptions/judgment separated and invalidation defined before sizing.",
+      "notes": "这是仓库作者的框架技能，借用了 Willy Woo 的分析风格命名，并非由 Willy Woo 本人认可或提供的官方技能。该技能不提供投资建议，明确拒绝保证收益或无限杠杆的请求。注意：当关键数据缺失时应返回 Data Incomplete；数据源无法访问与'无重大事件/无风险'是不同的，缺数据必须如实列为缺口。此条目为来源核对后的目录收录，方法未经实际执行验证。",
+      "outputs": [
+        "结构化 Markdown 判断报告：Verdict（Accumulate/Distribute/Neutral/Data Incomplete/Pass）、Thesis、Evidence、Risks、Action Plan、Invalidation、Missing Data"
+      ],
+      "notesEn": "This is a repository-author framework skill named after Willy Woo's analytical style; it is not an official skill endorsed or provided by Willy Woo. The skill gives no financial advice and explicitly rejects guaranteed-return or unbounded-leverage requests. Note: when critical data is missing it should return Data Incomplete; failed data access is not the same as 'no material events or no risk', and missing data must be listed as an explicit gap. This entry is source-checked but execution-unverified.",
+      "environment": "设计为加载到 Questflow 风格的智能体工作流中作为加密判断模块；分析本身依赖外部价格与链上数据源（文件未内置数据，也未指定具体数据供应商）。",
+      "environmentEn": "Designed to load as a crypto judgment module inside Questflow-style agent workflows; analysis depends on external price and on-chain data sources (the file bundles no data and names no specific data vendor).",
+      "summaryEn": "A Willy Woo-style on-chain framework for diagnosing Bitcoin cycle position: holder cohort behavior, realized cost basis, exchange supply, and on-chain demand, outputting an accumulate/hold/distribute/wait verdict with explicit invalidation conditions.",
+      "example": "示例：用户询问 'BTC 现在处于周期什么位置？' → 提供资产背景、时间 horizon 与风险约束，加上公开价格与链上指标（如 realized price、交易所余额），按四步流程输出周期判定、证据、风险与失效条件；若链上数据缺失，输出 Data Incomplete 并列明缺口。",
+      "dependencies": [
+        "外部价格与链上数据源（文件未指定供应商，需用户提供或接取）",
+        "Questflow 风格智能体工作流环境（可选）"
+      ],
+      "id": "skill-1f0593d488a924ad",
+      "author": "questflowai",
+      "originalName": "willy-woo-onchain",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/willy-woo-onchain/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/willy-woo-onchain/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "category": "deals",
+      "inputs": [
+        "公司/项目/市场背景描述",
+        "一手文件、产品数据、用户与收入证据",
+        "时间期限、资本结构与风险约束",
+        "估值或轮次定价（若涉及金额与承诺）"
+      ],
+      "dependenciesEn": [
+        "An LLM research assistant supporting structured prompts",
+        "User-supplied company documents and product/user/revenue data",
+        "Round pricing and capital structure details when valuation judgment is requested"
+      ],
+      "outputsEn": [
+        "Structured PMF verdict (Promising Seed / Needs Users / Premature Scale / Default Dead / Pass)",
+        "Thesis, evidence, risks, and action plan",
+        "Invalidation trigger list",
+        "Missing Data list"
+      ],
+      "tags": [
+        "早期投资",
+        "尽职调查",
+        "PMF诊断",
+        "风险投资",
+        "定性评审"
+      ],
+      "inputsEn": [
+        "Company, startup, token, or market context",
+        "Primary documents, product data, user/revenue evidence, or research materials",
+        "Time horizon, capital structure, and risk constraints",
+        "Valuation or round pricing when sizing or commitment is requested"
+      ],
+      "nameEn": "YC Early PMF Assessment",
+      "tagsEn": [
+        "early-stage investing",
+        "diligence",
+        "PMF diagnosis",
+        "venture capital",
+        "qualitative review"
+      ],
+      "summary": "以YC风格框架对早期创业公司进行 pre-seed/seed 尽调、PMF诊断和 default alive/default dead 判断的定性评审技能。",
+      "exampleEn": "For a pre-seed SaaS startup, provide the product description, active-user and retention data, monthly burn and cash runway, and proposed round valuation; the skill outputs whether it is Needs Users, signs of premature scaling, conditions required to be default alive, key invalidation signals (e.g., a retention curve that never flattens), and remaining data gaps such as a unit-economics model.",
+      "method": "四步定性评审：(1) 检验用户是否真正需要产品；(2) 评估创始人学习与交付速度；(3) 审查消耗率、现金跑道与 default-alive 状态；(4) 否决在达到PMF前就扩张流程的公司。输出结构化判定（Promising Seed / Needs Users / Premature Scale / Default Dead / Pass）并附论点、证据、风险、行动计划、失效条件与缺失数据清单，同时区分事实、假设与判断。",
+      "name": "YC早期PMF评估",
+      "evidenceQuotes": [
+        "Check whether users truly want the product.",
+        "Review burn, runway, and default-alive status."
+      ],
+      "methodEn": "A four-step qualitative review: (1) check whether users truly want the product; (2) assess founder speed of learning and shipping; (3) review burn, runway, and default-alive status; (4) reject companies scaling process before PMF. Produces a structured verdict (Promising Seed / Needs Users / Premature Scale / Default Dead / Pass) with thesis, evidence, risks, action plan, invalidation triggers, and a missing-data list, separating facts, assumptions, and judgment.",
+      "notes": "本条目仅经来源核对，属仓库作者的方法论框架，未被执行验证，亦非YC或Paul Graham官方认证技能。技能自身声明不构成财务建议、不承诺收益；当关键一手证据不可得时明确不适用，缺失数据保留为显性数据缺口，不得将数据缺失误读为无风险。",
+      "outputs": [
+        "结构化PMF判定（含Promising Seed / Needs Users / Premature Scale / Default Dead / Pass）",
+        "论点、证据、风险与行动计划",
+        "失效条件（Invalidation）清单",
+        "缺失数据（Missing Data）清单"
+      ],
+      "notesEn": "This entry is source-checked but execution-unverified; it is a repository-author framework, not an officially YC- or Paul Graham-endorsed skill. The skill itself states it is not financial advice and makes no return promises. It explicitly declines use when critical primary evidence is unavailable; missing data remains an explicit gap and must never be read as an absence of risk.",
+      "environment": "适用于支持结构化提示词的LLM研究助手环境，无需代码执行；依赖用户提供的公司/项目材料、用户与收入证据及轮次定价等一手或二手资料。",
+      "environmentEn": "Runs in an LLM research assistant environment that supports structured prompts; no code execution required. Relies on user-supplied company/project materials, user and revenue evidence, and round pricing.",
+      "summaryEn": "A qualitative review skill applying a YC-style framework for pre-seed/seed diligence, PMF diagnosis, and default alive versus default dead judgment on early-stage startups.",
+      "example": "对一家pre-seed阶段SaaS初创输入产品描述、活跃用户与留存数据、月消耗与现金跑道、以及拟融资估值，技能输出：是否Needs Users、是否存在过早扩张迹象、default alive所需条件、关键失效信号（如留存曲线未走平）及仍缺失的数据（如单位经济模型）。",
+      "dependencies": [
+        "具备结构化提示词能力的LLM研究助手",
+        "用户提供的公司文件、产品/用户/收入数据",
+        "轮次定价与资本结构信息（如需估值判断）"
+      ],
+      "id": "skill-85b7ec217acc5dc4",
+      "author": "questflowai",
+      "originalName": "yc-early-pmf",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/yc-early-pmf/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/yc-early-pmf/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
     }
   ],
   "evidence": {
     "checks": {
-      "skills": 171,
+      "skills": 174,
       "repositories": 7,
       "executionTestsRun": 0
     },
@@ -12611,7 +12839,7 @@
     },
     {
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "d6ae2260e5873c23364864db698838001c693d33",
+      "commit": "a96a1bc4dc8fd52a7de396aba7ddb91e16d94441",
       "license": "MIT",
       "licensePath": "LICENSE",
       "licenseFile": "/licenses/alphakit-LICENSE.txt",
@@ -12633,8 +12861,8 @@
           "file": "/licenses/alphakit-sellside-model-exhibits-LICENSE.txt"
         }
       ],
-      "archive": "Jeromelll--finskillhub-catalog--d6ae2260e5873c23364864db698838001c693d33.zip",
-      "archiveSha256": "bf2d083884904458f8900d702b49f250bd5b9bfb333bc9781bbe18907c24c186",
+      "archive": "Jeromelll--finskillhub-catalog--a96a1bc4dc8fd52a7de396aba7ddb91e16d94441.zip",
+      "archiveSha256": "fb90481e8a53077db736e1d36ac31951501610b956c28b7618ac65fe073a1336",
       "description": "FinSkillHub 的三项原创金融研究技能，涵盖增量测算、模型展示表和股票初步研究；案例使用原创合成数据。",
       "descriptionEn": "FinSkillHub original finance research skills for incremental sizing, model exhibits and initial stock research, with original synthetic examples."
     }
