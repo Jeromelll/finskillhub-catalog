@@ -1,0 +1,4 @@
+interface:
+  display_name: "两分钟投资逻辑"
+  short_description: "用完整量价利桥把市场段子打磨成可复述、可复算的投资逻辑"
+  default_prompt: "Use $two-minute-investment-thesis to explain the business through a complete volume-price-margin-valuation bridge and produce a memorable two-minute thesis."

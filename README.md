@@ -1,6 +1,6 @@
 # FinSkillHub Public Catalog
 
-FinSkillHub is a free, source-linked catalog of finance research skills, plus three original MIT-licensed research skills. It helps readers inspect what each skill does, what it needs, and where its limits are. Catalog inclusion records a source and license review; it does not certify execution in every host or the quality of investment conclusions.
+FinSkillHub is a free, source-linked catalog of finance research skills, plus four original MIT-licensed research skills. It helps readers inspect what each skill does, what it needs, and where its limits are. Catalog inclusion records a source and license review; it does not certify execution in every host or the quality of investment conclusions.
 
 [Explore FinSkillHub](https://finskillhub.com/) · [Search skills](https://finskillhub.com/?lang=en#catalog) · [Product plans](https://finskillhub.com/?lang=en#plans)
 
@@ -13,7 +13,7 @@ FinSkillHub is a free, source-linked catalog of finance research skills, plus th
 
 ## Free catalog and product scope
 
-The catalog, source links, and these three published MIT skill packages are free. The skills are provided as-is under the MIT License included with each package. The repository's root MIT license covers this catalog and its original documentation; it does not replace licenses for third-party works listed by reference.
+The catalog, source links, and these four published MIT skill packages are free. The skills are provided as-is under the MIT License included with each package. The repository's root MIT license covers this catalog and its original documentation; it does not replace licenses for third-party works listed by reference.
 
 FinSkillHub may separately develop complete, validated research workflows. No paid workflow is included or offered by this repository. Do not infer availability, validation, or support from a catalog entry or a skill preview.
 
