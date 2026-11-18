@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-18",
   "skills": [
     {
       "id": "equity-earnings-update",
@@ -5635,9 +5635,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "a96a1bc4dc8fd52a7de396aba7ddb91e16d94441",
+      "commit": "af099ce32858b77e7693cdef5f0a532a9c562ebc",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/a96a1bc4dc8fd52a7de396aba7ddb91e16d94441/skills/incremental-business-sizing/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/af099ce32858b77e7693cdef5f0a532a9c562ebc/skills/incremental-business-sizing/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "incremental-business-sizing",
@@ -5646,7 +5646,7 @@
       "nameEn": "Incremental business revenue and profit sizing",
       "category": "research",
       "sourcePath": "skills/incremental-business-sizing/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/a96a1bc4dc8fd52a7de396aba7ddb91e16d94441/skills/incremental-business-sizing/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/af099ce32858b77e7693cdef5f0a532a9c562ebc/skills/incremental-business-sizing/SKILL.md",
       "summary": "把产能、用户行为、订阅或交易额拆成可复算的收入、利润与 EPS 驱动链，保留缺失参数并用同一模型制作情景和敏感性分析。",
       "summaryEn": "Builds reproducible revenue, profit and EPS drivers from capacity, user activity, subscriptions or transaction volume. Preserves missing inputs and uses one model for scenarios and sensitivities.",
       "method": "先界定收费对象、资源和时间约束，为参数标明单位、期间及来源，再按依赖图计算各情景；两个敏感性轴替换同一模型中的指定输入。",
@@ -5705,9 +5705,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "a96a1bc4dc8fd52a7de396aba7ddb91e16d94441",
+      "commit": "af099ce32858b77e7693cdef5f0a532a9c562ebc",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/a96a1bc4dc8fd52a7de396aba7ddb91e16d94441/skills/sellside-model-exhibits/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/af099ce32858b77e7693cdef5f0a532a9c562ebc/skills/sellside-model-exhibits/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "sellside-model-exhibits",
@@ -5716,7 +5716,7 @@
       "nameEn": "Financial model exhibits and sensitivity tables",
       "category": "operations",
       "sourcePath": "skills/sellside-model-exhibits/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/a96a1bc4dc8fd52a7de396aba7ddb91e16d94441/skills/sellside-model-exhibits/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/af099ce32858b77e7693cdef5f0a532a9c562ebc/skills/sellside-model-exhibits/SKILL.md",
       "summary": "把同一份已完成测算制作成计算桥、情景表和敏感性矩阵，保留单位、年份、来源和未知值，输出文档、图片与公式工作簿。",
       "summaryEn": "Turns one completed model result into a calculation bridge, scenario table and sensitivity matrices. Retains units, periods, sources and unknown values, and exports documents, images and formula workbooks.",
       "method": "读取版本化计算结果，根据角色、表达式和状态排版；各格式共享同一数值来源，公式仅绑定到同一情景中的有效输入。",
@@ -5777,9 +5777,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "a96a1bc4dc8fd52a7de396aba7ddb91e16d94441",
+      "commit": "af099ce32858b77e7693cdef5f0a532a9c562ebc",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/a96a1bc4dc8fd52a7de396aba7ddb91e16d94441/skills/pre-trade-quick-brief/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/af099ce32858b77e7693cdef5f0a532a9c562ebc/skills/pre-trade-quick-brief/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "pre-trade-quick-brief",
@@ -5788,7 +5788,7 @@
       "nameEn": "Quick initial research for a new stock",
       "category": "research",
       "sourcePath": "skills/pre-trade-quick-brief/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/a96a1bc4dc8fd52a7de396aba7ddb91e16d94441/skills/pre-trade-quick-brief/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/af099ce32858b77e7693cdef5f0a532a9c562ebc/skills/pre-trade-quick-brief/SKILL.md",
       "summary": "先解释市场叙事与新增经营变量，再拆出受约束的业绩上限、三个盈利时间窗、前瞻估值和下一验证点，保留资料缺口。",
       "summaryEn": "Explains the market narrative and new operating variables, then develops a constrained earnings ceiling, three earnings windows, forward valuation conditions and the next verification point while preserving evidence gaps.",
       "method": "冻结信息时点，建立旧预期到新参数的证据链，核对需求、供给、期间、成本及融资稀释，并把当前价值和远期条件终值分开。",
@@ -12608,12 +12608,530 @@
       "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
       "sourceVerified": true,
       "executionVerified": false
+    },
+    {
+      "dependencies": [
+        "Markdown 技能加载宿主（Questflow 风格智能体工作流）",
+        "伴生文件 invest.md（frontmatter 引用，源文件未提供其内容）",
+        "由用户或外部数据源提供的财务/行业/政策/情绪数据（技能未内置数据源）"
+      ],
+      "notesEn": "(1) This skill is a repository-author framework distilled from Zhang Lei / Hillhouse Capital's publicly expressed investment philosophy; it is not an official skill of, or endorsement by, Zhang Lei or Hillhouse Capital. (2) Content is source-checked against the repository file but execution-unverified. (3) The skill bundles no data feeds; missing financial, industry, policy or sentiment data must be recorded in the output's Missing Data section and kept as an explicit data gap, never treated as absence of material risk. (4) The frontmatter references a companion file invest.md whose contents are not provided in the source, so any referenced readings/podcasts/videos cannot be verified.",
+      "outputsEn": [
+        "Structured Markdown investment view with a verdict (Own Long-Term / Watch / Not Great / Too Expensive / Pass)",
+        "Thesis and Evidence sections",
+        "Risks and Action Plan",
+        "Invalidation criteria",
+        "Explicit Missing Data list"
+      ],
+      "inputs": [
+        "标的资产、行业、市场或宏观背景描述",
+        "相关财务、技术、政策或情绪数据",
+        "投资期限与风险约束",
+        "若涉及仓位决策，需提供投资组合背景"
+      ],
+      "nameEn": "Zhang Lei Long-Term Research Value",
+      "tagsEn": [
+        "value investing",
+        "long-term holding",
+        "deep research",
+        "investor-style framework",
+        "company quality assessment",
+        "valuation judgment"
+      ],
+      "environmentEn": "A markdown skill file (YAML frontmatter) loaded as a judgment module within Questflow-style agent workflows; no code execution environment required. Financial, industry, policy and sentiment data must be supplied by the user or connected data feeds; the skill itself ships no data-fetching capability.",
+      "tags": [
+        "价值投资",
+        "长期持有",
+        "深度研究",
+        "投资者风格框架",
+        "公司质量评估",
+        "估值判断"
+      ],
+      "summary": "仓库作者整理的张磊/高瓴资本风格长期价值投资判断框架（非官方背书）：以\"做时间的朋友\"为核心，先做比市场更深入的研判断公司能否复利数十年，再检验估值是否与质量匹配，输出\"长期持有/观察/非伟大/太贵/放弃\"的结构化投资观点，并强制声明失效条件与缺失数据清单。",
+      "method": "四步流程：(1) 做比市场更深入的研究，覆盖行业格局、竞争地位、管理层与长期经济特征；(2) 判断标的是否为能复利数十年的伟大公司；(3) 检验当前估值对该质量水平是否可接受；(4) 决定长期持有并穿越波动。约束：遵循技能流程、不自由发挥；区分事实、假设与判断；在确定仓位前先定义失效条件；不承诺保证收益，不构成投资建议。",
+      "exampleEn": "Input: ten-year financials, market-share and ROIC trends, and the current P/E of a listed consumer leader, with the question 'is it worth holding for a decade?'. Output: a verdict (Own Long-Term / Watch / Not Great / Too Expensive / Pass), thesis, evidence, risks, action plan, invalidation criteria, and an explicit missing-data list — e.g. if channel-inventory or policy data is unavailable it must be flagged as a data gap, never read as absence of material risk.",
+      "name": "张磊长期研究价值",
+      "notes": "说明：(1) 该技能是仓库作者基于张磊/高瓴资本公开表达的投资理念整理的风格框架，并非张磊本人或高瓴资本的官方技能或背书；(2) 内容已对照仓库源文件核对（source-checked），但未经实际执行验证（execution-unverified）；(3) 技能未内置任何数据源，财务/行业/政策/情绪数据缺失时必须写入输出的 Missing Data 部分，作为明确的数据缺口保留，不得当作\"无重大风险\"处理；(4) frontmatter 引用伴生文件 invest.md，但源文件未提供其内容，其涉及的参考资料范围无法核实。",
+      "methodEn": "Four steps: (1) research deeper than the market across industry structure, competitive position, management and long-term economics; (2) judge whether the target is a truly great company that can compound for decades; (3) check whether the current valuation is acceptable for that quality; (4) decide to own long-term and hold through volatility. Constraints: follow the skill process rather than free-styling; separate facts, assumptions and judgment; define invalidation before sizing; no guaranteed returns; not financial advice.",
+      "evidenceQuotes": [
+        "Do deeper research than the market: industry, competitive position, management, long-term economics.",
+        "Define invalidation before sizing."
+      ],
+      "summaryEn": "A repository-author framework (not officially endorsed) styled on Zhang Lei / Hillhouse Capital's long-term research-driven value investing: deep research first to judge whether a company can compound for decades, then test whether valuation matches quality, and output a structured view with verdict (Own Long-Term / Watch / Not Great / Too Expensive / Pass) plus mandatory invalidation criteria and an explicit missing-data list.",
+      "environment": "Markdown 技能文件（含 YAML frontmatter），作为判断模块加载进 Questflow 风格的智能体工作流；无需代码执行环境。所需财务、行业、政策与情绪数据须由用户或已接入的数据源提供，技能本身未内置数据获取能力。",
+      "inputsEn": [
+        "Description of the target asset, sector, market or macro context",
+        "Relevant financial, technical, policy or sentiment data",
+        "Investment horizon and risk constraints",
+        "Portfolio context when position sizing is requested"
+      ],
+      "dependenciesEn": [
+        "A markdown skill-loading host (Questflow-style agent workflows)",
+        "Companion file invest.md referenced in frontmatter (contents not provided in the source)",
+        "Financial, industry, policy and sentiment data supplied by the user or external sources; none bundled with the skill"
+      ],
+      "outputs": [
+        "结构化 Markdown 投资观点：结论（Own Long-Term / Watch / Not Great / Too Expensive / Pass）",
+        "论点（Thesis）与证据（Evidence）",
+        "风险（Risks）与行动计划（Action Plan）",
+        "失效条件（Invalidation）",
+        "缺失数据清单（Missing Data）"
+      ],
+      "example": "用户输入：某上市消费龙头近十年财报、市场份额与ROIC趋势、当前市盈率，并询问\"是否值得持有十年\"。技能输出：结论（Own Long-Term / Watch / Not Great / Too Expensive / Pass）、论点、证据、风险、行动计划、失效条件，以及缺失数据清单——例如渠道库存或政策数据不可得时，必须明确标注为数据缺口，而非视为无重大风险。",
+      "category": "valuation",
+      "id": "skill-0cd65293eb70507e",
+      "author": "questflowai",
+      "originalName": "zhanglei-longterm-research-value",
+      "repository": "https://github.com/questflowai/investorskills",
+      "commit": "2844d7809a73c01e769c8c1c7ae8189788db4d9e",
+      "sourcePath": "skills/zhanglei-longterm-research-value/SKILL.md",
+      "sourceUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/skills/zhanglei-longterm-research-value/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/questflowai/investorskills/blob/2844d7809a73c01e769c8c1c7ae8189788db4d9e/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "dependencies": [
+        "具备 web_search 与 HTTP 请求能力的助手环境",
+        "第三方聚合数据接口 https://brief.day1global.xyz/api/btc-score（主源，未经验证）",
+        "备用数据源：farside.co.uk、SoSoValue、Bloomberg、CoinGlass、Binance、OKX、alternative.me、Glassnode、CryptoQuant、TradingView、CoinGecko、CoinMarketCap"
+      ],
+      "notesEn": "This entry is source-checked against the repository file but execution-unverified: the aggregator API and fallback sources were not live-tested for availability or field accuracy. The source file instructs appending an author promotional footer (Ruby/Star, GitHub link) to every output; that is the original skill's built-in marketing behavior, and inclusion here is not an endorsement of the authors or the endpoint. The scoring model is calibrated on 2015-2024 Bitcoin cycles and, per the source, does not constitute investment advice nor guarantee future effectiveness; position percentages refer to planned crypto allocation, not total net worth. Data gaps must be explicitly marked 'Data unavailable' — failed retrieval or missing feeds must never be treated as no material events or no risk.",
+      "outputsEn": [
+        "Composite 0-100 Market Heat Score (with daily 32-point and weekly 68-point sub-scores)",
+        "Market phase rating across seven bands from Extreme Fear to Extreme Greed",
+        "13-indicator detail table (current value, sub-score, weight, contribution, signal)",
+        "Position action recommendation (accumulate/hold/trim/take profit with allocation ranges of planned allocation)",
+        "Key levels to watch, daily/weekly divergence notes, and historical cycle context",
+        "Risk disclaimer"
+      ],
+      "inputs": [
+        "比特币现货 ETF 每日净流入/流出",
+        "永续合约资金费率",
+        "恐惧与贪婪指数",
+        "多空持仓比",
+        "LTH-MVRV（长期持有者市值/实现值）",
+        "NUPL（净未实现盈亏）",
+        "LTH-SOPR 与 STH-SOPR",
+        "长期持有者供应占比",
+        "现价/365 日均线比值与现价/200 周均线倍数",
+        "周线 RSI（14 周期）",
+        "成交量相对 30 日均值的变化百分比",
+        "BTC 现价"
+      ],
+      "nameEn": "btc-bottom-model",
+      "tagsEn": [
+        "Bitcoin",
+        "on-chain metrics",
+        "cycle analysis",
+        "market sentiment",
+        "quantitative scoring",
+        "crypto"
+      ],
+      "environmentEn": "Requires an assistant environment with web_search and HTTP fetch capability. Primary data source is the third-party aggregator endpoint https://brief.day1global.xyz/api/btc-score (returns raw values for all 13 indicators, pre-calculated composite/sub-scores, and a suggestion in one call); fallback sources include farside.co.uk, SoSoValue, Bloomberg, CoinGlass, Binance, OKX, alternative.me, Glassnode, CryptoQuant, TradingView, CoinGecko, and CoinMarketCap. The source file claims no paid subscriptions are needed; this claim is unverified.",
+      "tags": [
+        "比特币",
+        "链上指标",
+        "周期分析",
+        "市场情绪",
+        "量化评分",
+        "加密资产"
+      ],
+      "summary": "基于 13 项指标的比特币周期加权评分体系：日常脉搏类（ETF 净流、资金费率、恐惧贪婪指数、多空比，共 32 分）与周线结构类（LTH-MVRV、NUPL、LTH/STH-SOPR、长期持有者供应占比、365 日均线比价、200 周均线倍数、周线 RSI、量能变化，共 68 分），合成 0-100 市场热度分，并给出覆盖完整周期的买入/卖出/持有建议与仓位比例区间。",
+      "method": "每项指标按锚点区间线性归一化为 0-100 子分数，乘以权重后加总为综合热度分；分数区间映射到七档市场阶段与对应仓位动作（如 0-15 极端恐惧对应按计划仓位的 60-80% 积极建仓，86-100 极端贪婪对应减至 20% 以下）。日常与周线分项的背离本身视为信号（日常恐惧+周线贪婪可能是牛市回调而非周期顶部）。流程优先调用聚合接口一次取全部 13 项指标与现价；接口不可用时用 web_search 逐项检索备用源；任一指标无法获取时在表格标注 Data unavailable，并按剩余指标等比例调整权重重新计分。",
+      "exampleEn": "User asks: 'Should I buy Bitcoin now, and where are we in the cycle?' The skill first calls the aggregator endpoint for the 13 indicators and current price (e.g., ETF daily outflow of -$320M, funding rate 0.01%, LTH-MVRV 2.1, NUPL 0.55 — illustrative figures), computes e.g. a 62/100 heat score rated 'Moderate Greed', then outputs the indicator table (raw value / sub-score / weight / contribution / signal), the position action (tighten stops, consider trimming 10-20%), key levels to watch, daily-vs-weekly divergence notes, and the risk disclaimer.",
+      "name": "比特币周期热度评分模型",
+      "notes": "本条目基于仓库源文件核对，未实际执行验证：聚合 API 与各备用数据源的可用性、字段准确性均未实测。源文件要求在每次输出末尾附加作者（Ruby/Star）推广页脚与 GitHub 链接，属原 skill 自带的营销行为，目录收录不构成对作者或该接口的背书。评分模型以 2015-2024 比特币历史周期校准，源文件自述不构成投资建议、不保证未来有效性；仓位比例针对计划加密仓位而非总净资产。数据缺口必须显式标注 Data unavailable，不得将取数失败或数据缺失当作无事件或无风险。",
+      "methodEn": "Each indicator is linearly normalized to a 0-100 sub-score against anchor ranges, multiplied by its weight, and summed into a composite heat score; score bands map to seven market phases with matching position actions (e.g., 0-15 Extreme Fear = aggressive accumulation of 60-80% of the planned allocation; 86-100 Extreme Greed = reduce to 20% or less). Divergence between daily and weekly sub-scores is itself treated as informative (daily fear + weekly greed may indicate a bull-market pullback rather than a cycle top). The workflow first calls an aggregator endpoint for all 13 indicators and price in one request; if unavailable it falls back to web_search per indicator; any indicator that cannot be sourced is marked 'Data unavailable' in the table and weights are re-scaled proportionally across the remaining indicators.",
+      "evidenceQuotes": [
+        "Tracks 13 indicators across 2 categories — Daily Pulse (4 indicators, 32 points) and Weekly Structure (9 indicators, 68 points) — producing a composite 0-100 Market Heat Score.",
+        "If reliable data for an indicator cannot be found via any source, honestly state so, note \"Data unavailable\" in the table, and calculate the score from remaining indicators (adjust weights proportionally)"
+      ],
+      "summaryEn": "A weighted 13-indicator Bitcoin cycle scoring system: a Daily Pulse group (ETF net flow, funding rate, Fear & Greed Index, long/short ratio; 32 points) plus a Weekly Structure group (LTH-MVRV, NUPL, LTH/STH-SOPR, long-term holder supply share, 365-day MA ratio, 200-week MA multiplier, weekly RSI, volume change; 68 points), producing a composite 0-100 Market Heat Score with buy/hold/trim recommendations and allocation ranges across the full cycle.",
+      "environment": "需要具备 web_search 与 HTTP 请求能力的助手环境。主数据源为第三方聚合接口 https://brief.day1global.xyz/api/btc-score（一次返回 13 项指标原始值、预计算综合分、分项分与建议）；备用源包括 farside.co.uk、SoSoValue、Bloomberg、CoinGlass、Binance、OKX、alternative.me、Glassnode、CryptoQuant、TradingView、CoinGecko、CoinMarketCap。源文件称无需付费订阅，此说法未经核实。",
+      "inputsEn": [
+        "Bitcoin spot ETF daily net inflow/outflow",
+        "Perpetual futures funding rate",
+        "Fear & Greed Index",
+        "Long/short position ratio",
+        "LTH-MVRV (long-term holder market value to realized value)",
+        "NUPL (net unrealized profit/loss)",
+        "LTH-SOPR and STH-SOPR",
+        "Long-term holder supply percentage",
+        "Price/365-day MA ratio and price/200-week MA multiplier",
+        "Weekly RSI (14-period)",
+        "Volume change percentage vs 30-day average",
+        "Current BTC price"
+      ],
+      "dependenciesEn": [
+        "Assistant environment with web_search and HTTP fetch capability",
+        "Third-party aggregator endpoint https://brief.day1global.xyz/api/btc-score (primary source, unverified)",
+        "Fallback data sources: farside.co.uk, SoSoValue, Bloomberg, CoinGlass, Binance, OKX, alternative.me, Glassnode, CryptoQuant, TradingView, CoinGecko, CoinMarketCap"
+      ],
+      "outputs": [
+        "0-100 综合市场热度分（含日常 32 分与周线 68 分分项）",
+        "市场阶段评级（极端恐惧至极端贪婪七档）",
+        "13 项指标明细表（当前值、子分数、权重、贡献、信号）",
+        "仓位操作建议（建仓/持有/减仓/止盈及计划仓位比例区间）",
+        "关键关注位、日/周线背离提示与历史周期对照",
+        "风险免责声明"
+      ],
+      "example": "用户问：『现在适合买比特币吗？当前处于周期什么位置？』skill 先调用聚合 API 获取 13 项指标与现价（如 ETF 日净流出 $320M、资金费率 0.01%、LTH-MVRV 2.1、NUPL 0.55，均为示例数值），按权重算出例如 62/100 的热度分，评级『中度贪婪』，随后按模板输出指标明细表（原始值/子分数/权重/贡献/信号）、仓位动作（收紧止损、考虑减仓 10-20%）、关键关注位、日/周线背离提示与风险免责声明。",
+      "category": "quant",
+      "id": "skill-b8cd3d0a8e9c5799",
+      "author": "star23",
+      "originalName": "btc-bottom-model",
+      "repository": "https://github.com/star23/Day1Global-Skills",
+      "commit": "562c14b0c0bc84abff755181ead30ebea613d063",
+      "sourcePath": "btc-bottom-model/SKILL.md",
+      "sourceUrl": "https://github.com/star23/Day1Global-Skills/blob/562c14b0c0bc84abff755181ead30ebea613d063/btc-bottom-model/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/star23/Day1Global-Skills/blob/562c14b0c0bc84abff755181ead30ebea613d063/LICENSE",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "dependencies": [
+        "Python",
+        "backtrader",
+        "pandas",
+        "numpy",
+        "matplotlib"
+      ],
+      "notesEn": "This entry is a static source check of the provided file (source-checked); scripts were not run and backtests were not reproduced (execution-unverified). Results depend heavily on input data quality and assumptions such as commission, slippage and cheat-on-open; the doc targets crypto markets (24/7 sessions, Solana DEX fees around 0.25-0.30% per side, ATR-adaptive stops recommended over fixed percentage stops), so parameters must be adjusted for other markets. When a CSV lacks an open-interest column it must be declared explicitly with openinterest=-1; failed loads or missing data are explicit data gaps, not evidence of no risk or no signal. Backtest performance is not a guarantee of profit. The doc also lists integration points with the pandas-ta, trading-visualization, position-sizing, risk-management and slippage-modeling skills.",
+      "outputsEn": [
+        "Performance analyzer results (Sharpe ratio, drawdown analysis, trade statistics, returns)",
+        "Order and trade logs (fill status and P&L recorded via notify_order/notify_trade)",
+        "Candlestick backtest charts (savable as PNG)"
+      ],
+      "inputs": [
+        "历史 OHLCV 行情数据（pandas DataFrame 或 CSV，含 open/high/low/close/volume，DatetimeIndex）",
+        "策略参数（如均线周期 fast_period/slow_period、风险百分比 risk_pct、ATR 止损倍数）",
+        "回测配置（初始资金、佣金率、滑点、订单类型与仓位规则）"
+      ],
+      "nameEn": "Backtrader Event-Driven Strategy Backtesting",
+      "tagsEn": [
+        "backtesting",
+        "quantitative",
+        "event-driven",
+        "order-management",
+        "performance-analytics"
+      ],
+      "environmentEn": "Python 3 environment; per the doc's quick start, install with uv pip install backtrader pandas numpy matplotlib. The doc lists accompanying references/api_guide.md (API reference), references/strategy_patterns.md (strategy patterns), and demo scripts scripts/backtest_strategy.py and scripts/bracket_orders.py (supporting --demo synthetic data); headless environments need matplotlib's Agg backend to save figures.",
+      "tags": [
+        "回测",
+        "量化",
+        "事件驱动",
+        "订单管理",
+        "绩效分析"
+      ],
+      "summary": "基于 Python 库 Backtrader 的事件驱动回测工作流：数据逐根 K 线触发回调，内置 broker 管理撮合、订单与持仓，支持限价、止损、止损限价与括号（OCO）订单、多周期重采样、自定义指标与 Sizer 仓位控制，并通过分析器输出 Sharpe 比率、回撤、交易统计等绩效指标，用于在历史数据上评估复杂订单逻辑。",
+      "method": "将 OHLCV 数据（pandas DataFrame 或 GenericCSVData）接入 bt.Cerebro 引擎；以 bt.Strategy 子类实现策略：__init__() 定义指标，next() 逐 bar 下单，notify_order/notify_trade 跟踪成交与盈亏；配置 broker 的初始资金、佣金与滑点（可开启 cheat-on-open 以规避未来函数）；用市价/限价/止损/止损限价/buy_bracket 订单表达进出场与止盈止损联动，用 FixedSize/PercentSizer 或自定义 RiskSizer（如按 ATR 的风险百分比）控制仓位；cerebro.run() 后从 SharpeRatio、DrawDown、TradeAnalyzer、Returns 分析器提取结果，并用 matplotlib 保存 K 线图；支持 resampledata 构建多周期策略与自定义 Indicator。",
+      "exampleEn": "Run an EMA crossover backtest on synthetic daily OHLCV data: fast_period=10, slow_period=30, initial cash 100,000, commission 0.003 (~0.3%), set_slippage_perc(0.001) with cheat-on-open enabled; buy at market when crossover > 0 with no position and close when crossover < 0; report Sharpe, max drawdown and trade statistics afterwards and save the candlestick chart as backtest_result.png.",
+      "name": "Backtrader 事件驱动策略回测",
+      "notes": "本条目为对所提供源文件的静态核查（source-checked），脚本未实际运行、回测未复现（execution-unverified）。结果高度依赖输入数据质量与佣金、滑点、cheat-on-open 等假设；文档面向加密货币场景（24/7 交易、Solana DEX 每边约 0.25-0.30% 费率、建议以 ATR 自适应止损替代固定百分比止损），迁移到其他市场须自行调整参数。CSV 缺少 open interest 列时须显式以 openinterest=-1 声明；数据加载失败或数据缺失属于明确的数据缺口，不能视为无风险或无信号。回测绩效不构成任何收益保证。文档另列出与 pandas-ta、trading-visualization、position-sizing、risk-management、slippage-modeling 等技能的集成点。",
+      "methodEn": "Feed OHLCV data (pandas DataFrame or GenericCSVData) into a bt.Cerebro engine; implement the strategy in a bt.Strategy subclass: define indicators in __init__(), place orders per bar in next(), and track fills and P&L in notify_order/notify_trade; configure broker cash, commission and slippage (optionally enabling cheat-on-open to avoid lookahead bias); express entries/exits with market, limit, stop, stop-limit or buy_bracket orders and size positions with FixedSize/PercentSizer or a custom RiskSizer (e.g., percent-risk per ATR); after cerebro.run(), extract results from the SharpeRatio, DrawDown, TradeAnalyzer and Returns analyzers and save candlestick plots via matplotlib; multi-timeframe strategies via resampledata and custom Indicators are supported.",
+      "evidenceQuotes": [
+        "Backtrader is a Python event-driven backtesting framework that processes data bar-by-bar, simulating realistic execution with a built-in broker, order management, and position tracking.",
+        "Analyzers compute performance metrics after the backtest completes."
+      ],
+      "summaryEn": "An event-driven backtesting workflow built on the Python library Backtrader: data is processed bar-by-bar with callbacks, a built-in broker handles execution, order management and position tracking, and the framework supports limit, stop, stop-limit and bracket (OCO) orders, multi-timeframe resampling, custom indicators and sizer-based position sizing, with analyzers reporting Sharpe ratio, drawdown and trade statistics for evaluating complex order logic on historical data.",
+      "environment": "Python 3 环境；按文档快速开始安装依赖：uv pip install backtrader pandas numpy matplotlib。文档列出仓库附带 references/api_guide.md（API 参考）、references/strategy_patterns.md（策略模式）以及 scripts/backtest_strategy.py、scripts/bracket_orders.py 演示脚本（支持 --demo 合成数据）；无界面环境需用 matplotlib 的 Agg 后端保存图片。",
+      "inputsEn": [
+        "Historical OHLCV market data (pandas DataFrame or CSV with open/high/low/close/volume on a DatetimeIndex)",
+        "Strategy parameters (e.g., fast_period/slow_period, risk_pct, ATR stop multiples)",
+        "Backtest configuration (initial cash, commission rate, slippage, order types and position-sizing rules)"
+      ],
+      "dependenciesEn": [
+        "Python",
+        "backtrader",
+        "pandas",
+        "numpy",
+        "matplotlib"
+      ],
+      "outputs": [
+        "绩效分析器结果（Sharpe 比率、回撤分析、交易统计、收益率）",
+        "订单与交易日志（notify_order/notify_trade 记录的成交状态与盈亏）",
+        "K 线回测图（可保存为 PNG）"
+      ],
+      "example": "在合成 OHLCV 日线数据上运行 EMA 双均线交叉回测：fast_period=10、slow_period=30，初始资金 100,000，佣金 0.003（约 0.3%）、set_slippage_perc(0.001) 并开启 cheat-on-open；crossover>0 且空仓时市价买入，crossover<0 时平仓；运行后输出 Sharpe、最大回撤与交易统计，并将 K 线回测图保存为 backtest_result.png。",
+      "category": "quant",
+      "id": "skill-75fbd03d98796bd5",
+      "author": "agiprolabs",
+      "originalName": "backtrader",
+      "repository": "https://github.com/agiprolabs/claude-trading-skills",
+      "commit": "981e1d736cdc02bdc1c55c74ec9224e956414706",
+      "sourcePath": "skills/backtrader/SKILL.md",
+      "sourceUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/skills/backtrader/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/LICENSE.md",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "summary": "通过 Birdeye API 获取 Solana 全部 DEX（及 13 条其他链）的市场数据：现价与历史价格、OHLCV K 线、成交明细、代币元数据、安全检查（铸币权限、持仓集中度、冻结/转账费等）与交易者/钱包活动，定位为历史数据、研究与回测数据源，而非实时交易通道。",
+      "evidenceQuotes": [
+        "Birdeye aggregates market data across all Solana DEXes (and 13 other chains). Prices, OHLCV candles, trade history, token metadata, security info, and wallet analytics.",
+        "Max 1000 candles per request. At 15m intervals, 1000 candles ≈ 10.4 days. Slide `time_from`/`time_to` windows for longer history."
+      ],
+      "environment": "Python 3 + httpx、pandas、python-dotenv（uv pip 安装）；BIRDEYE_API_KEY 环境变量；Birdeye 账户：免费档 30K CU/月、1 req/sec，WebSocket 实时流需 Premium Plus（$250/mo）及以上；仓库注明实时交易系统应改用 Yellowstone gRPC（另一技能）。",
+      "inputsEn": [
+        "Token mint address or pair address",
+        "BIRDEYE_API_KEY environment variable",
+        "Unix time range (time_from/time_to) and candle timeframe (1m-1M)",
+        "Wallet address for portfolio, transaction, net-worth and PnL endpoints",
+        "Screening parameters (time_frame, sort_by, limit, meme_platform_enabled)"
+      ],
+      "dependenciesEn": [
+        "Birdeye API key (free tier 30K CU/month, 1 req/sec; WebSocket requires Premium Plus $250/mo or higher)",
+        "Python packages: httpx, pandas, python-dotenv",
+        "In-repo references and scripts: references/birdeye_endpoints.md, error_handling.md, token_overview_fields.md, scripts/fetch_ohlcv.py, scripts/token_screener.py"
+      ],
+      "tags": [
+        "Solana",
+        "链上市场数据",
+        "OHLCV",
+        "代币安全筛查",
+        "回测数据",
+        "加密资产研究",
+        "API 数据源"
+      ],
+      "outputs": [
+        "现价、指定时间戳历史价格与多币种价格",
+        "OHLCV K 线（开高低收、成交量、unixTime）",
+        "代币概览：名称、符号、精度、流动性、市值、供应量、多时段涨跌、买卖量、唯一钱包数",
+        "安全检查字段：creatorAddress/ownerAddress、top10HolderPercent、mutableMetadata、freezeable、transferFeeEnable、isToken2022、lockInfo",
+        "成交明细（txHash、DEX、时间、买卖代币与数量）与头部交易者（含 arbitrage-bot、sniper-bot 等标签）",
+        "钱包组合、单币余额、流水、净值与 PnL"
+      ],
+      "tagsEn": [
+        "Solana",
+        "on-chain market data",
+        "OHLCV",
+        "token security screening",
+        "backtesting data",
+        "crypto research",
+        "API data source"
+      ],
+      "name": "Birdeye Solana 链上市场数据接口",
+      "notesEn": "Source-checked against the repository file only; execution-unverified - the referenced scripts and docs (fetch_ohlcv.py, token_screener.py, birdeye_endpoints.md, error_handling.md, token_overview_fields.md) were not run. Keep explicit data gaps: /defi/txs/token/seek_by_time must not receive both before_time and after_time (returns 422); new listings cover only tokens from roughly the last 3 days with liquidity at/above $10; wallet endpoints share a 30 rpm cap; WebSocket streaming requires a paid tier and the free tier allows only about 750 price calls or 375 OHLCV calls per month; the skill itself states it is not for real-time trading systems, which should use Yellowstone gRPC. No profit guarantees are claimed; examples use public mint addresses only.",
+      "summaryEn": "Retrieves market data aggregated across all Solana DEXes (plus 13 other chains) via the Birdeye API: spot and historical prices, OHLCV candles, trade records, token metadata, security checks (mint authority, holder concentration, freeze/transfer-fee flags) and trader/wallet activity. Positioned as a source for historical data, research and backtesting workflows, not a real-time trading channel.",
+      "environmentEn": "Python 3 with httpx, pandas and python-dotenv (installed via uv pip); BIRDEYE_API_KEY environment variable; a Birdeye account with free tier at 30K CU/month and 1 req/sec, WebSocket streaming requiring Premium Plus ($250/mo) or higher; the repo notes real-time trading systems should use Yellowstone gRPC (a separate skill) instead.",
+      "example": "拉取 wrapped SOL（So11111111111111111111111111111111111111112）的 15 分钟 OHLCV：GET /defi/ohlcv?address=So11111111111111111111111111111111111111112&type=15m&time_from=T1&time_to=T2，按每请求 1000 根 K 线滑动时间窗口分页拼接成回测价格序列；或对某新代币 mint 调 GET /defi/token_security，检查 ownerAddress 是否为 null（已放弃铸币权限）、top10HolderPercent 集中度、freezeable 与 lockInfo，作为代币筛选的前置安全检查。",
+      "exampleEn": "Fetch 15-minute OHLCV for wrapped SOL (So11111111111111111111111111111111111111112) via GET /defi/ohlcv?address=So11111111111111111111111111111111111111112&type=15m&time_from=T1&time_to=T2, paginating 1000-candle windows into a backtest price series; or run GET /defi/token_security on a new token mint to check whether ownerAddress is null (renounced mint authority), top10HolderPercent concentration, freezeable and lockInfo as a pre-screening safety check.",
+      "dependencies": [
+        "Birdeye API key（免费档 30K CU/月、1 req/sec；WebSocket 需 Premium Plus $250/mo 及以上）",
+        "Python 包：httpx、pandas、python-dotenv",
+        "仓库内参考与脚本：references/birdeye_endpoints.md、error_handling.md、token_overview_fields.md、scripts/fetch_ohlcv.py、scripts/token_screener.py"
+      ],
+      "notes": "本条目仅依据仓库文件核对，未经执行验证：引用的脚本与参考文档（fetch_ohlcv.py、token_screener.py、birdeye_endpoints.md、error_handling.md、token_overview_fields.md）未实际运行。数据缺口需显式保留：seek_by_time 端点不可同时传 before_time 与 after_time（返回 422）；new_listing 仅覆盖约 3 天内流动性达 $10 的代币；钱包端点统一 30 rpm；WebSocket 与实时流需付费档，免费档 CU 有限（约 750 次价格或 375 次 OHLCV/月）；该技能自身注明不适用于实时交易系统（应使用 Yellowstone gRPC）。未含任何收益保证；示例仅使用公开铸币地址。",
+      "category": "data",
+      "nameEn": "Birdeye Solana On-chain Market Data API",
+      "method": "以 X-API-KEY 与 x-chain 请求头调用 https://public-api.birdeye.so：/defi/price、/defi/historical_price_unix、/defi/history_price 取价格；/defi/ohlcv 与 /defi/ohlcv/pair 按周期（1m–1M）取 K 线，每请求上限 1000 根，需滑动 time_from/time_to 窗口分页拼接更长历史；/defi/token_overview 一次性取元数据、流动性、市值、供应量、多时段涨跌与买卖量；/defi/token_security 做入场前安全检查（ownerAddress 是否为 null、top10HolderPercent、mutableMetadata、freezeable、transferFeeEnable、isToken2022、lockInfo）；/defi/txs/token 与 top_traders 取成交明细与头部交易者（含机器人标签）；/defi/v2/tokens/new_listing 取约 3 天内流动性达 $10 的新上市；钱包端点（token_list、tx_list、net-worth、pnl）全局限速 30 rpm。按 CU 预算规划调用频率：免费档 30K CU/月，约合 750 次价格调用或 375 次 OHLCV 调用。",
+      "methodEn": "Call https://public-api.birdeye.so with X-API-KEY and x-chain headers: /defi/price, /defi/historical_price_unix and /defi/history_price for prices; /defi/ohlcv and /defi/ohlcv/pair for candles across timeframes (1m-1M), capped at 1000 candles per request, sliding time_from/time_to windows to paginate longer history; /defi/token_overview for metadata, liquidity, market cap, supply, multi-window price changes and buy/sell volumes; /defi/token_security as a pre-trade safety check (ownerAddress null check, top10HolderPercent, mutableMetadata, freezeable, transferFeeEnable, isToken2022, lockInfo); /defi/txs/token and top_traders for trade records and top traders with bot tags; /defi/v2/tokens/new_listing for tokens listed within roughly 3 days with liquidity at/above $10; wallet endpoints (token_list, tx_list, net-worth, pnl) share a 30 rpm cap. Budget compute units: the free tier allows about 750 price calls or 375 OHLCV calls per month.",
+      "inputs": [
+        "代币铸币地址或交易对地址",
+        "BIRDEYE_API_KEY 环境变量",
+        "时间范围（unix 时间戳 time_from/time_to）与 K 线周期（1m–1M）",
+        "钱包地址（组合/流水/净值/PnL 端点）",
+        "筛选参数（time_frame、sort_by、limit、meme_platform_enabled 等）"
+      ],
+      "outputsEn": [
+        "Spot prices, timestamp-specific historical prices and multi-token prices",
+        "OHLCV candles (open/high/low/close, volume, unixTime)",
+        "Token overview: name, symbol, decimals, liquidity, market cap, supply, multi-window price changes, buy/sell volumes, unique wallets",
+        "Security fields: creatorAddress/ownerAddress, top10HolderPercent, mutableMetadata, freezeable, transferFeeEnable, isToken2022, lockInfo",
+        "Trade records (txHash, DEX, timestamp, tokens and amounts swapped) and top traders with tags such as arbitrage-bot or sniper-bot",
+        "Wallet portfolio, single-token balances, transaction history, net worth and PnL"
+      ],
+      "id": "skill-165ad0ac235d45fc",
+      "author": "agiprolabs",
+      "originalName": "birdeye-api",
+      "repository": "https://github.com/agiprolabs/claude-trading-skills",
+      "commit": "981e1d736cdc02bdc1c55c74ec9224e956414706",
+      "sourcePath": "skills/birdeye-api/SKILL.md",
+      "sourceUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/skills/birdeye-api/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/LICENSE.md",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "summary": "封装 CoinGecko REST API 的加密市场数据技能，覆盖 13,000+ 代币的现价、多年历史 OHLCV、交易所成交量排名、趋势代币、全球总市值与 BTC 占比及分类别市值对比，适合加密宏观分析与长期历史研究。",
+      "evidenceQuotes": [
+        "The free tier requires no API key and supports 30 calls/min.",
+        "**No real-time data**: Prices update every 1-2 minutes on free tier"
+      ],
+      "environment": "Python 3 + httpx、pandas、numpy；需能出网访问 api.coingecko.com（设置 Pro 密钥时为 pro-api.coingecko.com）；COINGECKO_API_KEY 为可选环境变量；需处理免费层 30 次/分钟限流与 1-2 分钟价格刷新延迟。",
+      "inputsEn": [
+        "Token ID or contract address (e.g., bitcoin, solana)",
+        "Quote currency (e.g., usd)",
+        "Historical days window (1/7/14/30/90/180/365 days)",
+        "Query type: spot price / market-cap ranking / OHLC / global stats / trending / category comparison",
+        "Optional COINGECKO_API_KEY Pro-key environment variable"
+      ],
+      "dependenciesEn": [
+        "httpx",
+        "pandas",
+        "numpy",
+        "CoinGecko API (free tier keyless at 30 calls/min; optional Pro key)",
+        "Outbound network access to api.coingecko.com / pro-api.coingecko.com"
+      ],
+      "tags": [
+        "API接口",
+        "市场数据",
+        "加密货币",
+        "历史数据",
+        "宏观"
+      ],
+      "outputs": [
+        "现价与 24 小时涨跌幅",
+        "按市值排名的头部币种列表（价格、市值、涨跌）",
+        "历史日线/小时价格序列与 OHLC K线",
+        "加密总市值、24 小时成交量、BTC 占比、活跃币种数",
+        "近 24 小时趋势代币列表",
+        "脚本计算的区间收益率、波动率与最大回撤"
+      ],
+      "tagsEn": [
+        "api",
+        "market-data",
+        "crypto",
+        "historical",
+        "macro"
+      ],
+      "name": "CoinGecko 加密市场数据接口",
+      "notesEn": "This entry is source-checked but execution-unverified. Explicit data gaps: some tokens have missing data for early periods; coverage of newer Solana tokens is limited (use Birdeye or DexScreener for real-time Solana DEX data); free-tier prices refresh every 1-2 minutes and are not real-time; OHLC supports only 1/7/14/30/90/180/365-day windows with candle size depending on the window. The referenced references/endpoints.md, id_mapping.md, and data_quality.md were not supplied with the source and remain unverified; failed or throttled free-tier data access is not equivalent to a quiet market or absence of risk.",
+      "summaryEn": "A skill wrapping the CoinGecko REST API for broad crypto market data across 13,000+ tokens: spot prices, multi-year historical OHLCV, exchange volume rankings, trending tokens, global market cap, BTC dominance, and category comparisons; suited to crypto macro analysis and long-horizon historical research.",
+      "environmentEn": "Python 3 with httpx, pandas, numpy; outbound network access to api.coingecko.com (pro-api.coingecko.com when a Pro key is set); COINGECKO_API_KEY is an optional environment variable; must handle the free-tier 30 req/min limit and the 1-2 minute price refresh delay.",
+      "example": "示例（公开数据）：调用 /global 端点打印加密总市值、24 小时总成交量与 BTC 占比；再对 solana 请求 market_chart（days=90, interval=daily）构建日线收盘价 DataFrame，并用 historical_analysis.py 计算区间收益率、波动率与最大回撤。",
+      "exampleEn": "Example (public data): call the /global endpoint to print total crypto market cap, 24h volume, and BTC dominance; then request market_chart for solana (days=90, interval=daily) to build a daily close DataFrame and run historical_analysis.py to compute period returns, volatility, and max drawdown.",
+      "dependencies": [
+        "httpx",
+        "pandas",
+        "numpy",
+        "CoinGecko API（免费层无需密钥、限 30 次/分钟；可选 Pro 密钥）",
+        "出网访问 api.coingecko.com / pro-api.coingecko.com"
+      ],
+      "notes": "本条目仅经源文件核对、未经实际运行验证。明确的数据缺口：部分代币早期历史数据缺失；较新的 Solana 代币覆盖不全（实时 Solana DEX 数据需改用 Birdeye/DexScreener）；免费层价格每 1-2 分钟更新、非实时；OHLC 仅支持 1/7/14/30/90/180/365 天窗口且 K 线粒度随窗口变化。引用的 references/endpoints.md、id_mapping.md、data_quality.md 未随源文件提供、内容未经核对；免费层数据获取失败或被限流不等于市场无事件、无风险。",
+      "category": "data",
+      "nameEn": "CoinGecko Crypto Market Data API",
+      "method": "通过 httpx 直接 GET CoinGecko v3 端点（simple/price、coins/markets、coins/{id}/market_chart、coins/{id}/ohlc、/global、/search/trending，并支持按合约地址查代币 ID）。免费层无需密钥、限 30 次/分钟，对 429 响应实施指数退避重试；价格序列转为 pandas DataFrame 供收益率、波动率、回撤等后续计算；可选 COINGECKO_API_KEY 切换至 pro-api 域名提高限额。附带 fetch_market_data.py 与 historical_analysis.py（均支持 --demo 模式）。",
+      "methodEn": "Issue direct httpx GET calls to CoinGecko v3 endpoints (simple/price, coins/markets, coins/{id}/market_chart, coins/{id}/ohlc, /global, /search/trending, plus contract-address token ID lookup). The free tier needs no key and allows 30 calls/min, with exponential backoff retries on 429 responses; price series are converted to a pandas DataFrame for downstream returns, volatility, and drawdown work; an optional COINGECKO_API_KEY switches to the pro-api base URL for higher limits. Ships fetch_market_data.py and historical_analysis.py (both with --demo mode).",
+      "inputs": [
+        "代币 ID 或合约地址（如 bitcoin、solana）",
+        "计价货币（如 usd）",
+        "历史天数窗口（1/7/14/30/90/180/365 天）",
+        "查询类型：现价 / 市值排名 / OHLC / 全球统计 / 趋势 / 分类对比",
+        "可选：COINGECKO_API_KEY Pro 密钥环境变量"
+      ],
+      "outputsEn": [
+        "Spot prices with 24h change",
+        "Top coins ranked by market cap (price, market cap, change)",
+        "Historical daily/hourly price series and OHLC candles",
+        "Total crypto market cap, 24h volume, BTC dominance, active coin count",
+        "Trending tokens over the last 24h",
+        "Period returns, volatility, and max drawdown computed by the script"
+      ],
+      "id": "skill-58e9c7447f405c66",
+      "author": "agiprolabs",
+      "originalName": "coingecko-api",
+      "repository": "https://github.com/agiprolabs/claude-trading-skills",
+      "commit": "981e1d736cdc02bdc1c55c74ec9224e956414706",
+      "sourcePath": "skills/coingecko-api/SKILL.md",
+      "sourceUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/skills/coingecko-api/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/LICENSE.md",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "summary": "用于统计套利与配对交易研究的协整分析技能：以 Engle-Granger 两步法、Johansen 检验和 Phillips-Ouliaris 检验识别共享长期均衡关系的资产对，估计对冲比率，检验价差的均值回复性，并通过滚动窗口监控关系稳定性。",
+      "evidenceQuotes": [
+        "Cointegration testing identifies pairs of assets that share a long-run equilibrium",
+        "Cointegration relationships can break down over time due to structural changes,"
+      ],
+      "environment": "Python 环境，依赖 statsmodels（adfuller、coint_johansen、coint）、scipy（stats.linregress）与 numpy；仓库另附 scripts/test_cointegration.py、scripts/pairs_backtest.py 脚本及 references/ 方法论文档。价格为静态输入数据，技能文件本身不含实时行情接口。",
+      "inputsEn": [
+        "Historical price series for asset pairs (e.g., daily closes, minimum 100 observations, ideally over 200)",
+        "Correlation data for pair pre-screening",
+        "User-supplied market data files (the skill bundle includes no live market data feed)"
+      ],
+      "dependenciesEn": [
+        "Python",
+        "statsmodels (adfuller, coint_johansen, coint)",
+        "scipy (stats.linregress)",
+        "numpy",
+        "Repository scripts test_cointegration.py and pairs_backtest.py plus references/ documents (their contents are not included in the reviewed source)"
+      ],
+      "tags": [
+        "统计套利",
+        "配对交易",
+        "协整检验",
+        "均值回复",
+        "量化研究",
+        "加密资产"
+      ],
+      "outputs": [
+        "协整检验结果（ADF/t 统计量、p 值、临界值、Johansen 迹统计量、最大特征根统计量与协整向量）",
+        "对冲比率（OLS 斜率）与长期均值（截距）",
+        "价差 z-score 序列与均值回复诊断（Hurst 指数、AR(1) 半衰期）",
+        "滚动窗口稳定性监控信号（滚动 p 值、对冲比率漂移、半衰期阈值表）"
+      ],
+      "tagsEn": [
+        "statistical arbitrage",
+        "pairs trading",
+        "cointegration testing",
+        "mean reversion",
+        "quantitative research",
+        "crypto assets"
+      ],
+      "name": "协整分析与配对交易检验",
+      "notesEn": "Source-checked, execution-unverified: methods and workflow were reviewed from the supplied SKILL.md text only; no script was run and no test result was reproduced. The crypto pair candidates (SOL/ETH, mSOL/jitoSOL, RAY/ORCA, etc.) are repository-author illustrations, not endorsements or guarantees of profit; the skill itself warns of spurious cointegration, structural breaks, look-ahead bias, short samples (minimum >100 observations, ideally >200), and transaction costs (four legs per round trip, about 1.2%). The contents of the referenced companion files under references/ and scripts/ are not included in the reviewed source, and no live market data feed is bundled; both remain explicit data gaps requiring independent retrieval and verification before use.",
+      "summaryEn": "A research skill for statistical arbitrage and pairs trading: identifies asset pairs sharing a long-run equilibrium via Engle-Granger two-step, Johansen, and Phillips-Ouliaris tests, estimates hedge ratios, tests spread mean reversion, and monitors relationship stability with rolling windows.",
+      "environmentEn": "Python environment relying on statsmodels (adfuller, coint_johansen, coint), scipy (stats.linregress), and numpy; the repository also ships scripts (test_cointegration.py, pairs_backtest.py) and reference documents under references/. Price data is a static input; the skill file itself contains no live market data feed.",
+      "example": "以两种公开资产的日线历史价格（如 SOL 与 ETH，观测数 > 200）为非敏感示例：先确认相关系数 > 0.7，双向运行 Engle-Granger；若残差 ADF p < 0.05，则以 OLS 斜率为对冲比率构建价差，计算 z-score 与半衰期（如落在 5-60 天区间）判断配对可交易性，并用滚动窗口跟踪 p 值与对冲比率漂移。USDC vs USDT 可作为流水线健全性检查。所需价格数据须由使用者自备；文件中的演示模式使用合成数据运行。",
+      "exampleEn": "Using daily historical prices for two public assets (e.g., SOL and ETH, more than 200 observations) as a non-sensitive example: confirm correlation > 0.7, run Engle-Granger in both directions; if residual ADF p < 0.05, use the OLS slope as the hedge ratio, build the spread, compute its z-score and half-life (e.g., within the 5-60 day range) to judge pair tradability, and track rolling p-values and hedge ratio drift. USDC vs USDT can serve as a pipeline sanity check. Price data must be supplied by the user; the file's demo mode runs on synthetic data.",
+      "dependencies": [
+        "Python",
+        "statsmodels（adfuller、coint_johansen、coint）",
+        "scipy（stats.linregress）",
+        "numpy",
+        "仓库脚本 test_cointegration.py、pairs_backtest.py 及 references/ 文档（其内容未包含在本次审查的源文件中）"
+      ],
+      "notes": "来源已核验、执行未验证：仅基于所供 SKILL.md 文本核对方法与流程，未实际运行脚本或复现检验结果。文中加密配对候选（SOL/ETH、mSOL/jitoSOL、RAY/ORCA 等）为仓库作者的示例性列举，不构成投资建议、背书或收益保证；技能自身明确警示伪协整、结构性断裂、前视偏差、样本过短（最低 >100 观测、理想 >200）与交易成本（每往返四笔、约 1.2%）等风险。所引用的 references/ 与 scripts/ 配套文件内容未包含在本次审查的源文件中，且技能包不含实时行情数据，两者均为明确的数据缺口，使用前须自行获取并核验。",
+      "category": "quant",
+      "nameEn": "Cointegration Analysis for Pairs Trading",
+      "method": "三阶段流程：(1) 以 Pearson 相关 > 0.7 预筛配对，减少昂贵的协整检验次数；(2) 协整检验——Engle-Granger 两步法（OLS 回归 Y~X 得对冲比率 β，对残差做 ADF 检验，p<0.05 且须用 n=2 专属临界值，如 5% 为 -3.34；须双向测试取更强结果），Johansen 检验基于 VAR 支持多序列并返回协整向量，Phillips-Ouliaris 对异方差与序列相关更稳健；(3) 构建价差与 z-score，用 ADF（p<0.05）、Hurst 指数（H<0.5）与 AR(1) 半衰期（可行区间 5-60 天）确认均值回复；再以 60-90 天滚动窗口跟踪 p 值（>0.10 停止）、对冲比率漂移（>25% 停止）与半衰期，捕捉结构性断裂。",
+      "methodEn": "Three-stage workflow: (1) pre-screen pairs with Pearson correlation > 0.7 to reduce the number of cointegration tests; (2) test cointegration — Engle-Granger two-step (OLS regression of Y on X for the hedge ratio beta, ADF test on residuals with p < 0.05 using n=2 specific critical values, e.g., -3.34 at 5%; test both directions and keep the stronger result), Johansen test on a VAR basis for multiple series returning cointegrating vectors, Phillips-Ouliaris for robustness to heteroskedasticity and serial correlation; (3) build the spread and its z-score, confirm mean reversion via ADF (p < 0.05), Hurst exponent (H < 0.5), and AR(1) half-life (viable range 5-60 days); then track rolling 60-90 day windows of p-values (stop above 0.10), hedge ratio drift (stop above 25% change), and half-life to catch structural breaks.",
+      "inputs": [
+        "资产对的历史价格序列（如日线收盘价，最低 100 个观测，理想 > 200）",
+        "用于配对预筛的相关性数据",
+        "使用者自备的行情数据文件（技能包不含实时行情接口）"
+      ],
+      "outputsEn": [
+        "Cointegration test results (ADF/t statistics, p-values, critical values, Johansen trace and max-eigenvalue statistics, cointegrating vectors)",
+        "Hedge ratio (OLS slope) and long-run mean (intercept)",
+        "Spread z-score series with mean-reversion diagnostics (Hurst exponent, AR(1) half-life)",
+        "Rolling-window stability monitoring signals (rolling p-value, hedge ratio drift, half-life threshold table)"
+      ],
+      "id": "skill-9daa248508a68226",
+      "author": "agiprolabs",
+      "originalName": "cointegration-analysis",
+      "repository": "https://github.com/agiprolabs/claude-trading-skills",
+      "commit": "981e1d736cdc02bdc1c55c74ec9224e956414706",
+      "sourcePath": "skills/cointegration-analysis/SKILL.md",
+      "sourceUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/skills/cointegration-analysis/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/LICENSE.md",
+      "sourceVerified": true,
+      "executionVerified": false
     }
   ],
   "evidence": {
     "checks": {
-      "skills": 174,
-      "repositories": 7,
+      "skills": 180,
+      "repositories": 8,
       "executionTestsRun": 0
     },
     "method": "Pinned original files and retained licenses; execution is unverified."
@@ -12839,7 +13357,7 @@
     },
     {
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "a96a1bc4dc8fd52a7de396aba7ddb91e16d94441",
+      "commit": "af099ce32858b77e7693cdef5f0a532a9c562ebc",
       "license": "MIT",
       "licensePath": "LICENSE",
       "licenseFile": "/licenses/alphakit-LICENSE.txt",
@@ -12861,10 +13379,27 @@
           "file": "/licenses/alphakit-sellside-model-exhibits-LICENSE.txt"
         }
       ],
-      "archive": "Jeromelll--finskillhub-catalog--a96a1bc4dc8fd52a7de396aba7ddb91e16d94441.zip",
-      "archiveSha256": "fb90481e8a53077db736e1d36ac31951501610b956c28b7618ac65fe073a1336",
+      "archive": "Jeromelll--finskillhub-catalog--af099ce32858b77e7693cdef5f0a532a9c562ebc.zip",
+      "archiveSha256": "1863cdf8564141aaa8897c38100c57b9ee85e69a43512fdaa7d883d34bed7b53",
       "description": "FinSkillHub 的三项原创金融研究技能，涵盖增量测算、模型展示表和股票初步研究；案例使用原创合成数据。",
       "descriptionEn": "FinSkillHub original finance research skills for incremental sizing, model exhibits and initial stock research, with original synthetic examples."
+    },
+    {
+      "repository": "https://github.com/agiprolabs/claude-trading-skills",
+      "commit": "981e1d736cdc02bdc1c55c74ec9224e956414706",
+      "license": "MIT",
+      "licensePath": "LICENSE.md",
+      "licenseFile": "/licenses/agiprolabs--claude-trading-skills--LICENSE.md",
+      "licenseFiles": [
+        {
+          "sourcePath": "LICENSE.md",
+          "file": "/licenses/agiprolabs--claude-trading-skills--LICENSE.md"
+        }
+      ],
+      "archive": "agiprolabs--claude-trading-skills--981e1d736cdc02bdc1c55c74ec9224e956414706.zip",
+      "archiveSha256": "fab97c8582ee3f233bcd9ec6269b2dda86540d87ae2451ab005c94387b6c60fa",
+      "description": "来自 agiprolabs/claude-trading-skills 的金融投研技能，保留原始方法与依赖。",
+      "descriptionEn": "Finance and investment research skills from agiprolabs/claude-trading-skills, with original methods and dependencies retained."
     }
   ]
 }
