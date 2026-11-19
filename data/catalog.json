@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18",
+  "updatedAt": "2026-11-19",
   "skills": [
     {
       "id": "equity-earnings-update",
@@ -5635,9 +5635,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "af099ce32858b77e7693cdef5f0a532a9c562ebc",
+      "commit": "ec7f8793a19cba126d2ccb8cbd91b9c8838f766e",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/af099ce32858b77e7693cdef5f0a532a9c562ebc/skills/incremental-business-sizing/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/ec7f8793a19cba126d2ccb8cbd91b9c8838f766e/skills/incremental-business-sizing/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "incremental-business-sizing",
@@ -5646,7 +5646,7 @@
       "nameEn": "Incremental business revenue and profit sizing",
       "category": "research",
       "sourcePath": "skills/incremental-business-sizing/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/af099ce32858b77e7693cdef5f0a532a9c562ebc/skills/incremental-business-sizing/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/ec7f8793a19cba126d2ccb8cbd91b9c8838f766e/skills/incremental-business-sizing/SKILL.md",
       "summary": "把产能、用户行为、订阅或交易额拆成可复算的收入、利润与 EPS 驱动链，保留缺失参数并用同一模型制作情景和敏感性分析。",
       "summaryEn": "Builds reproducible revenue, profit and EPS drivers from capacity, user activity, subscriptions or transaction volume. Preserves missing inputs and uses one model for scenarios and sensitivities.",
       "method": "先界定收费对象、资源和时间约束，为参数标明单位、期间及来源，再按依赖图计算各情景；两个敏感性轴替换同一模型中的指定输入。",
@@ -5705,9 +5705,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "af099ce32858b77e7693cdef5f0a532a9c562ebc",
+      "commit": "ec7f8793a19cba126d2ccb8cbd91b9c8838f766e",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/af099ce32858b77e7693cdef5f0a532a9c562ebc/skills/sellside-model-exhibits/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/ec7f8793a19cba126d2ccb8cbd91b9c8838f766e/skills/sellside-model-exhibits/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "sellside-model-exhibits",
@@ -5716,7 +5716,7 @@
       "nameEn": "Financial model exhibits and sensitivity tables",
       "category": "operations",
       "sourcePath": "skills/sellside-model-exhibits/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/af099ce32858b77e7693cdef5f0a532a9c562ebc/skills/sellside-model-exhibits/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/ec7f8793a19cba126d2ccb8cbd91b9c8838f766e/skills/sellside-model-exhibits/SKILL.md",
       "summary": "把同一份已完成测算制作成计算桥、情景表和敏感性矩阵，保留单位、年份、来源和未知值，输出文档、图片与公式工作簿。",
       "summaryEn": "Turns one completed model result into a calculation bridge, scenario table and sensitivity matrices. Retains units, periods, sources and unknown values, and exports documents, images and formula workbooks.",
       "method": "读取版本化计算结果，根据角色、表达式和状态排版；各格式共享同一数值来源，公式仅绑定到同一情景中的有效输入。",
@@ -5777,9 +5777,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "af099ce32858b77e7693cdef5f0a532a9c562ebc",
+      "commit": "ec7f8793a19cba126d2ccb8cbd91b9c8838f766e",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/af099ce32858b77e7693cdef5f0a532a9c562ebc/skills/pre-trade-quick-brief/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/ec7f8793a19cba126d2ccb8cbd91b9c8838f766e/skills/pre-trade-quick-brief/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "pre-trade-quick-brief",
@@ -5788,7 +5788,7 @@
       "nameEn": "Quick initial research for a new stock",
       "category": "research",
       "sourcePath": "skills/pre-trade-quick-brief/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/af099ce32858b77e7693cdef5f0a532a9c562ebc/skills/pre-trade-quick-brief/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/ec7f8793a19cba126d2ccb8cbd91b9c8838f766e/skills/pre-trade-quick-brief/SKILL.md",
       "summary": "先解释市场叙事与新增经营变量，再拆出受约束的业绩上限、三个盈利时间窗、前瞻估值和下一验证点，保留资料缺口。",
       "summaryEn": "Explains the market narrative and new operating variables, then develops a constrained earnings ceiling, three earnings windows, forward valuation conditions and the next verification point while preserving evidence gaps.",
       "method": "冻结信息时点，建立旧预期到新参数的证据链，核对需求、供给、期间、成本及融资稀释，并把当前价值和远期条件终值分开。",
@@ -13126,11 +13126,255 @@
       "licenseUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/LICENSE.md",
       "sourceVerified": true,
       "executionVerified": false
+    },
+    {
+      "methodEn": "Six-stage pipeline: (1) Discovery via SolanaTracker Top Traders, Birdeye rankings and similar sources; (2) Evaluation with minimum thresholds: >=50 trades in 30d, >=55% win rate, >=1.5 profit factor, active within 7 days, >=10 distinct tokens, max single-trade PnL share <40%, bot probability <30%; (3) Filtering for rolling 7-day win-rate consistency, style/size compatibility, and sybil/wash-trading checks; (4) Monitoring via Yellowstone gRPC (sub-second), Helius WebSocket, or RPC polling every 5-10 seconds; (5) Execution: parse the trade, validate token liquidity and honeypot risk, size proportionally to your own portfolio, execute via Jupiter aggregator, record source attribution; (6) Risk controls: 10-20% max allocation per wallet, 3-5 concurrent copy positions, -15% to -25% per-trade stop loss, -5% daily / -10% weekly loss circuit breakers. Composite score: copy_score is the weighted sum of trade count (15%), win rate (20%), profit factor (25%), consistency (20%), recency (10%), and human probability (10%); 80+ rated excellent, below 39 not copyable. Position sizing options: fixed amount, proportional, or confidence-scaled.",
+      "inputs": [
+        "候选跟单对象的Solana钱包地址",
+        "钱包交易历史与PnL数据（SolanaTracker /top-traders/{token}、Birdeye交易者排行榜）",
+        "代币安全与流动性数据（流动性深度、持有人集中度、合约验证、蜜罐风险）",
+        "实时交易流（Yellowstone gRPC、Helius WebSocket或RPC轮询）",
+        "自有组合规模与风控参数（止损、日/周亏损限额、单钱包配置上限）"
+      ],
+      "summary": "面向Solana DEX的链上跟单研究与执行框架：发现高收益钱包，用量化门槛与0-100综合评分检验其优势是否真实且可复制，实时监控交易并按比例跟单，同时施加独立于被跟单钱包的止损与组合级风控。",
+      "environmentEn": "Python 3 to run scripts/evaluate_wallet.py and scripts/monitor_wallet.py; requires a Solana data channel (Yellowstone gRPC, Helius Enhanced WebSocket, or RPC polling of getSignaturesForAddress), SolanaTracker and Birdeye API keys, and the Jupiter aggregator interface; depends on companion repository skills (wallet-profiling, sybil-detection, token-holder-analysis, liquidity-analysis, slippage-modeling, position-sizing, risk-management) plus three reference documents under references/.",
+      "category": "quant",
+      "dependenciesEn": [
+        "Python 3 (scripts/evaluate_wallet.py, scripts/monitor_wallet.py)",
+        "Solana data channel: Yellowstone gRPC / Helius Enhanced WebSocket / RPC polling (keys must be self-provisioned)",
+        "SolanaTracker and Birdeye APIs",
+        "Jupiter aggregator (jupiter-api / jupiter-swap skills)",
+        "Companion repository skills: wallet-profiling, sybil-detection, token-holder-analysis, liquidity-analysis, slippage-modeling, position-sizing, risk-management",
+        "Reference documents: references/wallet_discovery.md, references/execution_strategy.md, references/risk_framework.md"
+      ],
+      "exampleEn": "Example: run scripts/evaluate_wallet.py on any publicly listed Solana wallet address from community leaderboards to get a 0-100 copy_score and rating; if the score is >=80 and the token passes liquidity-depth, holder-concentration and honeypot checks, size the position by fixed amount (e.g., 0.5 SOL), proportional, or confidence-scaled method, execute via Jupiter with a set slippage tolerance, record source-wallet attribution, and apply the stop-loss and daily/weekly circuit-breaker limits.",
+      "evidenceQuotes": [
+        "Wallet evaluation, monitoring, and copy-trade strategy design for Solana DEX trading. Identify profitable wallets on-chain, evaluate whether their edge is real and replicable",
+        "The core tradeoff: Solana provides perfect transparency but introduces execution risk. The wallet you copy got a price that no longer exists by the time you trade."
+      ],
+      "tags": [
+        "跟单",
+        "Solana",
+        "链上数据",
+        "钱包评估",
+        "量化评分",
+        "风险管理",
+        "DEX交易"
+      ],
+      "tagsEn": [
+        "copy-trading",
+        "Solana",
+        "on-chain data",
+        "wallet evaluation",
+        "quantitative scoring",
+        "risk management",
+        "DEX trading"
+      ],
+      "dependencies": [
+        "Python 3（scripts/evaluate_wallet.py、scripts/monitor_wallet.py）",
+        "Solana数据通道：Yellowstone gRPC / Helius Enhanced WebSocket / RPC轮询（密钥需自备）",
+        "SolanaTracker与Birdeye API",
+        "Jupiter聚合器（jupiter-api / jupiter-swap技能）",
+        "仓库配套技能：wallet-profiling、sybil-detection、token-holder-analysis、liquidity-analysis、slippage-modeling、position-sizing、risk-management",
+        "参考文档：references/wallet_discovery.md、references/execution_strategy.md、references/risk_framework.md"
+      ],
+      "outputsEn": [
+        "Wallet copy_score composite rating (0-100) with Excellent/Good/Marginal/Poor rating and action recommendation",
+        "Copy-trade candidate list that passed evaluation and filtering",
+        "Copy-trade signals: token address, buy/sell direction, and position size via fixed/proportional/confidence-scaled methods",
+        "Independent risk-limit table: 10-20% per-wallet allocation, 3-5 concurrent positions, -15% to -25% per-trade stop loss, -5% daily / -10% weekly loss circuit breakers",
+        "Copy-trade records with source-wallet attribution"
+      ],
+      "notes": "本条目经来源核对、未经验证执行：评分公式与阈值摘自仓库文件，API连通性、延迟与成交结果未验证。数据缺口需明示：比例法仓位需估计被跟单钱包总组合，文件承认估算可能不精确；日成交量约5万美元的微量代币无法按规模复制（自设仓位占其日成交量10%即自伤价格）；MEV与三明治攻击使执行价格必然劣于被跟单钱包；机器人延迟优势无法匹配。盈利无任何保证，文件本身强调幸存者偏差与独立性风控。API密钥（RPC/gRPC、Helius、Birdeye、Jupiter）需自行配置，访问失败时监控与执行受限——数据或接口不可得不等同于无风险。",
+      "outputs": [
+        "钱包copy_score综合评分（0-100）及Excellent/Good/Marginal/Poor评级与行动建议",
+        "通过评估与过滤的跟单候选名单",
+        "跟单交易信号：代币地址、买卖方向、固定/比例/信心缩放后的仓位大小",
+        "独立风控限额表：单钱包配置10-20%、并发仓位3-5个、单笔止损-15%至-25%、日-5%/周-10%亏损熔断",
+        "带来源钱包归因的跟单交易记录"
+      ],
+      "example": "输入示例：以社区排行榜上公开的任一Solana钱包地址调用scripts/evaluate_wallet.py，输出0-100的copy_score与评级；若得分≥80且通过流动性深度、持有人集中度与蜜罐检查，则按固定金额（如0.5 SOL）、比例法或信心缩放法确定仓位，经Jupiter以设定滑点执行，并记录来源钱包归因；同时按限额表设置止损与日/周熔断。",
+      "name": "Solana链上跟单与钱包评估",
+      "notesEn": "Source-checked but execution-unverified: the scoring formula and thresholds are quoted from the repository file; API connectivity, latency, and fill outcomes are unverified. Explicit data gaps: proportional sizing requires estimating the copied wallet's total portfolio, which the file itself admits can be imprecise; micro-cap tokens with roughly $50K daily volume cannot be copied at scale (a trade at 10% of daily volume moves the price against you); MEV and sandwich attacks mean your fill is worse than the copied wallet's price; bot latency advantages cannot be matched. No profit is guaranteed; the file itself stresses survivorship bias and independent risk exits. API keys (RPC/gRPC, Helius, Birdeye, Jupiter) must be provisioned by the user; when access fails, monitoring and execution are limited — unavailable feeds are not equivalent to absence of risk.",
+      "summaryEn": "An on-chain copy-trading research and execution framework for Solana DEXs: discover profitable wallets, verify whether their edge is real and replicable via quantitative thresholds and a 0-100 composite score, monitor their trades in real time, and execute proportionally sized copies under independent stop-loss and portfolio-level risk controls.",
+      "environment": "Python 3运行scripts/evaluate_wallet.py与scripts/monitor_wallet.py；需Solana数据通道（Yellowstone gRPC、Helius Enhanced WebSocket或RPC轮询getSignaturesForAddress）、SolanaTracker与Birdeye API密钥、Jupiter聚合器接口；依赖仓库配套技能（wallet-profiling、sybil-detection、token-holder-analysis、liquidity-analysis、slippage-modeling、position-sizing、risk-management）及references/目录下三份参考文档。",
+      "nameEn": "Solana On-Chain Copy Trading and Wallet Evaluation",
+      "inputsEn": [
+        "Solana wallet addresses of copy-trade candidates",
+        "Wallet trade history and PnL data (SolanaTracker /top-traders/{token}, Birdeye trader rankings)",
+        "Token safety and liquidity data (liquidity depth, holder concentration, contract verification, honeypot risk)",
+        "Real-time transaction streams (Yellowstone gRPC, Helius WebSocket, or RPC polling)",
+        "Own portfolio size and risk parameters (stop loss, daily/weekly loss limits, per-wallet allocation cap)"
+      ],
+      "method": "六阶段流程：（1）发现——经SolanaTracker Top Traders、Birdeye交易者排行榜等来源找候选钱包；（2）评估——最低门槛：30天交易数≥50、胜率≥55%、盈亏比≥1.5、7天内活跃、交易≥10个代币、单笔PnL占比<40%、机器人概率<30%；（3）过滤——滚动7日胜率一致性、风格与仓位规模兼容性、女巫/洗交易检测；（4）监控——Yellowstone gRPC（亚秒级）、Helius WebSocket或RPC每5-10秒轮询；（5）执行——解析交易、校验代币流动性与蜜罐风险、按自有组合比例下单、经Jupiter聚合执行并记录来源归因；（6）风控——单钱包配置10-20%、并发跟单仓位3-5个、单笔止损-15%至-25%、日亏损-5%/周亏损-10%熔断。综合评分：copy_score为交易数(15%)、胜率(20%)、盈亏比(25%)、一致性(20%)、近期活跃(10%)、人类概率(10%)的加权和，80以上为优秀候选、39以下不跟单。仓位可选固定金额、比例法或信心缩放法。",
+      "id": "skill-f61b9496690f490c",
+      "author": "agiprolabs",
+      "originalName": "copy-trading",
+      "repository": "https://github.com/agiprolabs/claude-trading-skills",
+      "commit": "981e1d736cdc02bdc1c55c74ec9224e956414706",
+      "sourcePath": "skills/copy-trading/SKILL.md",
+      "sourceUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/skills/copy-trading/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/LICENSE.md",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "methodEn": "Compute returns from prices first (the file explicitly forbids computing correlation on prices); calculate pairwise Pearson/Spearman/Kendall correlations; track relationship evolution with 20/60/120-day rolling correlations and EWMA correlation; run eigenvalue decomposition on the multi-asset correlation matrix, using the first eigenvalue's variance share to gauge market-factor dominance; convert the correlation matrix to a distance and apply Ward hierarchical clustering to form asset clusters; estimate lower tail dependence via conditional quantile probability (how often assets fall together in extremes); z-score standardize rolling correlations and flag regime shifts at |z|>2; optionally solve minimum-variance weights from the inverse covariance matrix.",
+      "inputs": [
+        "多资产（如 BTC、ETH、SOL、AVAX）的日度价格序列，需转换为收益率",
+        "滚动窗口参数（20/60/120 日）与 EWMA span",
+        "尾部相依分位数（默认 0.05）与制度检测 z-score 阈值"
+      ],
+      "summary": "面向多资产（以加密市场为主）的跨资产相关性研究技能：基于收益率序列计算 Pearson、Spearman、Kendall 相关性，滚动与 EWMA 相关性，相关矩阵特征分解、层次聚类、尾部相依性与相关性制度转换检测，用于分散化评估、风险管理、配对交易信号与组合构建。",
+      "environmentEn": "Python with pandas (series/DataFrame operations), numpy (eigendecomposition, matrix inversion) and scipy (hierarchical clustering and distance transforms); the repository ships correlation_matrix.py and rolling_correlation.py plus references/methodology.md and references/portfolio_applications.md (their contents are not included in this source file).",
+      "category": "quant",
+      "dependenciesEn": [
+        "Python",
+        "pandas",
+        "numpy",
+        "scipy"
+      ],
+      "exampleEn": "Given public daily price series for BTC, ETH, SOL and AVAX, convert to returns and build the correlation matrix: compare Spearman vs Pearson (Spearman is more robust for heavy-tailed crypto returns); use the 60-day rolling correlation plus z-score to detect correlation breaks; after eigendecomposition, if the first eigenvalue explains more than 60% of variance the market factor dominates and diversification is limited; after clustering, pick one asset per cluster to build a diversified portfolio, and estimate 5%-quantile lower tail dependence to test whether assets crash together.",
+      "evidenceQuotes": [
+        "Cross-asset correlation analysis for diversification assessment, risk management, pairs trading signal generation, and portfolio construction.",
+        "Tail dependence measures how often assets experience extreme returns simultaneously."
+      ],
+      "tags": [
+        "相关性分析",
+        "量化研究",
+        "投资组合构建",
+        "风险管理",
+        "配对交易",
+        "加密资产"
+      ],
+      "tagsEn": [
+        "correlation-analysis",
+        "quant-research",
+        "portfolio-construction",
+        "risk-management",
+        "pairs-trading",
+        "crypto"
+      ],
+      "dependencies": [
+        "Python",
+        "pandas",
+        "numpy",
+        "scipy"
+      ],
+      "outputsEn": [
+        "Pairwise and multi-asset correlation matrices (Pearson/Spearman/Kendall)",
+        "Rolling and EWMA correlation time series with regime-shift flags",
+        "Eigenvalue decomposition results (market-factor variance share), hierarchical cluster assignments, lower-tail dependence coefficients, minimum-variance portfolio weights"
+      ],
+      "notes": "该技能来自 agiprolabs/claude-trading-skills 仓库，属仓库作者编写的分析框架，并非任何机构或投资者的官方认证技能。内容面向加密资产市场，其相关区间（如 BTC/ETH 0.7-0.9）与制度阈值（如 |z|>2）为作者经验性启发参数，需以实际数据验证；文件同时提示尾部相依通常高于常态相关、分散化在暴跌时失效。所列与其他技能（risk-management、portfolio-analytics、regime-detection、cointegration-analysis、position-sizing）的集成及 scripts/references 文件内容未在本来源中出现，属未核验缺口。本条目仅经来源核对、未经执行验证；文件未指定行情数据源，输入数据须用户自备，且不构成任何收益保证。",
+      "outputs": [
+        "成对及多资产相关矩阵（Pearson/Spearman/Kendall）",
+        "滚动与 EWMA 相关性时间序列及制度转换标记",
+        "特征值分解结果（市场因子方差占比）、层次聚类簇划分、下尾相依系数、最小方差组合权重"
+      ],
+      "example": "输入 BTC、ETH、SOL、AVAX 的公开日度价格序列，转成收益率后构建相关矩阵：对比 Spearman 与 Pearson（加密收益厚尾时 Spearman 更稳健）；用 60 日滚动相关加 z-score 检测相关性突变；特征分解后若第一特征值方差占比超过 60%，说明市场因子主导、分散化空间有限；聚类后每簇选一个资产构建分散化组合，并以 5% 分位估计下尾相依性检验危机时资产是否同跌。",
+      "name": "跨资产相关性分析",
+      "notesEn": "Sourced from the agiprolabs/claude-trading-skills repository; this is a repository-author analytical framework, not an officially endorsed skill of any firm or investor. Content targets crypto markets, and its correlation ranges (e.g., BTC/ETH 0.7-0.9) and regime thresholds (e.g., |z|>2) are author heuristics that must be validated on real data; the file itself notes tail dependence typically exceeds normal correlation and diversification fails in crashes. The listed integrations with other skills (risk-management, portfolio-analytics, regime-detection, cointegration-analysis, position-sizing) and the contents of the referenced scripts/references files do not appear in this source, an unverified gap. This entry is source-checked but execution-unverified; the file specifies no market-data provider, so input data must be supplied by the user, and nothing here constitutes a profit guarantee.",
+      "summaryEn": "A cross-asset correlation research skill (crypto-market oriented): computes Pearson, Spearman and Kendall correlations on return series, rolling and EWMA correlations, correlation-matrix eigenvalue decomposition, hierarchical clustering, tail dependence and correlation regime-shift detection, for diversification assessment, risk management, pairs trading signals and portfolio construction.",
+      "environment": "Python，依赖 pandas（序列与 DataFrame 运算）、numpy（特征分解、矩阵求逆）、scipy（层次聚类与距离变换）；仓库附 correlation_matrix.py 与 rolling_correlation.py 两个脚本及 references/methodology.md、references/portfolio_applications.md 参考文档（本次来源文件未包含其内容）。",
+      "nameEn": "Cross-Asset Correlation Analysis",
+      "inputsEn": [
+        "Daily price series for multiple assets (e.g., BTC, ETH, SOL, AVAX), to be converted to returns",
+        "Rolling window parameters (20/60/120 days) and EWMA span",
+        "Tail-dependence quantile (default 0.05) and regime-detection z-score threshold"
+      ],
+      "method": "先从价格计算收益率（文件明确要求不得直接对价格求相关）；对成对资产计算 Pearson/Spearman/Kendall 相关；以 20/60/120 日窗口滚动相关与 EWMA 相关追踪关系演化；对多资产相关矩阵做特征值分解，以第一特征值方差占比识别市场因子主导程度；将相关矩阵转换为距离后用 Ward 层次聚类划分资产簇；用分位数条件概率估计下尾相依性（衡量资产同时极端下跌的频率）；对滚动相关做 z-score 标准化并按 |z|>2 标记制度转换；可由协方差矩阵逆求解最小方差组合权重。",
+      "id": "skill-687d230d311773f5",
+      "author": "agiprolabs",
+      "originalName": "correlation-analysis",
+      "repository": "https://github.com/agiprolabs/claude-trading-skills",
+      "commit": "981e1d736cdc02bdc1c55c74ec9224e956414706",
+      "sourcePath": "skills/correlation-analysis/SKILL.md",
+      "sourceUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/skills/correlation-analysis/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/LICENSE.md",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "methodEn": "Register each buy as a separate lot; on sells, consume lots per the elected method and compute realized gain: FIFO oldest-first, LIFO newest-first, HIFO highest-cost-first, Specific ID by user-chosen lot IDs, average cost via a portfolio-wide weighted average with proportional reduction of all lots. Airdrops and staking rewards are income at FMV on receipt and open new lots; splits/migrations scale quantity and per-unit cost keeping total basis constant; LP entry/exit is modeled as disposal of component tokens; each hop of a multi-hop swap is a separate taxable event. A five-method comparison table is produced at the end.",
+      "inputs": [
+        "交易历史CSV或dict列表，列为 date, action, token, quantity, price_usd, fee_usd",
+        "各事件发生时的公允价值（空投、质押奖励、LP进出、多跳兑换各步骤）",
+        "用户选定的税率（用于估算税负）"
+      ],
+      "summary": "多方法成本基础核算：FIFO、LIFO、HIFO、指定批次与加权平均成本，处理部分卖出、空投、质押奖励、代币拆分/迁移、LP进出与多跳兑换，并将同一交易历史跑过五种方法，对比总已实现收益与估算税负。",
+      "environmentEn": "Python 3.10+; standard library only, no external dependencies. User must supply their own trade history data (CSV or a list of dicts).",
+      "category": "portfolio",
+      "dependenciesEn": [
+        "Python 3.10+",
+        "Repository script scripts/cost_basis_calculator.py",
+        "Self-provided local trade history data"
+      ],
+      "exampleEn": "Three buys (100 @ $1.00, 50 @ $2.00, 75 @ $1.50) followed by a sell of 120 @ $3.00: FIFO realizes $220, LIFO $157.50, HIFO $155, average cost $193.33; the example applies a 30% rate to show estimated tax per method, with HIFO lowest in this illustration. Example inputs are public, synthetic, and non-sensitive.",
+      "evidenceQuotes": [
+        "Compute cost basis for crypto trades using multiple accounting methods and compare the resulting tax liability across methods.",
+        "run the same trade history through all five methods and compare total realized gain and estimated tax liability"
+      ],
+      "tags": [
+        "成本基础",
+        "税务核算",
+        "加密资产",
+        "FIFO",
+        "投资组合记账"
+      ],
+      "tagsEn": [
+        "cost basis",
+        "tax accounting",
+        "crypto assets",
+        "FIFO",
+        "portfolio accounting"
+      ],
+      "dependencies": [
+        "Python 3.10+",
+        "仓库内脚本 scripts/cost_basis_calculator.py",
+        "自备的本地交易历史数据"
+      ],
+      "outputsEn": [
+        "Per-lot realized gain detail for each method",
+        "Five-method comparison table: total realized gain and estimated tax at the chosen rate",
+        "Remaining lot quantities and weighted-average cost after sells"
+      ],
+      "notes": "本条目已来源核查、未执行验证：方法与算例均取自仓库文档，未经实际运行复核。工具仅供信息参考，不构成税务、法律或投资建议；税法因辖区而异且变化频繁，需咨询合格税务专业人士。引擎不获取行情：空投、质押奖励、LP进出及兑换各步骤的公允价值与费率须由用户提供；Specific ID要求批次可唯一标识且记录完整；示例中30%税率仅为演示，实际税负取决于用户辖区与个人情形；缺少完整交易历史或收到日公允价值时无法准确核算，此为明确数据缺口而非可默认状态。",
+      "outputs": [
+        "每种方法的逐批次已实现损益明细",
+        "五方法对比表：总已实现收益与按所选税率的估算税负",
+        "卖出后剩余批次数量与加权平均成本状态"
+      ],
+      "example": "三笔买入(100@1.00、50@2.00、75@1.50)后卖出120@3.00：FIFO已实现收益$220、LIFO $157.50、HIFO $155、平均成本$193.33；示例按30%税率列出各方法估算税负，本例中HIFO税负最低。示例数据为公开、合成的非敏感输入。",
+      "name": "加密资产成本基础计算引擎",
+      "notesEn": "Source-checked, execution-unverified: methods and worked examples come from the repository document and have not been independently run. Informational only — not tax, legal, or financial advice; tax law varies by jurisdiction and changes frequently, consult a qualified tax professional. The engine does not fetch market prices: FMV at receipt for airdrops/staking and prices/fees at each LP or swap step must be supplied by the user; Specific ID requires uniquely identifiable lots and meticulous record-keeping; the 30% rate in examples is illustrative only, and actual liability depends on the user's jurisdiction and circumstances. Without a complete trade history or receipt-date FMV, accurate computation is impossible — this remains an explicit data gap, not a default state.",
+      "summaryEn": "Multi-method cost basis accounting — FIFO, LIFO, HIFO, specific identification, and weighted-average cost — handling partial sells, airdrops, staking rewards, token splits/migrations, LP entry/exit, and multi-hop swaps, running the same trade history through all five methods to compare realized gain and estimated tax.",
+      "environment": "Python 3.10+，仅标准库、无外部依赖；需用户自备交易历史数据(CSV或dict列表)。",
+      "nameEn": "Cost Basis Engine",
+      "inputsEn": [
+        "Trade history as CSV or a list of dicts with columns date, action, token, quantity, price_usd, fee_usd",
+        "Fair market value at each event (airdrops, staking rewards, LP entry/exit, each swap hop)",
+        "User-selected tax rate for estimated liability"
+      ],
+      "method": "将每笔买入登记为独立批次(lot)；卖出时按所选方法逐批消耗并计算已实现损益：FIFO消耗最早批次、LIFO消耗最新批次、HIFO消耗最高成本批次、Specific ID按用户指定批次ID、平均成本按全仓加权平均并按比例缩减各批次。空投与质押奖励按收到日公允价值计收入并生成新批次；代币拆分/迁移按比例调整数量与单位成本、总基础不变；LP进入/退出建模为组件代币处置；多跳兑换每一步单独作为应税事件；最后输出五方法对比表。",
+      "id": "skill-47ed6cf571d27551",
+      "author": "agiprolabs",
+      "originalName": "cost-basis-engine",
+      "repository": "https://github.com/agiprolabs/claude-trading-skills",
+      "commit": "981e1d736cdc02bdc1c55c74ec9224e956414706",
+      "sourcePath": "skills/cost-basis-engine/SKILL.md",
+      "sourceUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/skills/cost-basis-engine/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/LICENSE.md",
+      "sourceVerified": true,
+      "executionVerified": false
     }
   ],
   "evidence": {
     "checks": {
-      "skills": 180,
+      "skills": 183,
       "repositories": 8,
       "executionTestsRun": 0
     },
@@ -13357,7 +13601,7 @@
     },
     {
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "af099ce32858b77e7693cdef5f0a532a9c562ebc",
+      "commit": "ec7f8793a19cba126d2ccb8cbd91b9c8838f766e",
       "license": "MIT",
       "licensePath": "LICENSE",
       "licenseFile": "/licenses/alphakit-LICENSE.txt",
@@ -13379,8 +13623,8 @@
           "file": "/licenses/alphakit-sellside-model-exhibits-LICENSE.txt"
         }
       ],
-      "archive": "Jeromelll--finskillhub-catalog--af099ce32858b77e7693cdef5f0a532a9c562ebc.zip",
-      "archiveSha256": "1863cdf8564141aaa8897c38100c57b9ee85e69a43512fdaa7d883d34bed7b53",
+      "archive": "Jeromelll--finskillhub-catalog--ec7f8793a19cba126d2ccb8cbd91b9c8838f766e.zip",
+      "archiveSha256": "837f700b7c44fd2b53731b6e3b7d038a1cd0e67059240c7db85d624b3e471e8a",
       "description": "FinSkillHub 的三项原创金融研究技能，涵盖增量测算、模型展示表和股票初步研究；案例使用原创合成数据。",
       "descriptionEn": "FinSkillHub original finance research skills for incremental sizing, model exhibits and initial stock research, with original synthetic examples."
     },
