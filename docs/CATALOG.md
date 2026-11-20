@@ -2,7 +2,7 @@
 
 Generated from the public website catalog at `https://finskillhub.com/data/catalog.json`.
 
-183 skills · 8 source repositories · 2026-11-19
+186 skills · 8 source repositories · 2026-11-20
 
 Catalog inclusion records source and license review. Execution in a host environment is not implied.
 
@@ -24,8 +24,8 @@ Catalog inclusion records source and license review. Execution in a host environ
 | [论点跟踪器](<https://github.com/anthropics/financial-services/blob/3e32c2287dcb637c184c01cc0ad82d6af7e9bb0f/plugins/vertical-plugins/equity-research/skills/thesis-tracker/SKILL.md>)<br>Thesis Tracker | [anthropics](<https://github.com/anthropics/financial-services>) | Apache-2.0 |
 | [竞争格局分析框架](<https://github.com/anthropics/financial-services/blob/3e32c2287dcb637c184c01cc0ad82d6af7e9bb0f/plugins/vertical-plugins/financial-analysis/skills/competitive-analysis/SKILL.md>)<br>Competitive Landscape Analysis Framework | [anthropics](<https://github.com/anthropics/financial-services>) | Apache-2.0 |
 | [IB 演示文稿质检](<https://github.com/anthropics/financial-services/blob/3e32c2287dcb637c184c01cc0ad82d6af7e9bb0f/plugins/vertical-plugins/financial-analysis/skills/ib-check-deck/SKILL.md>)<br>IB Deck Checker | [anthropics](<https://github.com/anthropics/financial-services>) | Apache-2.0 |
-| [增量业务收入与利润测算](<https://github.com/Jeromelll/finskillhub-catalog/blob/ec7f8793a19cba126d2ccb8cbd91b9c8838f766e/skills/incremental-business-sizing/SKILL.md>)<br>Incremental business revenue and profit sizing | [Jeromelll](<https://github.com/Jeromelll/finskillhub-catalog>) | MIT |
-| [新股票快速初步研究](<https://github.com/Jeromelll/finskillhub-catalog/blob/ec7f8793a19cba126d2ccb8cbd91b9c8838f766e/skills/pre-trade-quick-brief/SKILL.md>)<br>Quick initial research for a new stock | [Jeromelll](<https://github.com/Jeromelll/finskillhub-catalog>) | MIT |
+| [增量业务收入与利润测算](<https://github.com/Jeromelll/finskillhub-catalog/blob/d60a9071c752f3cd1ba05aebf8617a133ca009e5/skills/incremental-business-sizing/SKILL.md>)<br>Incremental business revenue and profit sizing | [Jeromelll](<https://github.com/Jeromelll/finskillhub-catalog>) | MIT |
+| [新股票快速初步研究](<https://github.com/Jeromelll/finskillhub-catalog/blob/d60a9071c752f3cd1ba05aebf8617a133ca009e5/skills/pre-trade-quick-brief/SKILL.md>)<br>Quick initial research for a new stock | [Jeromelll](<https://github.com/Jeromelll/finskillhub-catalog>) | MIT |
 | [Discord 只读金融社群研读](<https://github.com/himself65/finance-skills/blob/a0850786e72aa23b92862f9f1635b0de506fe206/plugins/social-readers/skills/discord-reader/SKILL.md>)<br>Discord Read-Only Financial Community Reader | [himself65](<https://github.com/himself65/finance-skills>) | MIT |
 | [LinkedIn只读金融研究阅读](<https://github.com/himself65/finance-skills/blob/a0850786e72aa23b92862f9f1635b0de506fe206/plugins/social-readers/skills/linkedin-reader/SKILL.md>)<br>LinkedIn Read-Only Financial Research | [himself65](<https://github.com/himself65/finance-skills>) | MIT |
 | [ESG与负责任投资筛选器](<https://github.com/Geeksfino/finskills/blob/8722415a68db3250516a8c6f9632da29c1554bf1/China-market/esg-screener/SKILL.md>)<br>ESG & Responsible Investment Screener | [Geeksfino](<https://github.com/Geeksfino/finskills>) | Apache-2.0 |
@@ -160,12 +160,13 @@ Catalog inclusion records source and license review. Execution in a host environ
 | [基金账户余额期间滚动](<https://github.com/anthropics/financial-services/blob/3e32c2287dcb637c184c01cc0ad82d6af7e9bb0f/plugins/vertical-plugins/fund-admin/skills/roll-forward/SKILL.md>)<br>Balance-Sheet Account Roll-Forward | [Anthropic](<https://github.com/anthropics/financial-services>) | Apache-2.0 |
 | [预算与实际差异说明](<https://github.com/anthropics/financial-services/blob/3e32c2287dcb637c184c01cc0ad82d6af7e9bb0f/plugins/vertical-plugins/fund-admin/skills/variance-commentary/SKILL.md>)<br>Financial-Statement Flux Commentary | [Anthropic](<https://github.com/anthropics/financial-services>) | Apache-2.0 |
 | [电子表格与财务模型审计](<https://github.com/anthropics/financial-services/blob/3e32c2287dcb637c184c01cc0ad82d6af7e9bb0f/plugins/vertical-plugins/financial-analysis/skills/audit-xls/SKILL.md>)<br>Spreadsheet & Financial Model Audit | [anthropics](<https://github.com/anthropics/financial-services>) | Apache-2.0 |
-| [测算表与敏感性矩阵](<https://github.com/Jeromelll/finskillhub-catalog/blob/ec7f8793a19cba126d2ccb8cbd91b9c8838f766e/skills/sellside-model-exhibits/SKILL.md>)<br>Financial model exhibits and sensitivity tables | [Jeromelll](<https://github.com/Jeromelll/finskillhub-catalog>) | MIT |
+| [测算表与敏感性矩阵](<https://github.com/Jeromelll/finskillhub-catalog/blob/d60a9071c752f3cd1ba05aebf8617a133ca009e5/skills/sellside-model-exhibits/SKILL.md>)<br>Financial model exhibits and sensitivity tables | [Jeromelll](<https://github.com/Jeromelll/finskillhub-catalog>) | MIT |
 | [KYC 开户文件结构化解析](<https://github.com/anthropics/financial-services/blob/3e32c2287dcb637c184c01cc0ad82d6af7e9bb0f/plugins/vertical-plugins/operations/skills/kyc-doc-parse/SKILL.md>)<br>KYC Onboarding Document Parsing | [anthropics](<https://github.com/anthropics/financial-services>) | Apache-2.0 |
 | [KYC规则网格评分与处置路由](<https://github.com/anthropics/financial-services/blob/3e32c2287dcb637c184c01cc0ad82d6af7e9bb0f/plugins/vertical-plugins/operations/skills/kyc-rules/SKILL.md>)<br>KYC Rules Grid Scoring & Disposition Routing | [anthropics](<https://github.com/anthropics/financial-services>) | Apache-2.0 |
 | [并购后价值创造计划](<https://github.com/anthropics/financial-services/blob/3e32c2287dcb637c184c01cc0ad82d6af7e9bb0f/plugins/vertical-plugins/private-equity/skills/value-creation-plan/SKILL.md>)<br>Post-Acquisition Value Creation Plan | [anthropics](<https://github.com/anthropics/financial-services>) | Apache-2.0 |
 | [投资适当性报告生成器](<https://github.com/Geeksfino/finskills/blob/8722415a68db3250516a8c6f9632da29c1554bf1/China-market/suitability-report-generator/SKILL.md>)<br>Investment Suitability Report Generator | [Geeksfino](<https://github.com/Geeksfino/finskills>) | Apache-2.0 |
 | [适当性报告生成器](<https://github.com/Geeksfino/finskills/blob/8722415a68db3250516a8c6f9632da29c1554bf1/US-market/suitability-report-generator/SKILL.md>)<br>Suitability Report Generator | [Geeksfino](<https://github.com/Geeksfino/finskills>) | Apache-2.0 |
+| [加密货币税务导出](<https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/skills/crypto-tax-export/SKILL.md>)<br>Crypto Tax Export | [agiprolabs](<https://github.com/agiprolabs/claude-trading-skills>) | MIT |
 
 ## Financial data / 金融数据
 
@@ -183,6 +184,7 @@ Catalog inclusion records source and license review. Execution in a host environ
 | [美股金融数据工具包](<https://github.com/Geeksfino/finskills/blob/8722415a68db3250516a8c6f9632da29c1554bf1/US-market/findata-toolkit/SKILL.md>)<br>US Market Financial Data Toolkit | [Geeksfino](<https://github.com/Geeksfino/finskills>) | Apache-2.0 |
 | [Birdeye Solana 链上市场数据接口](<https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/skills/birdeye-api/SKILL.md>)<br>Birdeye Solana On-chain Market Data API | [agiprolabs](<https://github.com/agiprolabs/claude-trading-skills>) | MIT |
 | [CoinGecko 加密市场数据接口](<https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/skills/coingecko-api/SKILL.md>)<br>CoinGecko Crypto Market Data API | [agiprolabs](<https://github.com/agiprolabs/claude-trading-skills>) | MIT |
+| [DeFiLlama API 链上数据分析](<https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/skills/defillama-api/SKILL.md>)<br>DeFiLlama API On-Chain Data Analytics | [agiprolabs](<https://github.com/agiprolabs/claude-trading-skills>) | MIT |
 
 ## Macro & markets / 宏观与市场
 
@@ -232,6 +234,7 @@ Catalog inclusion records source and license review. Execution in a host environ
 | [协整分析与配对交易检验](<https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/skills/cointegration-analysis/SKILL.md>)<br>Cointegration Analysis for Pairs Trading | [agiprolabs](<https://github.com/agiprolabs/claude-trading-skills>) | MIT |
 | [Solana链上跟单与钱包评估](<https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/skills/copy-trading/SKILL.md>)<br>Solana On-Chain Copy Trading and Wallet Evaluation | [agiprolabs](<https://github.com/agiprolabs/claude-trading-skills>) | MIT |
 | [跨资产相关性分析](<https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/skills/correlation-analysis/SKILL.md>)<br>Cross-Asset Correlation Analysis | [agiprolabs](<https://github.com/agiprolabs/claude-trading-skills>) | MIT |
+| [自定义加密指标](<https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/skills/custom-indicators/SKILL.md>)<br>Custom Crypto Indicators | [agiprolabs](<https://github.com/agiprolabs/claude-trading-skills>) | MIT |
 
 ## Fixed income / 固收与信用
 

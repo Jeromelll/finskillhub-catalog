@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-20",
   "skills": [
     {
       "id": "equity-earnings-update",
@@ -5635,9 +5635,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "ec7f8793a19cba126d2ccb8cbd91b9c8838f766e",
+      "commit": "d60a9071c752f3cd1ba05aebf8617a133ca009e5",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/ec7f8793a19cba126d2ccb8cbd91b9c8838f766e/skills/incremental-business-sizing/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d60a9071c752f3cd1ba05aebf8617a133ca009e5/skills/incremental-business-sizing/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "incremental-business-sizing",
@@ -5646,7 +5646,7 @@
       "nameEn": "Incremental business revenue and profit sizing",
       "category": "research",
       "sourcePath": "skills/incremental-business-sizing/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/ec7f8793a19cba126d2ccb8cbd91b9c8838f766e/skills/incremental-business-sizing/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d60a9071c752f3cd1ba05aebf8617a133ca009e5/skills/incremental-business-sizing/SKILL.md",
       "summary": "把产能、用户行为、订阅或交易额拆成可复算的收入、利润与 EPS 驱动链，保留缺失参数并用同一模型制作情景和敏感性分析。",
       "summaryEn": "Builds reproducible revenue, profit and EPS drivers from capacity, user activity, subscriptions or transaction volume. Preserves missing inputs and uses one model for scenarios and sensitivities.",
       "method": "先界定收费对象、资源和时间约束，为参数标明单位、期间及来源，再按依赖图计算各情景；两个敏感性轴替换同一模型中的指定输入。",
@@ -5705,9 +5705,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "ec7f8793a19cba126d2ccb8cbd91b9c8838f766e",
+      "commit": "d60a9071c752f3cd1ba05aebf8617a133ca009e5",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/ec7f8793a19cba126d2ccb8cbd91b9c8838f766e/skills/sellside-model-exhibits/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d60a9071c752f3cd1ba05aebf8617a133ca009e5/skills/sellside-model-exhibits/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "sellside-model-exhibits",
@@ -5716,7 +5716,7 @@
       "nameEn": "Financial model exhibits and sensitivity tables",
       "category": "operations",
       "sourcePath": "skills/sellside-model-exhibits/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/ec7f8793a19cba126d2ccb8cbd91b9c8838f766e/skills/sellside-model-exhibits/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d60a9071c752f3cd1ba05aebf8617a133ca009e5/skills/sellside-model-exhibits/SKILL.md",
       "summary": "把同一份已完成测算制作成计算桥、情景表和敏感性矩阵，保留单位、年份、来源和未知值，输出文档、图片与公式工作簿。",
       "summaryEn": "Turns one completed model result into a calculation bridge, scenario table and sensitivity matrices. Retains units, periods, sources and unknown values, and exports documents, images and formula workbooks.",
       "method": "读取版本化计算结果，根据角色、表达式和状态排版；各格式共享同一数值来源，公式仅绑定到同一情景中的有效输入。",
@@ -5777,9 +5777,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "ec7f8793a19cba126d2ccb8cbd91b9c8838f766e",
+      "commit": "d60a9071c752f3cd1ba05aebf8617a133ca009e5",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/ec7f8793a19cba126d2ccb8cbd91b9c8838f766e/skills/pre-trade-quick-brief/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d60a9071c752f3cd1ba05aebf8617a133ca009e5/skills/pre-trade-quick-brief/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "pre-trade-quick-brief",
@@ -5788,7 +5788,7 @@
       "nameEn": "Quick initial research for a new stock",
       "category": "research",
       "sourcePath": "skills/pre-trade-quick-brief/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/ec7f8793a19cba126d2ccb8cbd91b9c8838f766e/skills/pre-trade-quick-brief/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d60a9071c752f3cd1ba05aebf8617a133ca009e5/skills/pre-trade-quick-brief/SKILL.md",
       "summary": "先解释市场叙事与新增经营变量，再拆出受约束的业绩上限、三个盈利时间窗、前瞻估值和下一验证点，保留资料缺口。",
       "summaryEn": "Explains the market narrative and new operating variables, then develops a constrained earnings ceiling, three earnings windows, forward valuation conditions and the next verification point while preserving evidence gaps.",
       "method": "冻结信息时点，建立旧预期到新参数的证据链，核对需求、供给、期间、成本及融资稀释，并把当前价值和远期条件终值分开。",
@@ -13370,11 +13370,295 @@
       "licenseUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/LICENSE.md",
       "sourceVerified": true,
       "executionVerified": false
+    },
+    {
+      "method": "先按交易类型分类：单跳 Jupiter 交换视为发送端处置加接收端取得；多跳路由仅计初始发送与最终接收；LP 存入按公允价值处置、取出按公允价值取得；质押奖励与空投按收到时公允价值计收入；1:1 代币迁移继承原成本基础与持有期；失败交易（状态失败或内部指令错误）不构成应税事件但仍需从导出中排除并记录手续费处理。随后按所选成本基础方法（FIFO 为 IRS 默认）匹配批次，损益 = proceeds − basis + adjustments 填入 Form 8949 第 (h) 列。对账环节以 tx_hash 匹配日志与链上交易，按相对容差（默认 0.001）核对金额，输出 matched、missing_onchain、missing_journal、mismatched 四类清单及汇总计数。",
+      "category": "operations",
+      "environmentEn": "Python 3.10+; trade history data (internal trade journal, on-chain history, or exchange exports); Solana RPC or Helius API access for on-chain reconciliation (sibling helius-api skill); historical price data for cost basis (birdeye-api or coingecko-api skills). Author agipro, MIT license, version 0.1.0. The file explicitly states it provides data formatting and calculation tools only, not tax advice; tax laws vary by jurisdiction and change frequently, so a qualified tax professional should be consulted.",
+      "notesEn": "This entry is source-checked against the repository file (format column specs, Solana classification rules and reconciliation logic appear in SKILL.md), but the actual contents of scripts/tax_exporter.py and references/planned_features.md were not supplied with this file and the scripts have not been executed, so results are execution-unverified. Reconciliation and cost basis lookups depend on external feeds (Helius, Birdeye, CoinGecko); if those feeds are unavailable, those steps lack inputs — an explicit data gap, not evidence of no taxable events or no risk. Tax characterizations (airdrop dominion timing, deductibility of failed-tx fees, jurisdictional acceptance of HIFO/specific identification) vary by jurisdiction, and the file itself disclaims tax advice. Demo data is public sample data with no sensitive account information.",
+      "name": "加密货币税务导出",
+      "exampleEn": "Run the public demo: python scripts/tax_exporter.py --demo, or call generate_demo_trades() in Python, then export_koinly_csv(trades, \"koinly_import.csv\") and export_form_8949_csv(trades, \"form_8949.csv\") to compare the two export formats. Year-end use case: export all journal trades, reconcile against on-chain history, generate Form 8949 line items, then hand to a CPA or import into TurboTax.",
+      "methodEn": "Classify first: a single-hop Jupiter swap is a disposal of the sent token and acquisition of the received token; multi-hop routes count only the initial send and final receive; LP deposits are treated as disposal at fair market value and withdrawals as acquisition; staking rewards and airdrops are income at FMV on receipt; 1:1 token migrations inherit the old cost basis and holding period; failed transactions (failed status or inner instruction errors) are not taxable events yet must still be excluded from exports with fee treatment recorded. Then match lots under the chosen cost basis method (FIFO is the IRS default) and fill Form 8949 column (h) as proceeds minus basis plus adjustments. Reconciliation matches journal entries to on-chain transactions by tx_hash, checks amounts within a relative tolerance (default 0.001), and returns matched, missing_onchain, missing_journal and mismatched lists with a summary count.",
+      "inputs": [
+        "交易历史数据（内部交易日志、链上历史或交易所导出，含 tx_hash 字段）",
+        "解析后的链上交易记录（经 Solana RPC 或 Helius 获取）",
+        "历史价格数据（用于成本基础与公允价值计算）",
+        "成本基础方法选择（FIFO/LIFO/HIFO/Spec ID）与对账容差参数"
+      ],
+      "outputsEn": [
+        "CSV export files compatible with Koinly, CoinTracker, CoinLedger, TokenTax, TurboTax/TaxAct",
+        "IRS Form 8949 Part I (short-term) and Part II (long-term) CSVs with columns (a)-(h) and checkbox codes",
+        "Reconciliation report: matched, missing_onchain, missing_journal and mismatched lists plus summary counts"
+      ],
+      "inputsEn": [
+        "Trade history data (internal trade journal, on-chain history, or exchange exports, with tx_hash field)",
+        "Parsed on-chain transactions (via Solana RPC or Helius)",
+        "Historical price data (for cost basis and fair market value)",
+        "Cost basis method choice (FIFO/LIFO/HIFO/specific identification) and reconciliation tolerance parameter"
+      ],
+      "nameEn": "Crypto Tax Export",
+      "notes": "本条目基于仓库文件内容做来源核对（各格式列规范、Solana 分类规则与对账逻辑均见于 SKILL.md），但 scripts/tax_exporter.py 与 references/planned_features.md 的实际内容未随本文件提供，脚本未运行，执行结果未经验证。对账与成本基础计算依赖外部数据源（Helius、Birdeye、CoinGecko）；若这些数据源不可访问，相关步骤缺少输入，属于明确的数据缺口，不能据此推断无应税事件或无风险。税务定性（如空投归属时点、失败交易手续费可扣性、HIFO/Spec ID 在辖区的可接受性）因辖区而异，文件本身已声明不构成税务建议。演示数据为公开样例，不涉及敏感账户信息。",
+      "dependenciesEn": [
+        "Python 3.10+",
+        "Solana RPC or Helius API (for reconciliation, see the helius-api skill)",
+        "Birdeye or CoinGecko historical price APIs (for cost basis)",
+        "Related repository skills: helius-api, birdeye-api, coingecko-api, solana-onchain, trade-journal",
+        "Repository script scripts/tax_exporter.py and reference file references/planned_features.md"
+      ],
+      "example": "用公开演示数据试跑：python scripts/tax_exporter.py --demo，或在 Python 中调用 generate_demo_trades() 生成样例交易，再执行 export_koinly_csv(trades, \"koinly_import.csv\") 与 export_form_8949_csv(trades, \"form_8949.csv\")，对比两种导出格式的列差异。年末场景：导出全部日志交易、与链上历史对账、生成 Form 8949 行项目后交给 CPA 或导入 TurboTax。",
+      "environment": "Python 3.10+；交易历史数据来源（内部交易日志、链上历史或交易所导出）；链上对账需 Solana RPC 或 Helius API 访问（依赖同库 helius-api 技能）；成本基础需历史价格数据（birdeye-api 或 coingecko-api 技能）。作者 agipro，MIT 许可，版本 0.1.0。文件明确声明仅提供数据格式化与计算工具、不构成税务建议，税法因辖区而异且频繁变化，需咨询合资格税务专业人士。",
+      "tagsEn": [
+        "crypto-tax",
+        "Solana",
+        "Form 8949",
+        "cost-basis",
+        "reconciliation",
+        "CSV-export",
+        "Koinly",
+        "tax-loss-harvesting"
+      ],
+      "tags": [
+        "加密税务",
+        "Solana",
+        "Form 8949",
+        "成本基础",
+        "交易对账",
+        "CSV导出",
+        "Koinly",
+        "税损收割审查"
+      ],
+      "dependencies": [
+        "Python 3.10+",
+        "Solana RPC 或 Helius API（对账用，见 helius-api 技能）",
+        "Birdeye 或 CoinGecko 历史价格 API（成本基础用）",
+        "同库相关技能：helius-api、birdeye-api、coingecko-api、solana-onchain、trade-journal",
+        "仓库内脚本 scripts/tax_exporter.py 与参考文件 references/planned_features.md"
+      ],
+      "summaryEn": "A tax data preparation workflow for Solana traders: classify trade journal and on-chain history into taxable and non-taxable events, compute gains under FIFO, LIFO, HIFO or specific identification cost basis, and export CSVs compatible with Koinly, CoinTracker, CoinLedger, TokenTax, TurboTax/TaxAct plus IRS Form 8949 Part I/II line items.",
+      "evidenceQuotes": [
+        "Export trade history and tax calculations for tax software and IRS filing.",
+        "This skill provides data formatting and calculation tools only. It does not constitute tax advice."
+      ],
+      "outputs": [
+        "Koinly、CoinTracker、CoinLedger、TokenTax、TurboTax/TaxAct 兼容的 CSV 导出文件",
+        "IRS Form 8949 Part I（短期）与 Part II（长期）CSV，含 (a)-(h) 列及勾选框代码",
+        "对账报告：matched、missing_onchain、missing_journal、mismatched 清单及汇总计数"
+      ],
+      "summary": "面向 Solana 交易者的税务数据整理流程：将交易日志与链上历史分类为应税/非应税事件，按 FIFO、LIFO、HIFO、指定批次等成本基础方法计算损益，并导出 Koinly、CoinTracker、CoinLedger、TokenTax、TurboTax/TaxAct 兼容 CSV 及 IRS Form 8949 第一/第二部分明细。",
+      "id": "skill-468d160ba147d99c",
+      "author": "agiprolabs",
+      "originalName": "crypto-tax-export",
+      "repository": "https://github.com/agiprolabs/claude-trading-skills",
+      "commit": "981e1d736cdc02bdc1c55c74ec9224e956414706",
+      "sourcePath": "skills/crypto-tax-export/SKILL.md",
+      "sourceUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/skills/crypto-tax-export/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/LICENSE.md",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "method": "按公式逐项计算九个指标：NVT=市值/日链上交易量（14或28日平滑为NVT Signal）；MVRV=市值/已实现市值；交易所净流量=充值-提现并按市值归一化；资金费率信号=多交易所成交量加权均值（±0.05%阈值）；未平仓合约动量与持有者动量/加速度按n日变化率计算；流动性评分=订单簿深度、价差与DEX池TVL三项加权（默认0.4/0.3/0.3）；聪明钱流比率=聪明钱包净买入/总成交量（±0.1阈值）；代币速度=日交易量/流通量。各指标给出多头/空头/中性标签，并通过复合评分、背离检测与市场状态调整综合解读。",
+      "category": "quant",
+      "environmentEn": "Python environment with httpx, pandas, and numpy (installed via uv pip); ships scripts/compute_crypto_indicators.py and scripts/holder_momentum.py that run against free APIs or demo data; data sources include CoinGecko, DeFiLlama, Glassnode, CryptoQuant, Binance, Bybit, dYdX, CoinGlass, Helius, Etherscan, Birdeye, and Nansen (some require API keys or paid subscriptions).",
+      "notesEn": "Source-checked but execution-unverified: formulas and thresholds come from the repository documentation; script runability and API availability have not been tested. Realized-cap MVRV depends on Glassnode/CryptoQuant (possibly paid); for non-UTXO tokens only a DEX average-entry approximation is available; smart money flow requires wallet-labeling data. When on-chain data feeds are unavailable or missing, the corresponding indicators cannot be computed — this is an explicit data gap and must not be read as no risk or no events. Signal thresholds are heuristic; the repository states the analysis is informational and educational only, not financial advice, with no profit guarantee.",
+      "name": "自定义加密指标",
+      "exampleEn": "Compute NVT from CoinGecko market cap and DeFiLlama on-chain daily volume, then take a 14-day average as NVT Signal: above 65 flags the network as overvalued relative to economic throughput (bearish), below 25 flags undervaluation or heavy real usage (bullish); cross-check with exchange netflow and funding-rate signals, e.g., a volume-weighted funding rate above 0.05% marks an overleveraged-long market and a contrarian bearish reading.",
+      "methodEn": "Compute nine indicators from their formulas: NVT = market cap / daily on-chain transaction volume (smoothed over 14 or 28 days as NVT Signal); MVRV = market cap / realized cap; exchange netflow = deposits minus withdrawals, normalized by market cap; funding rate signal as a volume-weighted cross-exchange average with ±0.05% thresholds; open-interest and holder momentum/acceleration as n-day rate-of-change; liquidity score as a weighted blend of order book depth, spread, and DEX pool TVL (default 0.4/0.3/0.3); smart money flow ratio = net smart-wallet buying / total volume (±0.1 thresholds); token velocity = daily volume / circulating supply. Each yields bullish/bearish/neutral labels, combined via composite scoring, divergence detection, and market-regime adjustments.",
+      "inputs": [
+        "标的市值（USD）",
+        "日链上交易量（USD）",
+        "已实现市值/持有人成本基准",
+        "交易所充值与提现流量",
+        "多交易所资金费率及成交量权重",
+        "未平仓合约时间序列",
+        "唯一持有者数量时间序列",
+        "订单簿深度、价差与DEX池TVL",
+        "聪明钱包买卖金额与总成交量",
+        "日交易量与流通供应量"
+      ],
+      "outputsEn": [
+        "Nine indicator values (NVT, MVRV, exchange netflow, funding rate, OI momentum, holder momentum and acceleration, liquidity score, SMF ratio, token velocity)",
+        "Bullish/bearish/neutral signal labels",
+        "Composite scores and divergence detection results",
+        "Interpretation guides and false-signal filtering reference"
+      ],
+      "inputsEn": [
+        "Market cap (USD)",
+        "Daily on-chain transaction volume (USD)",
+        "Realized cap / aggregate holder cost basis",
+        "Exchange deposit and withdrawal flows",
+        "Funding rates across exchanges with volume weights",
+        "Open interest time series",
+        "Unique holder count time series",
+        "Order book depth, bid-ask spread, and DEX pool TVL",
+        "Smart-wallet buy/sell amounts and total volume",
+        "Daily trading volume and circulating supply"
+      ],
+      "nameEn": "Custom Crypto Indicators",
+      "notes": "本条目为来源核查、执行未验证：公式与阈值来自仓库文档，脚本能否运行及各API可用性未实测。MVRV已实现市值依赖Glassnode/CryptoQuant（可能付费），非UTXO代币只能用DEX成交均价近似；聪明钱流需要钱包标签数据；链上数据源不可用或数据缺失时相应指标无法计算，这是明确的数据缺口，不能当作无风险或无事件。所有信号阈值为启发式经验值，仓库自述仅供信息与教育用途、不构成投资建议，也不保证盈利。",
+      "dependenciesEn": [
+        "Python (httpx, pandas, numpy)",
+        "CoinGecko / DeFiLlama APIs",
+        "Glassnode / CryptoQuant (possibly paid)",
+        "Binance / Bybit / dYdX derivatives APIs",
+        "CoinGlass",
+        "Helius / Solana RPC",
+        "Etherscan / Birdeye / Nansen (wallet labeling)"
+      ],
+      "example": "用CoinGecko市值与DeFiLlama链上日交易量计算NVT，取14日均值得到NVT Signal：高于65视为网络相对经济吞吐量高估（偏空），低于25视为低估或真实使用旺盛（偏多）；再叠加交易所净流量与资金费率信号做交叉验证，例如多交易所成交量加权资金费率高于0.05%时标记市场杠杆偏多、反向偏空。",
+      "environment": "Python环境，依赖httpx、pandas、numpy（uv pip install安装）；提供scripts/compute_crypto_indicators.py与scripts/holder_momentum.py，可接免费API或演示数据运行；数据来源包括CoinGecko、DeFiLlama、Glassnode、CryptoQuant、Binance、Bybit、dYdX、CoinGlass、Helius、Etherscan、Birdeye、Nansen（部分需API密钥或付费订阅）。",
+      "tagsEn": [
+        "crypto",
+        "on-chain analysis",
+        "NVT",
+        "MVRV",
+        "funding rate",
+        "derivatives",
+        "quantitative indicators",
+        "liquidity",
+        "smart money flow"
+      ],
+      "tags": [
+        "加密货币",
+        "链上分析",
+        "NVT",
+        "MVRV",
+        "资金费率",
+        "衍生品",
+        "量化指标",
+        "流动性",
+        "聪明钱流"
+      ],
+      "dependencies": [
+        "Python (httpx, pandas, numpy)",
+        "CoinGecko / DeFiLlama API",
+        "Glassnode / CryptoQuant（可能付费）",
+        "Binance / Bybit / dYdX 衍生品API",
+        "CoinGlass",
+        "Helius / Solana RPC",
+        "Etherscan / Birdeye / Nansen（钱包标签）"
+      ],
+      "summaryEn": "A set of nine crypto-native indicators — NVT, MVRV, exchange netflow, funding rate signal, open interest momentum, holder momentum, liquidity score, smart money flow, and token velocity. Each includes formulas, threshold-based interpretation, data sources, and runnable code snippets, plus composite scoring, divergence detection, and false-signal filtering guidance for on-chain and derivatives signal research.",
+      "evidenceQuotes": [
+        "NVT = Market Cap / Daily On-Chain Transaction Volume (USD)",
+        "Funding Rate = (Perp Mark Price - Spot Price) / Spot Price"
+      ],
+      "outputs": [
+        "九项指标数值（NVT、MVRV、交易所净流量、资金费率、OI动量、持有者动量与加速度、流动性评分、聪明钱流比率、代币速度）",
+        "多头/空头/中性信号标签",
+        "复合评分与背离检测结果",
+        "信号解读与假信号过滤参考"
+      ],
+      "summary": "面向加密市场的九项原生指标体系：NVT、MVRV、交易所净流量、资金费率信号、未平仓合约动量、持有者动量、流动性评分、聪明钱流与代币换手速度。每项给出公式、阈值解读、数据来源与可运行代码片段，并附带复合评分、背离检测与假信号过滤参考，用于链上与衍生品信号研究。",
+      "id": "skill-de76fe5ab1117ee0",
+      "author": "agiprolabs",
+      "originalName": "custom-indicators",
+      "repository": "https://github.com/agiprolabs/claude-trading-skills",
+      "commit": "981e1d736cdc02bdc1c55c74ec9224e956414706",
+      "sourcePath": "skills/custom-indicators/SKILL.md",
+      "sourceUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/skills/custom-indicators/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/LICENSE.md",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "method": "通过 api.llama.fi、coins.llama.fi、stablecoins.llama.fi 与 bridges.llama.fi 的 REST 端点取数：用 /tvl/{slug}、/protocol/{slug}、/v2/historicalChainTvl/{chain} 获取协议与链级 TVL 当前值及历史序列；以 {chain}:{address} 标识符调用 /prices/current、/prices/historical、/chart 批量查询现价、指定时间戳历史价与价格走势；用 /overview/dexs 与 /overview/fees 汇总链级及协议级成交量、费用与收入；用 stablecoins 端点跟踪供应量、市值历史与脱锚价格；用 bridges 端点列出跨链桥及成交量。核心工作流包括按 slug 排序对比协议 TVL、多代币批量价格查询，以及把 YYYY-MM-DD 日期转为 unix 时间戳后重建指定日期的价格快照。",
+      "category": "data",
+      "environmentEn": "Python 3 with httpx and outbound access to the DeFiLlama public API; free endpoints need no auth with roughly 500 requests per 5 minutes; the Pro tier ($300/mo, key in the URL path, 1,000 req/min, 1M calls/mo) is required for Yields, bridge detail, derivatives, unlocks, treasuries and the hacks database. Ships references/ docs on endpoints and error handling plus scripts/ for snapshots and price lookups.",
+      "notesEn": "This entry is source-checked from the repository file but execution-unverified. API availability, rate limits and response schemas may change over time. Explicit data gaps: Yields/pools, bridge detail, derivatives, emissions/unlocks, treasuries and the hacks database are inaccessible on the free tier and require the paid Pro subscription; the API also does not provide Solana token OHLCV candles or real-time transaction data (the file points to Birdeye, SolanaTracker, DexScreener or Helius for those). Data comes from the third-party aggregator DeFiLlama, is for research reference only, and does not constitute investment advice or any guarantee of returns.",
+      "name": "DeFiLlama API 链上数据分析",
+      "exampleEn": "compare_protocol_tvl over slugs fetches current TVL and ranks protocols; get_solana_prices(mints) joins Solana mint addresses into comma-separated identifiers for a batch current-price query; solana_defi_snapshot() returns Solana chain TVL, 24h DEX volume and fees in one call; price_at_date(\"solana:So11...\", \"2024-03-01\") converts to a unix timestamp then fetches the historical price. All examples are public read-only queries.",
+      "methodEn": "Pull data from REST endpoints at api.llama.fi, coins.llama.fi, stablecoins.llama.fi and bridges.llama.fi: use /tvl/{slug}, /protocol/{slug} and /v2/historicalChainTvl/{chain} for current and historical protocol and chain TVL; query current prices, historical prices at given timestamps and price charts via /prices/current, /prices/historical and /chart using {chain}:{address} identifiers; aggregate chain- and protocol-level volumes, fees and revenue with /overview/dexs and /overview/fees; track stablecoin supply, market-cap history and peg deviations via the stablecoins endpoints; list bridges and volumes via the bridges endpoint. Core workflows: ranking protocol TVL by slug, batch multi-token price lookups, and reconstructing dated price snapshots by converting a YYYY-MM-DD date to a unix timestamp.",
+      "inputs": [
+        "协议 slug（如 raydium）",
+        "代币标识符，格式为 {chain}:{address} 或 coingecko: 前缀",
+        "链名（Ethereum、Solana、Arbitrum 等）",
+        "unix 时间戳或 YYYY-MM-DD 日期",
+        "可选查询参数（searchWidth、period、span、dataType、excludeTotalDataChart 等）"
+      ],
+      "outputsEn": [
+        "Current and historical protocol and chain TVL",
+        "Multi-chain token current prices, historical prices at timestamps and price charts (with confidence field)",
+        "DEX volume aggregates (24h/7d/30d/all-time, per chain or per protocol)",
+        "Protocol fees and revenue (with methodology field)",
+        "Stablecoin circulating supply, market-cap history and peg prices",
+        "Bridge listings and volume statistics",
+        "Solana DeFi snapshot (TVL, 24h volume, 24h fees)"
+      ],
+      "inputsEn": [
+        "Protocol slugs (e.g., raydium)",
+        "Coin identifiers in {chain}:{address} or coingecko: form",
+        "Chain names (Ethereum, Solana, Arbitrum, etc.)",
+        "Unix timestamps or YYYY-MM-DD dates",
+        "Optional query parameters (searchWidth, period, span, dataType, excludeTotalDataChart, etc.)"
+      ],
+      "nameEn": "DeFiLlama API On-Chain Data Analytics",
+      "notes": "本条目仅基于仓库文件做来源核对，方法与数据未实际执行验证（source-checked, execution-unverified）。API 可用性、限速与响应字段可能随时间变化。明确数据缺口：Yields/池子、桥明细、衍生品、代币解锁、国库与黑客数据库在免费层不可访问，需付费 Pro 订阅；该 API 亦不提供 Solana 代币 OHLCV K 线或实时交易数据（文件建议改用 Birdeye、SolanaTracker、DexScreener 或 Helius）。数据来自第三方聚合器 DeFiLlama，仅供研究参考，不构成投资建议，也不暗示任何收益保证。",
+      "dependenciesEn": [
+        "Python 3",
+        "httpx",
+        "Network access to the DeFiLlama public API (unauthenticated)",
+        "Optional: DeFiLlama Pro API key for paid endpoints such as Yields, bridge detail, derivatives, unlocks, treasuries and the hacks database"
+      ],
+      "example": "compare_protocol_tvl([\"raydium\", ...]) 拉取各 slug 的当前 TVL 并按大小排序对比；get_solana_prices(mints) 将 Solana 铸币地址拼成逗号分隔标识符后批量查现价；solana_defi_snapshot() 一次返回 Solana 链 TVL、24 小时 DEX 成交量与费用；price_at_date(\"solana:So11...\", \"2024-03-01\") 先转 unix 时间戳再查历史价格。示例均为公开只读查询。",
+      "environment": "Python 3 + httpx，需可访问 DeFiLlama 公共 API 的外网连接；免费端点无需鉴权，限速约每 5 分钟 500 次请求；Pro 档（$300/月，密钥置于 URL 路径，1000 请求/分钟、每月 100 万次调用）才可访问 Yields、桥明细、衍生品、代币解锁、国库与黑客数据库。技能附 references/ 端点与错误处理文档及 scripts/ 快照、价格查询脚本。",
+      "tagsEn": [
+        "DeFi",
+        "on-chain data",
+        "TVL",
+        "API",
+        "crypto",
+        "stablecoins",
+        "data ingestion"
+      ],
+      "tags": [
+        "DeFi",
+        "链上数据",
+        "TVL",
+        "API",
+        "加密货币",
+        "稳定币",
+        "数据获取"
+      ],
+      "dependencies": [
+        "Python 3",
+        "httpx",
+        "DeFiLlama 公共 API 网络访问（免鉴权）",
+        "可选：DeFiLlama Pro API key（访问 Yields、桥明细、衍生品、解锁、国库、黑客库等付费端点）"
+      ],
+      "summaryEn": "A free data skill for DeFi macro and protocol-level research: calls the unauthenticated DeFiLlama API for chain-wide TVL, multi-chain token prices, DEX volumes, protocol fees/revenue, stablecoin supply and bridge data, supporting protocol comparison and historical price lookups.",
+      "evidenceQuotes": [
+        "Its API is **free with no authentication** for most endpoints",
+        "~500 requests per 5 minutes (free). Pro: 1,000 req/min, 1M calls/mo."
+      ],
+      "outputs": [
+        "协议与全链 TVL 当前值及历史序列",
+        "多链代币现价、指定时间戳历史价与价格走势（含 confidence 字段）",
+        "DEX 成交量汇总（24h/7d/30d/全历史，按链或按协议）",
+        "协议费用与收入（含 methodology 字段）",
+        "稳定币流通量、市值历史与脱锚价格",
+        "跨链桥列表及成交量统计",
+        "Solana DeFi 快照（TVL、24h 成交量、24h 费用）"
+      ],
+      "summary": "面向 DeFi 宏观与协议级研究的免费数据技能：调用 DeFiLlama 无鉴权 API，获取全链 TVL、多链代币价格、DEX 成交量、协议费用与收入、稳定币供应及跨链桥数据，支持协议对比与历史价格回溯。",
+      "id": "skill-ca914a88dd9e8281",
+      "author": "agiprolabs",
+      "originalName": "defillama-api",
+      "repository": "https://github.com/agiprolabs/claude-trading-skills",
+      "commit": "981e1d736cdc02bdc1c55c74ec9224e956414706",
+      "sourcePath": "skills/defillama-api/SKILL.md",
+      "sourceUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/skills/defillama-api/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/LICENSE.md",
+      "sourceVerified": true,
+      "executionVerified": false
     }
   ],
   "evidence": {
     "checks": {
-      "skills": 183,
+      "skills": 186,
       "repositories": 8,
       "executionTestsRun": 0
     },
@@ -13601,7 +13885,7 @@
     },
     {
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "ec7f8793a19cba126d2ccb8cbd91b9c8838f766e",
+      "commit": "d60a9071c752f3cd1ba05aebf8617a133ca009e5",
       "license": "MIT",
       "licensePath": "LICENSE",
       "licenseFile": "/licenses/alphakit-LICENSE.txt",
@@ -13623,8 +13907,8 @@
           "file": "/licenses/alphakit-sellside-model-exhibits-LICENSE.txt"
         }
       ],
-      "archive": "Jeromelll--finskillhub-catalog--ec7f8793a19cba126d2ccb8cbd91b9c8838f766e.zip",
-      "archiveSha256": "837f700b7c44fd2b53731b6e3b7d038a1cd0e67059240c7db85d624b3e471e8a",
+      "archive": "Jeromelll--finskillhub-catalog--d60a9071c752f3cd1ba05aebf8617a133ca009e5.zip",
+      "archiveSha256": "eb3c639cf93cfff9d3099d90a6d2ba48dc87dde262173e5167e03487b98e2c69",
       "description": "FinSkillHub 的三项原创金融研究技能，涵盖增量测算、模型展示表和股票初步研究；案例使用原创合成数据。",
       "descriptionEn": "FinSkillHub original finance research skills for incremental sizing, model exhibits and initial stock research, with original synthetic examples."
     },
