@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-21",
   "skills": [
     {
       "id": "equity-earnings-update",
@@ -5635,9 +5635,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "d60a9071c752f3cd1ba05aebf8617a133ca009e5",
+      "commit": "d8fdf8e61401389a49e575682233b97f4d369a38",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d60a9071c752f3cd1ba05aebf8617a133ca009e5/skills/incremental-business-sizing/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d8fdf8e61401389a49e575682233b97f4d369a38/skills/incremental-business-sizing/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "incremental-business-sizing",
@@ -5646,7 +5646,7 @@
       "nameEn": "Incremental business revenue and profit sizing",
       "category": "research",
       "sourcePath": "skills/incremental-business-sizing/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d60a9071c752f3cd1ba05aebf8617a133ca009e5/skills/incremental-business-sizing/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d8fdf8e61401389a49e575682233b97f4d369a38/skills/incremental-business-sizing/SKILL.md",
       "summary": "把产能、用户行为、订阅或交易额拆成可复算的收入、利润与 EPS 驱动链，保留缺失参数并用同一模型制作情景和敏感性分析。",
       "summaryEn": "Builds reproducible revenue, profit and EPS drivers from capacity, user activity, subscriptions or transaction volume. Preserves missing inputs and uses one model for scenarios and sensitivities.",
       "method": "先界定收费对象、资源和时间约束，为参数标明单位、期间及来源，再按依赖图计算各情景；两个敏感性轴替换同一模型中的指定输入。",
@@ -5705,9 +5705,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "d60a9071c752f3cd1ba05aebf8617a133ca009e5",
+      "commit": "d8fdf8e61401389a49e575682233b97f4d369a38",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d60a9071c752f3cd1ba05aebf8617a133ca009e5/skills/sellside-model-exhibits/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d8fdf8e61401389a49e575682233b97f4d369a38/skills/sellside-model-exhibits/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "sellside-model-exhibits",
@@ -5716,7 +5716,7 @@
       "nameEn": "Financial model exhibits and sensitivity tables",
       "category": "operations",
       "sourcePath": "skills/sellside-model-exhibits/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d60a9071c752f3cd1ba05aebf8617a133ca009e5/skills/sellside-model-exhibits/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d8fdf8e61401389a49e575682233b97f4d369a38/skills/sellside-model-exhibits/SKILL.md",
       "summary": "把同一份已完成测算制作成计算桥、情景表和敏感性矩阵，保留单位、年份、来源和未知值，输出文档、图片与公式工作簿。",
       "summaryEn": "Turns one completed model result into a calculation bridge, scenario table and sensitivity matrices. Retains units, periods, sources and unknown values, and exports documents, images and formula workbooks.",
       "method": "读取版本化计算结果，根据角色、表达式和状态排版；各格式共享同一数值来源，公式仅绑定到同一情景中的有效输入。",
@@ -5777,9 +5777,9 @@
     {
       "author": "Jeromelll",
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "d60a9071c752f3cd1ba05aebf8617a133ca009e5",
+      "commit": "d8fdf8e61401389a49e575682233b97f4d369a38",
       "license": "MIT",
-      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d60a9071c752f3cd1ba05aebf8617a133ca009e5/skills/pre-trade-quick-brief/LICENSE",
+      "licenseUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d8fdf8e61401389a49e575682233b97f4d369a38/skills/pre-trade-quick-brief/LICENSE",
       "sourceVerified": true,
       "executionVerified": false,
       "id": "pre-trade-quick-brief",
@@ -5788,7 +5788,7 @@
       "nameEn": "Quick initial research for a new stock",
       "category": "research",
       "sourcePath": "skills/pre-trade-quick-brief/SKILL.md",
-      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d60a9071c752f3cd1ba05aebf8617a133ca009e5/skills/pre-trade-quick-brief/SKILL.md",
+      "sourceUrl": "https://github.com/Jeromelll/finskillhub-catalog/blob/d8fdf8e61401389a49e575682233b97f4d369a38/skills/pre-trade-quick-brief/SKILL.md",
       "summary": "先解释市场叙事与新增经营变量，再拆出受约束的业绩上限、三个盈利时间窗、前瞻估值和下一验证点，保留资料缺口。",
       "summaryEn": "Explains the market narrative and new operating variables, then develops a constrained earnings ceiling, three earnings windows, forward valuation conditions and the next verification point while preserving evidence gaps.",
       "method": "冻结信息时点，建立旧预期到新参数的证据链，核对需求、供给、期间、成本及融资稀释，并把当前价值和远期条件终值分开。",
@@ -13654,11 +13654,271 @@
       "licenseUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/LICENSE.md",
       "sourceVerified": true,
       "executionVerified": false
+    },
+    {
+      "nameEn": "DEX Execution — Solana Swap via Jupiter",
+      "summaryEn": "An on-chain swap execution workflow for Solana: a seven-step pipeline through the Jupiter v6 aggregator (routing across Raydium, Orca, Meteora, Phoenix and 20+ other venues) covering quoting, user confirmation, transaction building, signing, submission and confirmation, with slippage ranges by token type, dynamic slippage, priority-fee tiers, an error-recovery table and mandatory safety rules.",
+      "environmentEn": "Python environment with httpx and solders (VersionedTransaction, Keypair); access to the Jupiter v6 API (https://quote-api.jup.ag/v6) and a Solana JSON-RPC endpoint (default https://api.mainnet-beta.solana.com, overridable via SOLANA_RPC_URL); a wallet private key must be injected via the WALLET_PRIVATE_KEY environment variable for signing; fine-grained priority fee estimation requires a Helius API key.",
+      "tagsEn": [
+        "Solana",
+        "DeFi",
+        "DEX aggregator",
+        "Jupiter",
+        "trade execution",
+        "slippage management",
+        "priority fees",
+        "on-chain transactions"
+      ],
+      "methodEn": "A seven-step pipeline: (1) call /quote for the best routed quote; (2) display input/output amounts, minimum received (otherAmountThreshold), price impact and route plan to the user; (3) require explicit user confirmation before continuing; (4) call /swap to build a versioned transaction (wrapAndUnwrapSol, dynamicComputeUnitLimit, auto prioritization fees); (5) sign with solders using a keypair loaded from an environment variable; (6) submit to Solana RPC with skipPreflight=False; (7) poll getSignatureStatuses every 2 seconds until confirmed/finalized, retrying with a fresh blockhash up to 3 times if unconfirmed within 60 seconds, then verify the token balance actually changed. Slippage is chosen by token type (majors 50-100 bps, mid-caps 100-300, meme tokens 500-2000, new launches 1000-3000) with optional dynamicSlippage auto-adjustment; priority fees can be estimated precisely via Helius getPriorityFeeEstimate.",
+      "evidenceQuotes": [
+        "Execute token swaps on Solana through Jupiter, the dominant DEX aggregator routing across Raydium, Orca, Meteora, Phoenix, Lifinity, and 20+ other venues.",
+        "NEVER proceed without explicit \"yes\" from the user."
+      ],
+      "exampleEn": "Example (public inputs): swap 1 SOL (1,000,000,000 lamports) for USDC with slippageBps=50. The preview shows selling 1.000 SOL for roughly 142.50 USDC, 141.79 minimum received, 0.01% price impact and route Raydium V4 -> USDC; after user confirmation the transaction is built, signed and submitted to RPC, emitting the signature and a https://solscan.io/tx/<sig> link, then polled to confirmed with the slot logged. The example uses public mint addresses only (SOL: So1111..., USDC: EPjF...), with no real private key.",
+      "example": "示例（公开输入）：以 1 SOL（1,000,000,000 lamports）兑换 USDC，slippageBps=50。预览显示约卖出 1.000 SOL 买入 ~142.50 USDC、最小收到 141.79、价格影响 0.01%、路由 Raydium V4→USDC；用户确认后构建并签名交易提交至 RPC，输出签名与 https://solscan.io/tx/<sig> 链接，轮询至 confirmed 并记录 slot。示例仅使用公开 mint 地址（SOL：So1111...、USDC：EPjF...），不含真实私钥。",
+      "dependenciesEn": [
+        "Python with httpx",
+        "solders library (VersionedTransaction, Keypair)",
+        "Jupiter v6 API (https://quote-api.jup.ag/v6)",
+        "Solana JSON-RPC endpoint (default https://api.mainnet-beta.solana.com)",
+        "Optional Helius RPC for priority fee estimation",
+        "Referenced files references/jupiter_api.md, transaction_lifecycle.md, safety_checklist.md and scripts under scripts/ (not supplied with the source, an unverified data gap)"
+      ],
+      "notesEn": "Curation note: this entry is source-checked and execution-unverified. The skill embeds non-negotiable safety rules: simulation mode by default with no signing or submission, mandatory explicit user confirmation, no storing or logging of private keys, warnings above 2% price impact and blocking above 10% unless overridden, a minimum 0.05 SOL reserve, and a ban on 100% slippage. On-chain execution carries real fund and key-handling risk; inclusion is not an endorsement. The referenced files references/jupiter_api.md, transaction_lifecycle.md and safety_checklist.md plus the two scripts under scripts/ were not supplied with this source, so their contents remain an unverified data gap.",
+      "category": "operations",
+      "summary": "面向 Solana 的链上兑换执行流程：经由 Jupiter v6 聚合器（路由 Raydium、Orca、Meteora、Phoenix 等 20+ 交易场所）完成报价、用户确认、交易构建、签名、提交与确认的七步管线，并给出按代币类型的滑点区间、动态滑点、优先费档位、错误恢复表与不可妥协的安全要求。",
+      "name": "DEX 兑换执行（Solana Jupiter）",
+      "tags": [
+        "Solana",
+        "DeFi",
+        "DEX聚合",
+        "Jupiter",
+        "交易执行",
+        "滑点管理",
+        "优先费",
+        "链上交易"
+      ],
+      "notes": "收录说明：本条目为来源核查收录，执行未经实际验证（source-checked, execution-unverified）。技能内置安全要求：默认模拟模式、不签名不提交、必须显式用户确认、不得存储或记录私钥、价格影响 >2% 告警且 >10% 阻断（除非用户覆盖）、保留至少 0.05 SOL 储备、禁止 100% 滑点。链上执行涉及真实资金与私钥风险，收录不代表背书；引用的 references/jupiter_api.md、transaction_lifecycle.md、safety_checklist.md 及 scripts/ 下两个脚本未随本次源码提供，其内容为未核实的资料缺口。",
+      "inputsEn": [
+        "Input and output token mint addresses (e.g., SOL, USDC)",
+        "Swap amount in token decimals (e.g., lamports)",
+        "Slippage tolerance (slippageBps) and routing options (onlyDirectRoutes, maxAccounts, dynamicSlippage)",
+        "Wallet public key and signing keypair injected via environment variables",
+        "Solana RPC endpoint and an optional Helius API key for priority fee estimation"
+      ],
+      "dependencies": [
+        "Python 与 httpx",
+        "solders（VersionedTransaction、Keypair）",
+        "Jupiter v6 API（https://quote-api.jup.ag/v6）",
+        "Solana JSON-RPC 节点（默认 https://api.mainnet-beta.solana.com）",
+        "可选：Helius RPC/优先费估算 API",
+        "引用文件 references/jupiter_api.md、transaction_lifecycle.md、safety_checklist.md 与 scripts/ 脚本（未随源码提供，属数据缺口）"
+      ],
+      "environment": "Python 环境（httpx 请求库、solders 的 VersionedTransaction/Keypair）；可访问 Jupiter v6 API（https://quote-api.jup.ag/v6）与 Solana JSON-RPC 节点（默认 https://api.mainnet-beta.solana.com，可用 SOLANA_RPC_URL 覆盖）；签名需通过环境变量 WALLET_PRIVATE_KEY 注入钱包私钥；优先费精细估算需 Helius API key。",
+      "method": "七步执行管线：(1) 调用 /quote 获取最优路由报价；(2) 向用户展示输入/输出金额、最小收到额（otherAmountThreshold）、价格影响与路由计划；(3) 强制用户明确确认后才继续；(4) 调用 /swap 构建版本化交易（wrapAndUnwrapSol、dynamicComputeUnitLimit、优先费 auto）；(5) 用 solders 加载环境变量中的私钥签名；(6) 以 skipPreflight=False 提交至 Solana RPC；(7) 每 2 秒轮询 getSignatureStatuses 至 confirmed/finalized，未确认则在 60 秒内用新 blockhash 重试（最多 3 次），最后核对代币余额变化。滑点按代币类型选择（主流 50-100bps、中盘 100-300、meme 500-2000、新盘 1000-3000），可选 dynamicSlippage 自动调整；优先费可用 Helius getPriorityFeeEstimate 精细估算。",
+      "inputs": [
+        "输入/输出代币 mint 地址（如 SOL、USDC）",
+        "兑换数量（按代币精度计，如 lamports）",
+        "滑点参数 slippageBps 与路由选项（onlyDirectRoutes、maxAccounts、dynamicSlippage 等）",
+        "钱包公钥与签名私钥（经环境变量注入）",
+        "Solana RPC 端点与可选 Helius API key（用于优先费估算）"
+      ],
+      "outputs": [
+        "Jupiter 报价（输出金额、最小收到、价格影响、路由计划）",
+        "用户确认预览（卖出/买入数量、滑点、路由）",
+        "签名后的 base64 版本化交易",
+        "交易签名与 Solscan 浏览器链接",
+        "确认状态（confirmed/finalized 及 slot）",
+        "错误分类与恢复建议（滑点超限、余额不足、区块哈希过期、限流、无路由等）"
+      ],
+      "outputsEn": [
+        "Jupiter quote with outAmount, minimum received, price impact and route plan",
+        "User-facing swap preview (sell/buy amounts, slippage, route)",
+        "Signed base64-encoded versioned transaction",
+        "Transaction signature and Solscan explorer link",
+        "Confirmation status (confirmed/finalized with slot)",
+        "Error taxonomy with recovery actions (slippage exceeded, insufficient funds, expired blockhash, rate limits, no route)"
+      ],
+      "id": "skill-30dc3ce943a94475",
+      "author": "agiprolabs",
+      "originalName": "dex-execution",
+      "repository": "https://github.com/agiprolabs/claude-trading-skills",
+      "commit": "981e1d736cdc02bdc1c55c74ec9224e956414706",
+      "sourcePath": "skills/dex-execution/SKILL.md",
+      "sourceUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/skills/dex-execution/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/LICENSE.md",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "nameEn": "DEX Pool Analysis: Solana AMM Pool Mechanics & Comparison",
+      "summaryEn": "Compares pool-type mechanics, fee structures, and creation patterns (including PumpFun graduation migration) across Raydium V4/CLMM, Orca Whirlpool, Meteora DLMM/dynamic pools, and PumpSwap on Solana, and provides volume efficiency, a pool health score, red-flag checks, and execution venue ranking to assess liquidity quality and pool-level risk.",
+      "environmentEn": "Python 3 environment with the httpx library for async HTTP requests; network access to the DexScreener public API (https://api.dexscreener.com; no API key requirement stated in the file); repository files references/pool_mechanics.md, references/pool_analysis_guide.md, scripts/analyze_pools.py, and scripts/pool_monitor.py; optionally combined with the repository skills lp-math, liquidity-analysis, impermanent-loss, slippage-modeling, and jupiter-api.",
+      "tagsEn": [
+        "DeFi",
+        "Solana",
+        "AMM mechanics",
+        "liquidity analysis",
+        "concentrated liquidity",
+        "execution venue selection",
+        "market microstructure",
+        "crypto asset research"
+      ],
+      "methodEn": "1) Classify pool types: constant product xy=k (Raydium V4 fixed 0.25% fee, PumpSwap 0.25% with 0.20% to LPs), concentrated liquidity (Raydium CLMM and Orca Whirlpool with 0.01%-2% fee tiers mapped to tick spacing), and bin liquidity (Meteora DLMM with dynamic fees and 1-100bp bin steps); 2) compare LP vs protocol fee shares via the comparison table; 3) interpret the PumpFun graduation flow (migration near $69K market cap, known ~$12K initial liquidity) versus manual pool creation; 4) compute volume efficiency = volume_24h / TVL and interpret thresholds (>5 suggests wash trading or bots, 1-5 healthy, 0.1-1 moderate, <0.1 stale, 0 dead); 5) estimate theoretical fee APR = volume efficiency x fee rate x 365; 6) aggregate a 0-100 health score across TVL adequacy, volume efficiency, age, LP count, and TVL stability (0-20 each); 7) apply red-flag thresholds (<24h pool, LP count = 1, >20% 24h TVL drop, no trades for 6h+, V/TVL > 10, TVL < $1,000); 8) rank pools for a given trade size using size/TVL (<2%), a 0.3x slippage efficiency multiplier for concentrated liquidity, fee rate, and health score.",
+      "evidenceQuotes": [
+        "Solana's DEX ecosystem spans multiple AMM designs: constant-product pools (Raydium V4), concentrated liquidity (Raydium CLMM, Orca Whirlpool), and bin-based liquidity (Meteora DLMM).",
+        "This is a theoretical maximum — actual LP returns depend on impermanent loss, position range (for concentrated liquidity), and fee share."
+      ],
+      "exampleEn": "Public example: using the official SOL mint So11111111111111111111111111111111111111112 as input, call the DexScreener tokens/v1/solana/{mint} endpoint to fetch all pools for the token; infer pool type and fee rate per pool from dexId, then compute V/TVL and theoretical fee APR; combine pool age, LP count, and TVL change into the 0-100 health score with red flags; finally, for a hypothetical $10,000 trade, weight size/TVL, the 0.3x concentrated-liquidity slippage multiplier, fee rate, and health score to rank pools and output the best execution pool with estimated slippage.",
+      "example": "公开示例：以SOL官方铸币地址So11111111111111111111111111111111111111112为输入，调用DexScreener的tokens/v1/solana/{mint}接口获取其全部交易池；对每个池按dexId推断池类型与费率，计算V/TVL与理论费用APR；结合池龄、LP数量与TVL变化计算0–100健康分并列出红旗；最后对一笔10,000美元的假设交易，按规模占TVL比例、集中流动性0.3倍滑点乘数、费率与健康评分加权排序，输出最佳执行池及估算滑点。",
+      "dependenciesEn": [
+        "Python 3 (httpx for async HTTP)",
+        "DexScreener public API (https://api.dexscreener.com)",
+        "Repository files: references/pool_mechanics.md, references/pool_analysis_guide.md, scripts/analyze_pools.py, scripts/pool_monitor.py",
+        "Related skills: lp-math, liquidity-analysis, impermanent-loss, slippage-modeling, jupiter-api"
+      ],
+      "notesEn": "Entry is source-checked (evidence quotes are verbatim from the file) but execution-unverified: the code and API calls were not run. Fee APR is a theoretical maximum; actual LP returns depend on impermanent loss, position range, and fee share. Pool data comes from the third-party DexScreener API and may be delayed or incomplete; LP count is an estimate in the file, and the sample fetch does not supply TVL change or LP count, so the health score needs those inputs from elsewhere. Failed API access must be treated as a data gap, not as evidence that a pool is dead or risk-free. The source file states it provides analysis tools and information only and does not constitute financial advice or trading recommendations.",
+      "category": "quant",
+      "summary": "比较Solana上Raydium V4/CLMM、Orca Whirlpool、Meteora DLMM/动态池与PumpSwap等AMM池的类型机制、费率结构与创建模式（含PumpFun毕业迁移），并给出成交量效率、池健康评分、红旗清单与执行场所排序，用于评估流动性质量与池级风险。",
+      "name": "DEX流动池分析：Solana AMM池机制与比较",
+      "tags": [
+        "DeFi",
+        "Solana",
+        "AMM机制",
+        "流动性分析",
+        "集中流动性",
+        "执行场所选择",
+        "市场微观结构",
+        "加密资产研究"
+      ],
+      "notes": "本条目已对源文件逐字核对（引文为原文摘录），但未实际执行代码或调用API，属'来源已核对、执行未验证'。费用APR为理论上限，实际LP收益取决于无常损失、仓位区间与费率分成。池数据来自第三方DexScreener接口，可能延迟或缺失；LP数量在文件中即为估算，且示例抓取未提供TVL 24小时变化与LP数，健康评分需另行补齐数据。若API访问失败，应视为数据缺口，不得据此判定池已死亡或无风险。源文件自述仅提供分析工具与信息，不构成投资建议或交易推荐。",
+      "inputsEn": [
+        "Solana token mint address (public input)",
+        "Pool data returned by the DexScreener endpoint: TVL, 24h volume, pool creation time, dexId, pairAddress",
+        "Hypothetical trade size in USD",
+        "Fee rate and pool type mapping inferred per DEX"
+      ],
+      "dependencies": [
+        "Python 3（httpx用于异步HTTP）",
+        "DexScreener公开API（https://api.dexscreener.com）",
+        "仓库文件：references/pool_mechanics.md、references/pool_analysis_guide.md、scripts/analyze_pools.py、scripts/pool_monitor.py",
+        "相关技能：lp-math、liquidity-analysis、impermanent-loss、slippage-modeling、jupiter-api"
+      ],
+      "environment": "Python 3环境，需httpx库发起异步HTTP请求；需联网访问DexScreener公开API（https://api.dexscreener.com，文件未提及需API密钥）；依赖仓库内references/pool_mechanics.md、references/pool_analysis_guide.md及scripts/analyze_pools.py、scripts/pool_monitor.py；可选联动同仓库技能lp-math、liquidity-analysis、impermanent-loss、slippage-modeling、jupiter-api。",
+      "method": "1) 按池类型分类：恒定乘积xy=k（Raydium V4固定0.25%费率、PumpSwap 0.25%其中0.20%归LP）、集中流动性（Raydium CLMM与Orca Whirlpool，费率档0.01%–2%并对应tick spacing）、bin流动性（Meteora DLMM，动态费率与1–100bp bin step）；2) 用费率对照表比较LP与协议分成；3) 解读PumpFun毕业流程（约$69K市值触发迁移，已知初始流动性约$12K）与手动建池差异；4) 计算成交量效率=volume_24h/TVL并按阈值解读（>5疑似洗售或机器人，1–5活跃健康，0.1–1中等，<0.1僵死，0为死池）；5) 估算理论费用APR=成交量效率×费率×365；6) 以0–100健康评分聚合TVL充分性、成交量效率、池龄、LP数量与TVL稳定性（各0–20）；7) 套用红旗阈值（<24小时新池、LP数=1、24小时TVL跌超20%、6小时以上零成交、V/TVL>10、TVL<$1000）；8) 对给定交易规模按规模/TVL（<2%）、集中流动性0.3倍滑点效率乘数、费率与健康评分加权计算执行评分并排序选池。",
+      "inputs": [
+        "Solana代币铸币地址（公开输入）",
+        "DexScreener接口返回的池数据：TVL、24小时成交量、池创建时间、dexId、pairAddress",
+        "假设交易规模（美元）",
+        "按DEX推断的费率与池类型映射"
+      ],
+      "outputs": [
+        "各池的池类型、费率与成交量效率（V/TVL）",
+        "理论费用APR估算（标注为理论上限）",
+        "0–100池健康评分及红旗清单（新池、单一LP、TVL下滑、零成交、极端V/TVL、微小TVL）",
+        "按执行质量排序的池列表（含估算滑点、执行评分与最佳执行池）"
+      ],
+      "outputsEn": [
+        "Pool type, fee rate, and volume efficiency (V/TVL) per pool",
+        "Theoretical fee APR estimate (labeled a theoretical maximum)",
+        "0-100 pool health score and red-flag list (very new pool, single LP, declining TVL, zero volume, extreme V/TVL, tiny TVL)",
+        "Pools ranked by execution quality (estimated slippage, execution score, and best execution pool)"
+      ],
+      "id": "skill-f052d35823bbdf21",
+      "author": "agiprolabs",
+      "originalName": "dex-pool-analysis",
+      "repository": "https://github.com/agiprolabs/claude-trading-skills",
+      "commit": "981e1d736cdc02bdc1c55c74ec9224e956414706",
+      "sourcePath": "skills/dex-pool-analysis/SKILL.md",
+      "sourceUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/skills/dex-pool-analysis/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/LICENSE.md",
+      "sourceVerified": true,
+      "executionVerified": false
+    },
+    {
+      "nameEn": "DexScreener Multi-Chain DEX Market Data",
+      "summaryEn": "Wraps the DexScreener public REST API for free multi-chain DEX market data: pair prices, volume, liquidity, transaction counts, and token profiles across 80+ chains with no API key, suited to quick token lookups, cross-chain price comparison, and lightweight monitoring.",
+      "environmentEn": "Python 3 with httpx, or curl; requires HTTPS access to https://api.dexscreener.com; no registration or API key; rate limits ~300 req/min for DEX data endpoints and 60 req/min for profile/boost endpoints.",
+      "tagsEn": [
+        "DEX",
+        "crypto market data",
+        "on-chain data",
+        "cross-chain price comparison",
+        "liquidity",
+        "market monitoring"
+      ],
+      "methodEn": "Query /latest/dex/search by token name, symbol, or on-chain address (~30 cross-chain pairs returned); fetch snapshots via /latest/dex/pairs/{chain}/{pairAddress} or /latest/dex/tokens/{tokenAddress}; rank returned pairs by liquidity.usd descending to pick the best market; compute buy_ratio from txns buy/sell counts across m5/h1/h6/h24 windows to gauge buy/sell pressure; monitor paid promotions via /token-boosts/latest/v1. Note priceNative/priceUsd are strings and pairCreatedAt is a millisecond timestamp, so conversions are needed.",
+      "evidenceQuotes": [
+        "DexScreener provides DEX pair data across 80+ chains with **no API key required**. Prices, volume, liquidity, transaction counts, and token profiles — all free.",
+        "**No OHLCV/candle data** — Use Birdeye or SolanaTracker for historical candles"
+      ],
+      "exampleEn": "Input: token symbol \"BONK\" or a Solana mint address. Steps: call the search/token-pair endpoints, filter entries whose baseToken.symbol matches, and sort by liquidity. Output: a cross-chain comparison of best USD price, 24h volume, and liquidity; or buy_ratio metrics across m5/h1/h6/h24 for a given pair. Examples use public, non-sensitive inputs only.",
+      "example": "输入：代币符号 \"BONK\" 或 Solana 链上铸造地址。流程：调用搜索/代币行情接口，过滤 baseToken.symbol 匹配项，按流动性排序。输出：各链的最优美元价格、24 小时成交量与流动性对比清单；或对给定交易对输出 m5/h1/h6/h24 的 buy_ratio。示例仅使用公开行情输入。",
+      "dependenciesEn": [
+        "Python 3 with httpx (or curl)",
+        "DexScreener public REST API at https://api.dexscreener.com (no API key required)",
+        "Network access to api.dexscreener.com"
+      ],
+      "notesEn": "Entry is source-checked against the provided file; execution is unverified. Data limits must be preserved: snapshot-only current state with no historical time series; no OHLCV candles (docs point to Birdeye or SolanaTracker); no wallet/trader data (Helius or similar needed); no token security data (Birdeye token_security needed); search is unpaginated with ~30 results max; polling only, no WebSocket; fdv/marketCap may be absent without supply data; info appears only for claimed token profiles. Boost lists are paid promotion, not any endorsement of project quality, and should be interpreted cautiously.",
+      "category": "data",
+      "summary": "封装 DexScreener 公共 REST API 的免费多链 DEX 行情查询：覆盖 80+ 条链的交易对价格、成交量、流动性、买卖笔数与代币资料，无需 API key，适合代币快速查询、跨链比价与轻量市场监控。",
+      "name": "DexScreener 多链 DEX 行情数据",
+      "tags": [
+        "DEX",
+        "加密行情",
+        "链上数据",
+        "跨链比价",
+        "流动性",
+        "市场监控"
+      ],
+      "notes": "本条目为源文件核对结果，执行未验证。数据边界须保留：仅当前时点快照、无历史时间序列；无 OHLCV 历史K线（文档建议改用 Birdeye 或 SolanaTracker）；无钱包/交易者数据（需 Helius 等）；无代币安全数据（需 Birdeye token_security）；搜索无分页、约 30 条上限；仅轮询、无 WebSocket；fdv/marketCap 在缺少供应量数据时可能缺失；info 仅在代币资料被认领后返回。boost 清单属付费推广信息，不构成任何项目背书，解读需谨慎。",
+      "inputsEn": [
+        "Token name, symbol, or on-chain contract/mint address for search and pair lookups",
+        "Chain ID (e.g., solana, ethereum) plus pair address for a specific pair's quote data",
+        "A pair response object including txns buy/sell counts, for buy/sell pressure analysis"
+      ],
+      "dependencies": [
+        "Python 3 与 httpx（或 curl）",
+        "DexScreener 公共 REST API（https://api.dexscreener.com，无需 API key）",
+        "可访问 api.dexscreener.com 的网络连接"
+      ],
+      "environment": "Python 3（httpx）或 curl；需可访问 https://api.dexscreener.com；无需注册或 API key；速率限制：行情端点约 300 请求/分钟，profile/boost 端点 60 请求/分钟。",
+      "method": "用 /latest/dex/search 按代币名称、符号或链上地址检索（约返回 30 个跨链交易对）；用 /latest/dex/pairs/{chain}/{pairAddress} 或 /latest/dex/tokens/{tokenAddress} 获取行情快照；对结果按 liquidity.usd 降序选取最优交易对；用响应中 txns 的 m5/h1/h6/h24 买卖笔数计算 buy_ratio 衡量买卖压力；用 /token-boosts/latest/v1 监控付费推广（boost）代币。注意 priceNative/priceUsd 为字符串，pairCreatedAt 为毫秒时间戳，需相应转换。",
+      "inputs": [
+        "代币名称、符号或链上合约/铸造地址（用于搜索与交易对查询）",
+        "链 ID（如 solana、ethereum）与交易对地址（用于指定交易对行情）",
+        "交易对响应对象（含 txns 买卖笔数，用于买卖压力分析）"
+      ],
+      "outputs": [
+        "跨链交易对清单：美元价格、流动性、24 小时成交量、买卖笔数与涨跌幅",
+        "按流动性排序的最优交易对及其行情字段",
+        "m5/h1/h6/h24 各时间窗的 buy_ratio 买卖压力指标",
+        "最近 boosted 代币清单（链、代币地址、boost 数量与描述）"
+      ],
+      "outputsEn": [
+        "Cross-chain pair list: USD price, liquidity, 24h volume, buy/sell transaction counts, and price change",
+        "Best pair ranked by liquidity with its market fields",
+        "buy_ratio buy/sell pressure metrics across m5/h1/h6/h24 windows",
+        "List of recently boosted tokens (chain, token address, boost amounts, description)"
+      ],
+      "id": "skill-ec34d95816925119",
+      "author": "agiprolabs",
+      "originalName": "dexscreener-api",
+      "repository": "https://github.com/agiprolabs/claude-trading-skills",
+      "commit": "981e1d736cdc02bdc1c55c74ec9224e956414706",
+      "sourcePath": "skills/dexscreener-api/SKILL.md",
+      "sourceUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/skills/dexscreener-api/SKILL.md",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/agiprolabs/claude-trading-skills/blob/981e1d736cdc02bdc1c55c74ec9224e956414706/LICENSE.md",
+      "sourceVerified": true,
+      "executionVerified": false
     }
   ],
   "evidence": {
     "checks": {
-      "skills": 186,
+      "skills": 189,
       "repositories": 8,
       "executionTestsRun": 0
     },
@@ -13885,7 +14145,7 @@
     },
     {
       "repository": "https://github.com/Jeromelll/finskillhub-catalog",
-      "commit": "d60a9071c752f3cd1ba05aebf8617a133ca009e5",
+      "commit": "d8fdf8e61401389a49e575682233b97f4d369a38",
       "license": "MIT",
       "licensePath": "LICENSE",
       "licenseFile": "/licenses/alphakit-LICENSE.txt",
@@ -13907,8 +14167,8 @@
           "file": "/licenses/alphakit-sellside-model-exhibits-LICENSE.txt"
         }
       ],
-      "archive": "Jeromelll--finskillhub-catalog--d60a9071c752f3cd1ba05aebf8617a133ca009e5.zip",
-      "archiveSha256": "eb3c639cf93cfff9d3099d90a6d2ba48dc87dde262173e5167e03487b98e2c69",
+      "archive": "Jeromelll--finskillhub-catalog--d8fdf8e61401389a49e575682233b97f4d369a38.zip",
+      "archiveSha256": "100991b3d90c547641f519935027e49b09bbe62d1a6d2a0504cb295f1829f11d",
       "description": "FinSkillHub 的三项原创金融研究技能，涵盖增量测算、模型展示表和股票初步研究；案例使用原创合成数据。",
       "descriptionEn": "FinSkillHub original finance research skills for incremental sizing, model exhibits and initial stock research, with original synthetic examples."
     },
